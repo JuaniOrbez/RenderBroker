@@ -1,0 +1,594 @@
+<title>Frecuencia Diaria</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,900&family=Karla:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --bg: #eeece4;
+    --surface: #ffffff;
+    --surface-2: #e4e1d6;
+    --ink: #171a24;
+    --ink-soft: #4b5164;
+    --hair: #cac6b8;
+    --accent: #a8681f;
+    --accent-ink: #ffffff;
+    --mundo: #a8681f;
+    --economia: #1f6f6b;
+    --politica: #7a2e38;
+    --focus: #1f6f6b;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #12141c;
+      --surface: #1b1e2a;
+      --surface-2: #232838;
+      --ink: #edeade;
+      --ink-soft: #a8adc0;
+      --hair: #343a4d;
+      --accent: #d99a4e;
+      --accent-ink: #171a24;
+      --mundo: #d99a4e;
+      --economia: #4fb3ad;
+      --politica: #d97a89;
+      --focus: #4fb3ad;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #12141c;
+    --surface: #1b1e2a;
+    --surface-2: #232838;
+    --ink: #edeade;
+    --ink-soft: #a8adc0;
+    --hair: #343a4d;
+    --accent: #d99a4e;
+    --accent-ink: #171a24;
+    --mundo: #d99a4e;
+    --economia: #4fb3ad;
+    --politica: #d97a89;
+    --focus: #4fb3ad;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'Karla', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--focus); }
+
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2.5rem 1.25rem 5rem;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation-duration: 0.001ms !important; transition-duration: 0.001ms !important; }
+  }
+
+  /* Masthead */
+  .masthead {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 1.75rem;
+  }
+
+  .masthead-title {
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 900;
+    font-size: clamp(2.1rem, 7vw, 3rem);
+    letter-spacing: -0.01em;
+    line-height: 0.95;
+    margin: 0;
+    text-wrap: balance;
+  }
+
+  .masthead-sub {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-top: 0.4rem;
+  }
+
+  .masthead-date {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  /* Player */
+  .player {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: var(--surface);
+    border: 1px solid var(--hair);
+    border-radius: 14px;
+    padding: 1rem 1.15rem;
+    margin-bottom: 2.25rem;
+  }
+
+  .play-btn {
+    flex: none;
+    width: 3.1rem;
+    height: 3.1rem;
+    border-radius: 50%;
+    border: none;
+    background: var(--accent);
+    color: var(--accent-ink);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.15s ease;
+  }
+  .play-btn:hover { transform: scale(1.05); }
+  .play-btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+  .play-btn svg { width: 1.15rem; height: 1.15rem; }
+
+  .player-info { flex: 1; min-width: 0; }
+  .player-label {
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .player-status {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 0.72rem;
+    color: var(--ink-soft);
+    margin-top: 0.15rem;
+  }
+
+  .wave {
+    flex: none;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    height: 1.5rem;
+  }
+  .wave span {
+    display: block;
+    width: 3px;
+    height: 40%;
+    border-radius: 2px;
+    background: var(--hair);
+    transition: background 0.2s ease;
+  }
+  .wave.active span {
+    background: var(--accent);
+    animation: bounce 0.9s ease-in-out infinite;
+  }
+  .wave.active span:nth-child(1) { animation-delay: 0s; }
+  .wave.active span:nth-child(2) { animation-delay: 0.12s; }
+  .wave.active span:nth-child(3) { animation-delay: 0.24s; }
+  .wave.active span:nth-child(4) { animation-delay: 0.36s; }
+  .wave.active span:nth-child(5) { animation-delay: 0.48s; }
+  @keyframes bounce {
+    0%, 100% { height: 25%; }
+    50% { height: 100%; }
+  }
+
+  .stop-btn {
+    flex: none;
+    border: 1px solid var(--hair);
+    background: transparent;
+    color: var(--ink-soft);
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.4rem 0.6rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .stop-btn:hover { border-color: var(--ink-soft); }
+  .stop-btn[hidden] { display: none; }
+
+  .no-tts {
+    display: none;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+  }
+  body.no-speech .player-controls { display: none; }
+  body.no-speech .no-tts { display: block; }
+
+  /* Sections */
+  .section { margin-bottom: 2.25rem; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .section-dot {
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--cat-color);
+  }
+
+  .section-title {
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin: 0;
+  }
+
+  .section[data-cat="mundo"] { --cat-color: var(--mundo); }
+  .section[data-cat="economia"] { --cat-color: var(--economia); }
+  .section[data-cat="politica"] { --cat-color: var(--politica); }
+
+  .item {
+    background: var(--surface);
+    border: 1px solid var(--hair);
+    border-left: 4px solid var(--cat-color);
+    border-radius: 10px;
+    padding: 0.95rem 1.1rem;
+    margin-bottom: 0.7rem;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+  }
+  .item:last-child { margin-bottom: 0; }
+
+  .item.speaking {
+    background: var(--surface-2);
+    box-shadow: inset 0 0 0 1.5px var(--cat-color);
+  }
+
+  .item-headline {
+    font-weight: 700;
+    font-size: 1.02rem;
+    margin: 0 0 0.3rem;
+    text-wrap: balance;
+  }
+
+  .item-body {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 0.94rem;
+    line-height: 1.5;
+  }
+
+  /* Sources */
+  .sources {
+    border-top: 1px solid var(--hair);
+    padding-top: 1.25rem;
+    margin-top: 2rem;
+  }
+
+  .sources-title {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 0.6rem;
+  }
+
+  .sources ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.9rem;
+    font-size: 0.82rem;
+  }
+
+  .sources a { color: var(--ink-soft); text-decoration: none; border-bottom: 1px dotted var(--hair); }
+  .sources a:hover { color: var(--focus); border-color: var(--focus); }
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <div>
+      <h1 class="masthead-title">Frecuencia<br>Diaria</h1>
+      <p class="masthead-sub">Mundo · Economía · Política</p>
+    </div>
+    <p class="masthead-date" id="dateLabel"></p>
+  </header>
+
+  <div class="player">
+    <button class="play-btn" id="playBtn" aria-label="Reproducir el resumen en voz alta">
+      <svg id="playIcon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+      <svg id="pauseIcon" viewBox="0 0 24 24" fill="currentColor" style="display:none"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+    </button>
+    <div class="player-info">
+      <p class="player-label">Escuchar el boletín</p>
+      <p class="player-status" id="statusLabel">Listo para reproducir</p>
+      <p class="no-tts">Este navegador no permite lectura en voz alta. El texto está más abajo.</p>
+    </div>
+    <div class="player-controls" style="display:flex; align-items:center; gap:1rem;">
+      <div class="wave" id="wave">
+        <span></span><span></span><span></span><span></span><span></span>
+      </div>
+      <button class="stop-btn" id="stopBtn" hidden>Detener</button>
+    </div>
+  </div>
+
+  <div id="sections"></div>
+
+  <div class="sources">
+    <p class="sources-title">Fuentes de hoy</p>
+    <ul id="sourceList"></ul>
+  </div>
+</div>
+
+<script>
+  // ---- Contenido del día: editar esta sección para actualizar el boletín ----
+  var NEWS = {
+    date: "jueves 20 de agosto de 2026",
+    sections: [
+      {
+        id: "mundo",
+        label: "Mundo",
+        items: [
+          {
+            headline: "Corea del Sur en alerta por el lanzamiento de misiles norcoreanos",
+            body: "Seúl denunció que Corea del Norte lanzó diez misiles balísticos, lo que elevó la tensión en la península coreana y activó los protocolos de defensa surcoreanos."
+          },
+          {
+            headline: "Colombia decreta emergencia económica tras un terremoto",
+            body: "El gobierno colombiano declaró la emergencia para poder destinar fondos extraordinarios a la reconstrucción de las zonas afectadas por el sismo."
+          },
+          {
+            headline: "Más de cien muertos por el derrumbe de una mina en República Centroafricana",
+            body: "El colapso de una mina dejó un saldo superior a las cien víctimas fatales, en uno de los accidentes mineros más graves de los últimos años en la región."
+          },
+          {
+            headline: "Avanza una epidemia en seis provincias de la República Democrática del Congo",
+            body: "Autoridades sanitarias reportan el ritmo de propagación más rápido registrado hasta ahora, con el brote activo ya en seis provincias del país."
+          }
+        ]
+      },
+      {
+        id: "economia",
+        label: "Economía",
+        items: [
+          {
+            headline: "El crecimiento económico mundial se desacelera al 2,5% en 2026",
+            body: "Los organismos internacionales proyectan que los mercados emergentes y las economías en desarrollo tendrán el menor crecimiento del ingreso per cápita desde la pandemia."
+          },
+          {
+            headline: "Caen las ventas minoristas en Estados Unidos",
+            body: "Retrocedieron 0,6 por ciento, el primer descenso en nueve meses, mientras los mercados vigilan de cerca la inflación, las tasas de interés y el costo del endeudamiento."
+          },
+          {
+            headline: "Corea del Sur mejora sus perspectivas de crecimiento",
+            body: "El Ministerio de Finanzas surcoreano señaló que la probabilidad de alcanzar un crecimiento del tres por ciento en 2026 aumentó, impulsada por las exportaciones y la demanda interna."
+          },
+          {
+            headline: "Persisten los riesgos geopolíticos sobre la economía global",
+            body: "Analistas advierten que una intensificación de las hostilidades o nuevas perturbaciones en los mercados de materias primas podrían agravar el panorama económico."
+          }
+        ]
+      },
+      {
+        id: "politica",
+        label: "Política",
+        items: [
+          {
+            headline: "Estados Unidos intensifica la presión sobre Irán",
+            body: "La Casa Blanca definió su estrategia como un «Día D económico» y pidió a sus aliados sumarse al aislamiento de la nación persa."
+          },
+          {
+            headline: "La Corte Penal Internacional rechaza sanciones de Estados Unidos",
+            body: "El tribunal desestimó las sanciones impuestas contra el abogado Abdoulaye Seye y su presidenta, Tomoko Akane, en un nuevo cruce entre Washington y la Corte."
+          },
+          {
+            headline: "Encuesta revela rechazo a las ganancias familiares con activos digitales",
+            body: "Un sondeo de Reuters e Ipsos encontró que el 63 por ciento de los consultados considera inapropiado que familias de funcionarios se beneficien con criptoactivos."
+          }
+        ]
+      }
+    ],
+    sources: [
+      { name: "Euronews", url: "https://es.euronews.com/video/2026/08/20/ultimas-noticias-20-agosto-2026-manana" },
+      { name: "Telemundo", url: "https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/esto-es-noticia-en-el-mundo-este-jueves-20-de-agosto-de-2026-tmvo13215574" },
+      { name: "CNN en Español", url: "https://cnnespanol.cnn.com/" },
+      { name: "Banco Mundial", url: "https://www.bancomundial.org/es/publication/global-economic-prospects" },
+      { name: "Pueblo Combatiente", url: "https://pueblocombatiente.wordpress.com/2026/08/20/resumen-de-noticias-internacionales-20-08-2026/" }
+    ]
+  };
+  // ---- Fin del contenido editable ----
+
+  document.getElementById("dateLabel").textContent = NEWS.date;
+
+  var CAT_LABEL = { mundo: "Mundo", economia: "Economía", politica: "Política" };
+
+  var sectionsEl = document.getElementById("sections");
+  NEWS.sections.forEach(function (sec) {
+    var secEl = document.createElement("section");
+    secEl.className = "section";
+    secEl.dataset.cat = sec.id;
+
+    var head = document.createElement("div");
+    head.className = "section-head";
+    head.innerHTML = '<span class="section-dot"></span><h2 class="section-title">' + sec.label + '</h2>';
+    secEl.appendChild(head);
+
+    sec.items.forEach(function (item, i) {
+      var itemEl = document.createElement("article");
+      itemEl.className = "item";
+      itemEl.id = sec.id + "-" + i;
+      itemEl.innerHTML =
+        '<p class="item-headline">' + item.headline + '</p>' +
+        '<p class="item-body">' + item.body + '</p>';
+      secEl.appendChild(itemEl);
+    });
+
+    sectionsEl.appendChild(secEl);
+  });
+
+  var sourceList = document.getElementById("sourceList");
+  NEWS.sources.forEach(function (s) {
+    var li = document.createElement("li");
+    var a = document.createElement("a");
+    a.href = s.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = s.name;
+    li.appendChild(a);
+    sourceList.appendChild(li);
+  });
+
+  // ---- Lectura en voz alta ----
+  var playBtn = document.getElementById("playBtn");
+  var playIcon = document.getElementById("playIcon");
+  var pauseIcon = document.getElementById("pauseIcon");
+  var stopBtn = document.getElementById("stopBtn");
+  var statusLabel = document.getElementById("statusLabel");
+  var wave = document.getElementById("wave");
+
+  var hasSpeech = "speechSynthesis" in window;
+  if (!hasSpeech) {
+    document.body.classList.add("no-speech");
+  }
+
+  var queue = [];
+  var speaking = false;
+  var paused = false;
+
+  function buildQueue() {
+    var list = [];
+    list.push({ text: "Boletín de hoy, " + NEWS.date + "." , id: null });
+    NEWS.sections.forEach(function (sec) {
+      list.push({ text: CAT_LABEL[sec.id] + ".", id: null });
+      sec.items.forEach(function (item, i) {
+        list.push({
+          text: item.headline + ". " + item.body,
+          id: sec.id + "-" + i
+        });
+      });
+    });
+    return list;
+  }
+
+  function pickVoice() {
+    var voices = window.speechSynthesis.getVoices();
+    var preferred = ["es-AR", "es-ES", "es-MX", "es-US"];
+    for (var p = 0; p < preferred.length; p++) {
+      for (var v = 0; v < voices.length; v++) {
+        if (voices[v].lang === preferred[p]) return voices[v];
+      }
+    }
+    for (var v2 = 0; v2 < voices.length; v2++) {
+      if (voices[v2].lang && voices[v2].lang.indexOf("es") === 0) return voices[v2];
+    }
+    return null;
+  }
+
+  function clearActive() {
+    document.querySelectorAll(".item.speaking").forEach(function (el) {
+      el.classList.remove("speaking");
+    });
+  }
+
+  function setPlayingUI(isPlaying) {
+    playIcon.style.display = isPlaying ? "none" : "block";
+    pauseIcon.style.display = isPlaying ? "block" : "none";
+    wave.classList.toggle("active", isPlaying);
+    stopBtn.hidden = !(isPlaying || paused);
+    playBtn.setAttribute("aria-label", isPlaying ? "Pausar la lectura" : "Reproducir el resumen en voz alta");
+  }
+
+  function speakNext(index) {
+    if (index >= queue.length) {
+      speaking = false;
+      paused = false;
+      clearActive();
+      setPlayingUI(false);
+      statusLabel.textContent = "Listo para reproducir";
+      return;
+    }
+    var entry = queue[index];
+    var utter = new SpeechSynthesisUtterance(entry.text);
+    utter.lang = "es-AR";
+    var voice = pickVoice();
+    if (voice) utter.lang = voice.lang, utter.voice = voice;
+    utter.rate = 1;
+
+    utter.onstart = function () {
+      clearActive();
+      if (entry.id) {
+        var el = document.getElementById(entry.id);
+        if (el) {
+          el.classList.add("speaking");
+          el.scrollIntoView({ behavior: "smooth", block: "center" });
+          statusLabel.textContent = el.querySelector(".item-headline").textContent;
+        }
+      } else {
+        statusLabel.textContent = "Reproduciendo…";
+      }
+    };
+    utter.onend = function () {
+      speakNext(index + 1);
+    };
+    utter.onerror = function () {
+      speakNext(index + 1);
+    };
+
+    window.speechSynthesis.speak(utter);
+  }
+
+  function startSpeaking() {
+    queue = buildQueue();
+    speaking = true;
+    paused = false;
+    setPlayingUI(true);
+    speakNext(0);
+  }
+
+  function togglePlay() {
+    if (!hasSpeech) return;
+    if (!speaking && !paused) {
+      startSpeaking();
+    } else if (speaking && !paused) {
+      window.speechSynthesis.pause();
+      paused = true;
+      setPlayingUI(false);
+      statusLabel.textContent = "En pausa";
+    } else if (paused) {
+      window.speechSynthesis.resume();
+      paused = false;
+      setPlayingUI(true);
+    }
+  }
+
+  function stopSpeaking() {
+    if (!hasSpeech) return;
+    window.speechSynthesis.cancel();
+    speaking = false;
+    paused = false;
+    clearActive();
+    setPlayingUI(false);
+    statusLabel.textContent = "Listo para reproducir";
+  }
+
+  playBtn.addEventListener("click", togglePlay);
+  stopBtn.addEventListener("click", stopSpeaking);
+
+  if (hasSpeech && window.speechSynthesis.onvoiceschanged !== undefined) {
+    window.speechSynthesis.onvoiceschanged = function () {};
+  }
+
+  window.addEventListener("beforeunload", function () {
+    if (hasSpeech) window.speechSynthesis.cancel();
+  });
+</script>
