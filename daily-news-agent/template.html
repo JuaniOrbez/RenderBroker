@@ -16,6 +16,7 @@
     --mundo: #a8681f;
     --economia: #1f6f6b;
     --politica: #7a2e38;
+    --tecnologia: #4d4a91;
     --focus: #1f6f6b;
   }
 
@@ -32,6 +33,7 @@
       --mundo: #d99a4e;
       --economia: #4fb3ad;
       --politica: #d97a89;
+      --tecnologia: #9d97e0;
       --focus: #4fb3ad;
     }
   }
@@ -48,6 +50,7 @@
     --mundo: #d99a4e;
     --economia: #4fb3ad;
     --politica: #d97a89;
+    --tecnologia: #9d97e0;
     --focus: #4fb3ad;
   }
 
@@ -234,6 +237,7 @@
   .section[data-cat="mundo"] { --cat-color: var(--mundo); }
   .section[data-cat="economia"] { --cat-color: var(--economia); }
   .section[data-cat="politica"] { --cat-color: var(--politica); }
+  .section[data-cat="tecnologia"] { --cat-color: var(--tecnologia); }
 
   .item {
     background: var(--surface);
@@ -299,7 +303,7 @@
   <header class="masthead">
     <div>
       <h1 class="masthead-title">Frecuencia<br>Diaria</h1>
-      <p class="masthead-sub">Mundo · Economía · Política</p>
+      <p class="masthead-sub">Mundo · Economía · Política · Tecnología</p>
     </div>
     <p class="masthead-date" id="dateLabel"></p>
   </header>
@@ -333,27 +337,27 @@
 <script>
   // ---- Contenido del día: editar esta sección para actualizar el boletín ----
   var NEWS = {
-    date: "jueves 20 de agosto de 2026",
+    date: "viernes 21 de agosto de 2026",
     sections: [
       {
         id: "mundo",
         label: "Mundo",
         items: [
           {
-            headline: "Corea del Sur en alerta por el lanzamiento de misiles norcoreanos",
-            body: "Seúl denunció que Corea del Norte lanzó diez misiles balísticos, lo que elevó la tensión en la península coreana y activó los protocolos de defensa surcoreanos."
+            headline: "Incendio en un ferry de pasajeros frente a las costas de Java, Indonesia",
+            body: "El siniestro dejó al menos cinco muertos y activó un operativo de rescate en la zona, frente a la costa de la isla indonesia."
           },
           {
-            headline: "Colombia decreta emergencia económica tras un terremoto",
-            body: "El gobierno colombiano declaró la emergencia para poder destinar fondos extraordinarios a la reconstrucción de las zonas afectadas por el sismo."
+            headline: "Escala la tensión entre Estados Unidos e Irán por el estrecho de Ormuz",
+            body: "El conflicto se profundiza en torno a una tarifa que Washington pretende cobrar por el tránsito en el estrecho, un paso clave para el comercio de petróleo."
           },
           {
-            headline: "Más de cien muertos por el derrumbe de una mina en República Centroafricana",
-            body: "El colapso de una mina dejó un saldo superior a las cien víctimas fatales, en uno de los accidentes mineros más graves de los últimos años en la región."
+            headline: "El Cuerno de África, atrapado en una sucesión de guerras y crisis interconectadas",
+            body: "Sudán y Etiopía quedaron en el centro de una región marcada por conflictos que se retroalimentan entre sí."
           },
           {
-            headline: "Avanza una epidemia en seis provincias de la República Democrática del Congo",
-            body: "Autoridades sanitarias reportan el ritmo de propagación más rápido registrado hasta ahora, con el brote activo ya en seis provincias del país."
+            headline: "Colombia organiza un partido solidario para los damnificados del terremoto",
+            body: "Leyendas del fútbol colombiano participan del encuentro «Levantemos a Colombia», convocado para asistir a las víctimas del sismo del 10 de agosto."
           }
         ]
       },
@@ -362,20 +366,20 @@
         label: "Economía",
         items: [
           {
-            headline: "El crecimiento económico mundial se desacelera al 2,5% en 2026",
-            body: "Los organismos internacionales proyectan que los mercados emergentes y las economías en desarrollo tendrán el menor crecimiento del ingreso per cápita desde la pandemia."
+            headline: "El conflicto en Medio Oriente empuja el crecimiento mundial a su nivel más bajo desde la pandemia",
+            body: "Los organismos internacionales mantienen la proyección de un crecimiento global de 2,5 por ciento para 2026, golpeado por la guerra y sus efectos sobre el comercio."
           },
           {
-            headline: "Caen las ventas minoristas en Estados Unidos",
-            body: "Retrocedieron 0,6 por ciento, el primer descenso en nueve meses, mientras los mercados vigilan de cerca la inflación, las tasas de interés y el costo del endeudamiento."
+            headline: "China incumple su objetivo de crecimiento por primera vez desde la pandemia",
+            body: "El impacto de la guerra en Irán sobre el comercio mundial golpea a la segunda economía más grande del planeta."
           },
           {
-            headline: "Corea del Sur mejora sus perspectivas de crecimiento",
-            body: "El Ministerio de Finanzas surcoreano señaló que la probabilidad de alcanzar un crecimiento del tres por ciento en 2026 aumentó, impulsada por las exportaciones y la demanda interna."
+            headline: "La administración Trump intensifica la recompra de bonos a largo plazo",
+            body: "La maniobra generó comparaciones con la «Operación Twist» que aplicó la Reserva Federal en 2011 para bajar las tasas de largo plazo."
           },
           {
-            headline: "Persisten los riesgos geopolíticos sobre la economía global",
-            body: "Analistas advierten que una intensificación de las hostilidades o nuevas perturbaciones en los mercados de materias primas podrían agravar el panorama económico."
+            headline: "Sube el costo de endeudamiento en los mercados emergentes",
+            body: "El aumento de la deuda global golpea con más fuerza a las economías en desarrollo que ya estaban más comprometidas financieramente."
           }
         ]
       },
@@ -384,33 +388,60 @@
         label: "Política",
         items: [
           {
-            headline: "Estados Unidos intensifica la presión sobre Irán",
-            body: "La Casa Blanca definió su estrategia como un «Día D económico» y pidió a sus aliados sumarse al aislamiento de la nación persa."
+            headline: "España impone controles fronterizos a los viajeros que llegan desde Italia",
+            body: "La medida se da en medio de una disputa migratoria dentro de la Unión Europea entre ambos países."
           },
           {
-            headline: "La Corte Penal Internacional rechaza sanciones de Estados Unidos",
-            body: "El tribunal desestimó las sanciones impuestas contra el abogado Abdoulaye Seye y su presidenta, Tomoko Akane, en un nuevo cruce entre Washington y la Corte."
+            headline: "La justicia marroquí procesa a 86 personas por incidentes ligados a la crisis migratoria",
+            body: "La causa avanza en Marruecos mientras crece la tensión por los flujos migratorios hacia Europa."
           },
           {
-            headline: "Encuesta revela rechazo a las ganancias familiares con activos digitales",
-            body: "Un sondeo de Reuters e Ipsos encontró que el 63 por ciento de los consultados considera inapropiado que familias de funcionarios se beneficien con criptoactivos."
+            headline: "La política antiinmigratoria de Trump genera preocupación entre los sectores industriales de Estados Unidos",
+            body: "Empresarios advierten sobre el impacto que las nuevas restricciones podrían tener sobre la disponibilidad de mano de obra."
+          },
+          {
+            headline: "Emiratos Árabes Unidos evalúa abandonar la OPEP",
+            body: "La posible salida podría fragmentar aún más a Oriente Próximo y profundizar la rivalidad entre las potencias del Golfo."
+          }
+        ]
+      },
+      {
+        id: "tecnologia",
+        label: "Tecnología",
+        items: [
+          {
+            headline: "Apple lanza un parche de emergencia por una vulnerabilidad crítica en macOS",
+            body: "La falla, identificada como CVE-2026-65400, permitía el acceso remoto sin contraseña y ya estaba siendo explotada activamente, según el Centro Nacional de Ciberseguridad de los Países Bajos."
+          },
+          {
+            headline: "Apple revisa por completo las tarifas y condiciones de la App Store en la Unión Europea",
+            body: "Los cambios entran en vigor el primero de octubre y responden a las exigencias regulatorias europeas."
+          },
+          {
+            headline: "Bitcoin se dispara hasta los setenta y dos mil trescientos cuarenta dólares",
+            body: "La criptomoneda subió casi doce por ciento en veinticuatro horas, impulsada por señales positivas del sector cripto desde la Casa Blanca."
+          },
+          {
+            headline: "Trump se reúne con ejecutivos de Coinbase, Kraken y Blockchain.com e impulsa la agenda cripto",
+            body: "El respaldo oficial a la Ley de Claridad y a una reserva estratégica de criptomonedas de Estados Unidos disparó más de quinientos millones de dólares hacia los ETF de bitcoin y desató liquidaciones forzosas por más de dos mil setecientos millones de dólares en el mercado de derivados."
           }
         ]
       }
     ],
     sources: [
-      { name: "Euronews", url: "https://es.euronews.com/video/2026/08/20/ultimas-noticias-20-agosto-2026-manana" },
-      { name: "Telemundo", url: "https://www.telemundo.com/noticias/noticias-telemundo/internacional/video/esto-es-noticia-en-el-mundo-este-jueves-20-de-agosto-de-2026-tmvo13215574" },
-      { name: "CNN en Español", url: "https://cnnespanol.cnn.com/" },
+      { name: "Infobae", url: "https://www.infobae.com/america/agencias/2026/08/20/viernes-21-de-agosto-de-2026-1930-gmt/" },
+      { name: "CNN en Español", url: "https://cnnespanol.cnn.com/mundo/" },
       { name: "Banco Mundial", url: "https://www.bancomundial.org/es/publication/global-economic-prospects" },
-      { name: "Pueblo Combatiente", url: "https://pueblocombatiente.wordpress.com/2026/08/20/resumen-de-noticias-internacionales-20-08-2026/" }
+      { name: "El Independiente", url: "https://www.elindependiente.com/internacional/" },
+      { name: "La Nación (Tecnología)", url: "https://www.lanacion.com.ar/tecnologia/" },
+      { name: "CriptoNoticias", url: "https://www.criptonoticias.com/" }
     ]
   };
   // ---- Fin del contenido editable ----
 
   document.getElementById("dateLabel").textContent = NEWS.date;
 
-  var CAT_LABEL = { mundo: "Mundo", economia: "Economía", politica: "Política" };
+  var CAT_LABEL = { mundo: "Mundo", economia: "Economía", politica: "Política", tecnologia: "Tecnología" };
 
   var sectionsEl = document.getElementById("sections");
   NEWS.sections.forEach(function (sec) {
