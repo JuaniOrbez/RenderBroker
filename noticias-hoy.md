@@ -1,71 +1,68 @@
-# Frecuencia Diaria — viernes 21 de agosto de 2026
+# Frecuencia Diaria — sábado 22 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Incendio en un ferry de pasajeros frente a las costas de Java, Indonesia.**
-  El siniestro dejó al menos cinco muertos y activó un operativo de rescate en la zona, frente a la costa de la isla indonesia.
+- **Concierto solidario por la reconstrucción de Colombia.**
+  Karol G, Miguel Bosé, Sebastián Yatra, Maluma, Andrés Cepeda y Silvestre Dangond se unen en «Voces por la vida» para recaudar fondos para las zonas afectadas por el terremoto de magnitud 7,4 del 10 de agosto.
 
-- **Escala la tensión entre Estados Unidos e Irán por el estrecho de Ormuz.**
-  El conflicto se profundiza en torno a una tarifa que Washington pretende cobrar por el tránsito en el estrecho, un paso clave para el comercio de petróleo.
+- **Un sismo de magnitud 7,2 sacude el sur de Perú.**
+  El movimiento no provocó daños mayores por la profundidad de su origen y se suma a una cadena de más de 500 sismos registrados este año en la región andina.
 
-- **El Cuerno de África, atrapado en una sucesión de guerras y crisis interconectadas.**
-  Sudán y Etiopía quedaron en el centro de una región marcada por conflictos que se retroalimentan entre sí.
+- **Bélgica sigue combatiendo el mayor incendio forestal de su historia.**
+  Las llamas, activas desde el 14 de agosto, ya arrasaron unas 3.000 hectáreas de la reserva natural más antigua de Valonia, en el sur del país.
 
-- **Colombia organiza un partido solidario para los damnificados del terremoto.**
-  Leyendas del fútbol colombiano participan del encuentro «Levantemos a Colombia», convocado para asistir a las víctimas del sismo del 10 de agosto.
+- **Beijing celebra los Juegos Mundiales de Robots Humanoides.**
+  La primera jornada completa incluyó pruebas de atletismo, fútbol, tenis de mesa y kickboxing, además de una demostración de redes 5G avanzadas.
 
 ## Economía
 
-- **El conflicto en Medio Oriente empuja el crecimiento mundial a su nivel más bajo desde la pandemia.**
-  Los organismos internacionales mantienen la proyección de un crecimiento global de 2,5% para 2026, golpeado por la guerra y sus efectos sobre el comercio.
+- **El crecimiento mundial se desacelera al 2,5% en 2026.**
+  Los organismos internacionales proyectan un repunte para 2027 y 2028, a medida que se recuperen los suministros de energía y se fortalezca el comercio global.
 
-- **China incumple su objetivo de crecimiento por primera vez desde la pandemia.**
-  El impacto de la guerra en Irán sobre el comercio mundial golpea a la segunda economía más grande del planeta.
+- **El conflicto en Medio Oriente sigue presionando al alza los precios de la energía.**
+  El impacto golpea con más fuerza a los mercados emergentes y a las economías en desarrollo, que registran el menor crecimiento del ingreso per cápita desde la pandemia.
 
-- **La administración Trump intensifica la recompra de bonos a largo plazo.**
-  La maniobra generó comparaciones con la «Operación Twist» que aplicó la Reserva Federal en 2011 para bajar las tasas de largo plazo.
+- **Amazon se suma al selecto grupo de empresas valuadas en tres billones de dólares.**
+  La compañía se disparó un 20% en bolsa en apenas dos días de cotización.
 
-- **Sube el costo de endeudamiento en los mercados emergentes.**
-  El aumento de la deuda global golpea con más fuerza a las economías en desarrollo que ya estaban más comprometidas financieramente.
+- **Los mercados siguen de cerca la política de tasas de la Reserva Federal.**
+  Las tensiones comerciales y geopolíticas continúan condicionando las decisiones de la Fed sobre el rumbo de las tasas de interés en Estados Unidos.
 
 ## Política
 
-- **España impone controles fronterizos a los viajeros que llegan desde Italia.**
-  La medida se da en medio de una disputa migratoria dentro de la Unión Europea entre ambos países.
+- **Continúa la violencia de colonos en Cisjordania pese a la condena internacional.**
+  Avanzan los planes de expansión que dividirían el enclave en dos partes, mientras Israel mantiene sus ataques en Gaza.
 
-- **La justicia marroquí procesa a 86 personas por incidentes ligados a la crisis migratoria.**
-  La causa avanza en Marruecos mientras crece la tensión por los flujos migratorios hacia Europa.
+- **Se reducen las acciones militares en el estrecho de Ormuz.**
+  Irán y Estados Unidos mantienen el intercambio de ataques a nivel retórico, aunque disminuyó la actividad militar directa en la zona.
 
-- **La política antiinmigratoria de Trump genera preocupación entre los sectores industriales de Estados Unidos.**
-  Empresarios advierten sobre el impacto que las nuevas restricciones podrían tener sobre la disponibilidad de mano de obra.
+- **Ucrania prepara su infraestructura energética para otro invierno difícil.**
+  Se intensifican los ataques rusos contra la generación eléctrica y la extracción de gas, en un nuevo intento de Moscú por «congelar» al país invadido.
 
-- **Emiratos Árabes Unidos evalúa abandonar la OPEP.**
-  La posible salida podría fragmentar aún más a Oriente Próximo y profundizar la rivalidad entre las potencias del Golfo.
+- **Montevideo es sede del tercer Congreso Panamericano.**
+  Más de 100 legisladores y líderes políticos de la región se reúnen durante tres días para discutir la agenda regional.
 
 ## Tecnología
 
-- **Apple lanza un parche de emergencia por una vulnerabilidad crítica en macOS.**
-  La falla, identificada como CVE-2026-65400, permitía el acceso remoto sin contraseña y ya estaba siendo explotada activamente, según el Centro Nacional de Ciberseguridad de los Países Bajos.
+- **Bitcoin sube 23% en agosto y toca los $77.000.**
+  El repunte está impulsado por recompras de inversores, liquidación de posiciones cortas y una mejora en el entorno regulatorio de Estados Unidos.
 
-- **Apple revisa por completo las tarifas y condiciones de la App Store en la Unión Europea.**
-  Los cambios entran en vigor el 1 de octubre y responden a las exigencias regulatorias europeas.
+- **La SEC avanza en la regulación del sector cripto.**
+  Los ETF de bitcoin captaron más de $1.000 millones en la última semana, mientras Ethereum sube 27% y Solana 20%.
 
-- **Bitcoin se dispara hasta los $72.340.**
-  La criptomoneda subió casi 12% en 24 horas, impulsada por señales positivas del sector cripto desde la Casa Blanca.
-
-- **Trump se reúne con ejecutivos de Coinbase, Kraken y Blockchain.com e impulsa la agenda cripto.**
-  El respaldo oficial a la Ley de Claridad y a una reserva estratégica de criptomonedas de Estados Unidos disparó más de $500 millones hacia los ETF de bitcoin y desató liquidaciones forzosas por más de $2.700 millones en el mercado de derivados.
+- **Los autos eléctricos a batería ganan terreno entre quienes los prueban por primera vez.**
+  Un estudio de JD Power encontró que la experiencia de manejo mejora significativamente la percepción de los conductores sobre este tipo de vehículos.
 
 ## Fuentes
 
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/20/viernes-21-de-agosto-de-2026-1930-gmt/)
-- [CNN en Español](https://cnnespanol.cnn.com/mundo/)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/22/sabado-22-de-agosto-de-2026-0200-gmt/)
+- [Euronews](https://es.euronews.com/video/2026/08/22/ultimas-noticias-22-agosto-2026-manana)
 - [Banco Mundial](https://www.bancomundial.org/es/publication/global-economic-prospects)
-- [El Independiente](https://www.elindependiente.com/internacional/)
-- [La Nación (Tecnología)](https://www.lanacion.com.ar/tecnologia/)
-- [CriptoNoticias](https://www.criptonoticias.com/)
+- [Periodista Digital](https://www.periodistadigital.com/periodismo/20260822/10-asuntos-dominan-actualidad-sabado-22-agosto-2026-noticia-689405240165/)
+- [El Español (Invertia)](https://www.elespanol.com/invertia/mercados/20260822/mercado-cripto-acelera-bitcoin-sube-agosto-impulsado-recompras-perspectivas-regulacion/1003744359334_0.html)
+- [La Nación (Bitcoin)](https://www.lanacion.com.ar/economia/IA/precio-del-bitcoin-hoy-actualizacion-en-tiempo-real-al-22-de-agosto-nid22082026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
