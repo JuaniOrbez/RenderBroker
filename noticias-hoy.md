@@ -1,65 +1,65 @@
-# Frecuencia Diaria — domingo 23 de agosto de 2026
+# Frecuencia Diaria — lunes 24 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Concierto solidario «Voces por la vida» en Bogotá.**
-  Karol G, Miguel Bosé, Sebastián Yatra, Maluma, Andrés Cepeda y Silvestre Dangond se unen para recaudar fondos para la reconstrucción de las zonas de Colombia afectadas por el terremoto de magnitud 7,4 del 10 de agosto.
+- **Un tribunal sirio dicta veredicto contra el ex gran muftí Ahmed Hasun.**
+  Está acusado de incitar a la violencia contra civiles en zonas opositoras como Alepo e Idlib y de instar al Ejército a respaldar al régimen de Bachar al Asad.
 
-- **Macron y Mohamed Bin Salmán clausuran la Copa del Mundo de Esports en París.**
-  El presidente francés y el príncipe heredero saudí cierran juntos la tercera edición del torneo internacional.
+- **China lanza la misión lunar Chang'e-7 rumbo al polo sur de la Luna.**
+  La sonda buscará explorar esa región lunar, de particular interés por la posible presencia de agua helada.
 
-- **El rey Abdalá II de Jordania visita oficialmente China.**
-  Está previsto que se reúna con el presidente chino, Xi Jinping, en el marco de una agenda de cooperación bilateral.
+- **Ulán Bator continúa la Convención de la ONU de Lucha contra la Desertificación.**
+  La secretaria ejecutiva de la CNULD, Yasmine Fouad, situó a la financiación privada en el centro del debate de la COP17.
 
-- **Ulán Bator es sede de la Convención de la ONU de Lucha contra la Desertificación.**
-  Delegaciones de todo el mundo debaten estrategias frente al avance de la desertificación y la degradación de tierras.
+- **El BID y la JICA dialogan sobre el futuro de la cooperación entre Japón y América Latina.**
+  Ilan Goldfajn, del Banco Interamericano de Desarrollo, y Akihiko Tanaka, de la agencia japonesa, ofrecieron una entrevista conjunta sobre la relación bilateral.
 
 ## Economía
 
-- **Canadá se prepara para una guerra comercial prolongada con Estados Unidos.**
-  Fracasaron las negociaciones comerciales y Donald Trump impuso nuevos aranceles del 50% a productos clave de la economía canadiense.
-
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  Los organismos internacionales proyectan un repunte para 2027 y 2028, a medida que se recuperen los suministros de energía y se fortalezca el comercio global.
+  El conflicto en Medio Oriente lleva al crecimiento global a su nivel más bajo desde la pandemia de covid-19.
 
-- **El conflicto en Medio Oriente sigue presionando al alza los precios de la energía.**
-  El impacto golpea con más fuerza a los mercados emergentes y a las economías en desarrollo, que registran el menor crecimiento del ingreso per cápita desde la pandemia.
+- **La guerra en Medio Oriente dispara los precios de la energía.**
+  El repunte de la inflación que provoca abre paso a expectativas de una política monetaria más restrictiva.
 
-- **Estados Unidos es sede del foro de Jackson Hole y de la reunión de Finanzas del G20.**
-  Ambos encuentros se dan en un momento marcado por el creciente volumen de la deuda de la primera economía mundial.
+- **Persisten los riesgos adversos para la economía global.**
+  Una posible intensificación de las hostilidades, nuevas perturbaciones en los mercados de materias primas y más tensión geopolítica podrían agravar el panorama.
+
+- **Los organismos internacionales piden resguardar la seguridad energética y alimentaria.**
+  A nivel nacional, remarcan la necesidad de controlar la inflación, fortalecer la sostenibilidad fiscal y respaldar la creación de empleo.
 
 ## Política
 
-- **Brasil celebra el primer debate presidencial sin Lula ni Flávio Bolsonaro.**
-  El debate, organizado por la televisión Band, estuvo marcado por la ausencia del presidente en ejercicio y del principal candidato opositor.
+- **Más de 50 ataques coordinados sacuden el sur de Tailandia.**
+  Los ataques con artefactos explosivos, ocurridos en tres provincias del extremo sur del país, dejaron al menos dos civiles heridos en una región marcada por una insurgencia separatista de décadas.
 
-- **La reforma antidelincuencia de José Antonio Kast alarma al espectro político chileno.**
-  El proyecto le permitiría al presidente de Chile decretar discrecionalmente un estado de excepción por ocho meses y restringir derechos.
+- **El encarecimiento del costo de vida amenaza la reelección de Lula en Brasil.**
+  El presidente busca un cuarto mandato en las elecciones de octubre, en un contexto económico que erosiona su respaldo popular.
 
-- **Ecuador cierra la visita oficial de Daniel Noboa a China.**
-  La agenda incluyó el interés chino por invertir en los sectores de energía y minería del país.
+- **Human Rights Watch pide medidas contra el reclutamiento de menores en Colombia.**
+  La ONG le solicitó al presidente Abelardo de la Espriella que actúe frente al aumento del reclutamiento de niños por parte de grupos armados.
 
 ## Tecnología
 
-- **Bitcoin cotiza hoy a $76.479.**
-  La criptomoneda sube 2,1% en 24 horas y 20,5% respecto de la semana pasada, con una capitalización de mercado superior a $1,53 billones.
+- **OpenAI habilita su plataforma publicitaria en 31 países europeos.**
+  El lanzamiento arranca hoy y marca la expansión de su modelo de negocio basado en publicidad hacia el mercado europeo.
 
-- **Ethereum, Solana y otras altcoins acompañan la suba de bitcoin.**
-  Ethereum opera cerca de los $2.419, mientras Solana, BNB y Cardano también registran ganancias en las últimas 24 horas.
+- **Bitcoin cotiza hoy a $77.430.**
+  La criptomoneda sube 1,26% en 24 horas y 21,6% respecto de la semana pasada, con una capitalización de mercado de más de $1,55 billones.
 
-- **La SEC continúa avanzando en la regulación del sector cripto en Estados Unidos.**
-  El marco regulatorio más claro es uno de los factores que impulsó al mercado cripto a subir cerca de 20% en la última semana.
+- **El mercado cripto total supera los $2,5 billones.**
+  Ethereum sube a $2.453, mientras Solana, BNB y Cardano también registran ganancias en las últimas 24 horas.
 
 ## Fuentes
 
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/23/domingo-23-de-agosto-de-2026-0200-gmt/)
-- [Euronews](https://es.euronews.com/video/2026/08/23/ultimas-noticias-23-agosto-2026-manana)
-- [Yahoo Noticias](https://es-us.noticias.yahoo.com/noticias-23-agosto-2026-mediod%C3%ADa-100025319.html)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/24/lunes-24-de-agosto-de-2026-0700-gmt/)
+- [Euronews](https://es.euronews.com/video/2026/08/24/ultimas-noticias-24-agosto-2026-manana)
+- [Yahoo Noticias](https://es-us.noticias.yahoo.com/noticias-24-agosto-2026-ma%C3%B1ana-050008365.html)
 - [Banco Mundial](https://www.bancomundial.org/es/publication/global-economic-prospects)
-- [La Nación (Bitcoin)](https://www.lanacion.com.ar/economia/IA/bitcoin-hoy-la-cotizacion-al-23-de-agosto-nid23082026/)
-- [La Nación (Criptomonedas)](https://www.lanacion.com.ar/economia/IA/criptomonedas-hoy-cotizacion-de-las-principales-divisas-digitales-al-23-de-agosto-nid23082026/)
+- [La Nación (Bitcoin)](https://www.lanacion.com.ar/economia/IA/bitcoin-hoy-la-cotizacion-al-24-de-agosto-nid24082026/)
+- [La Nación (Criptomonedas)](https://www.lanacion.com.ar/economia/IA/criptomonedas-hoy-cotizacion-de-las-principales-divisas-digitales-al-24-de-agosto-nid24082026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
