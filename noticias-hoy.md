@@ -1,65 +1,62 @@
-# Frecuencia Diaria — lunes 24 de agosto de 2026
+# Frecuencia Diaria — martes 25 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Un tribunal sirio dicta veredicto contra el ex gran muftí Ahmed Hasun.**
-  Está acusado de incitar a la violencia contra civiles en zonas opositoras como Alepo e Idlib y de instar al Ejército a respaldar al régimen de Bachar al Asad.
-
-- **China lanza la misión lunar Chang'e-7 rumbo al polo sur de la Luna.**
-  La sonda buscará explorar esa región lunar, de particular interés por la posible presencia de agua helada.
-
 - **Ulán Bator continúa la Convención de la ONU de Lucha contra la Desertificación.**
-  La secretaria ejecutiva de la CNULD, Yasmine Fouad, situó a la financiación privada en el centro del debate de la COP17.
+  Delegaciones de todo el mundo siguen debatiendo estrategias frente al avance de la desertificación y la degradación de tierras.
 
-- **El BID y la JICA dialogan sobre el futuro de la cooperación entre Japón y América Latina.**
-  Ilan Goldfajn, del Banco Interamericano de Desarrollo, y Akihiko Tanaka, de la agencia japonesa, ofrecieron una entrevista conjunta sobre la relación bilateral.
+- **Amnistía Internacional entrega 27.000 cartas para el artista cubano Luis Manuel Otero Alcántara.**
+  El gesto, realizado en un evento en Miami, busca visibilizar la situación del artista y expreso político cubano.
+
+- **Arranca en África la septuagésima sexta sesión del Comité Regional de la OMS.**
+  El encuentro se extenderá hasta el 28 de agosto y reunirá a delegaciones sanitarias de todo el continente.
 
 ## Economía
 
+- **El petróleo Brent cae más de 25% y baja a $88 el barril.**
+  El retroceso marca una de las caídas más pronunciadas del año para el crudo de referencia europeo.
+
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente lleva al crecimiento global a su nivel más bajo desde la pandemia de covid-19.
+  El conflicto en Medio Oriente sigue llevando al crecimiento global a su nivel más bajo desde la pandemia.
 
-- **La guerra en Medio Oriente dispara los precios de la energía.**
-  El repunte de la inflación que provoca abre paso a expectativas de una política monetaria más restrictiva.
+- **Volkswagen concentrará la mitad de sus nuevos despidos en Alemania.**
+  El consejero delegado de la automotriz argumentó que sus costos fijos son un 30% más altos que los de la competencia.
 
-- **Persisten los riesgos adversos para la economía global.**
-  Una posible intensificación de las hostilidades, nuevas perturbaciones en los mercados de materias primas y más tensión geopolítica podrían agravar el panorama.
-
-- **Los organismos internacionales piden resguardar la seguridad energética y alimentaria.**
-  A nivel nacional, remarcan la necesidad de controlar la inflación, fortalecer la sostenibilidad fiscal y respaldar la creación de empleo.
+- **Christine Lagarde se muestra «lista para servir» al frente del Banco Central Europeo.**
+  La declaración, hecha en el Foro Económico Mundial, coincide con el fuerte respaldo de su consejo de administración a la continuidad de su candidatura.
 
 ## Política
 
-- **Más de 50 ataques coordinados sacuden el sur de Tailandia.**
-  Los ataques con artefactos explosivos, ocurridos en tres provincias del extremo sur del país, dejaron al menos dos civiles heridos en una región marcada por una insurgencia separatista de décadas.
+- **El gobierno de coalición de Alemania celebra su reunión de verano en Neuhardenberg.**
+  El encuentro aborda desafíos como la mermada competitividad industrial del país y el desarrollo de tecnologías clave.
 
-- **El encarecimiento del costo de vida amenaza la reelección de Lula en Brasil.**
-  El presidente busca un cuarto mandato en las elecciones de octubre, en un contexto económico que erosiona su respaldo popular.
+- **Antonio Costa se reúne en Bratislava con el primer ministro eslovaco Robert Fico.**
+  El presidente del Consejo Europeo mantiene conversaciones bilaterales en el marco de su agenda por Europa central.
 
-- **Human Rights Watch pide medidas contra el reclutamiento de menores en Colombia.**
-  La ONG le solicitó al presidente Abelardo de la Espriella que actúe frente al aumento del reclutamiento de niños por parte de grupos armados.
+- **Pedro Sánchez convoca al Consejo de Seguridad Nacional por la crisis migratoria en Ceuta.**
+  La reunión llega 25 días después del ingreso masivo de más de 72.000 personas a la ciudad autónoma española.
 
 ## Tecnología
 
-- **OpenAI habilita su plataforma publicitaria en 31 países europeos.**
-  El lanzamiento arranca hoy y marca la expansión de su modelo de negocio basado en publicidad hacia el mercado europeo.
+- **Bitcoin supera los $80.000 por primera vez en más de tres meses.**
+  La criptomoneda acumula una suba de aproximadamente 28% en lo que va de agosto, impulsada por compras de ETFs y liquidación de posiciones cortas.
 
-- **Bitcoin cotiza hoy a $77.430.**
-  La criptomoneda sube 1,26% en 24 horas y 21,6% respecto de la semana pasada, con una capitalización de mercado de más de $1,55 billones.
+- **El mercado cripto total sube 2% y alcanza los $2,75 billones.**
+  El Índice de Miedo y Codicia se ubica en 74 puntos, en zona de «codicia», reflejando el optimismo generalizado del mercado.
 
-- **El mercado cripto total supera los $2,5 billones.**
-  Ethereum sube a $2.453, mientras Solana, BNB y Cardano también registran ganancias en las últimas 24 horas.
+- **Crece la cantidad de mineros que optan por pools de minería en solitario.**
+  Buscan participar de la red de bitcoin sin depender de los grandes operadores de minería.
 
 ## Fuentes
 
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/24/lunes-24-de-agosto-de-2026-0700-gmt/)
-- [Euronews](https://es.euronews.com/video/2026/08/24/ultimas-noticias-24-agosto-2026-manana)
-- [Yahoo Noticias](https://es-us.noticias.yahoo.com/noticias-24-agosto-2026-ma%C3%B1ana-050008365.html)
-- [Banco Mundial](https://www.bancomundial.org/es/publication/global-economic-prospects)
-- [La Nación (Bitcoin)](https://www.lanacion.com.ar/economia/IA/bitcoin-hoy-la-cotizacion-al-24-de-agosto-nid24082026/)
-- [La Nación (Criptomonedas)](https://www.lanacion.com.ar/economia/IA/criptomonedas-hoy-cotizacion-de-las-principales-divisas-digitales-al-24-de-agosto-nid24082026/)
+- [Euronews](https://es.euronews.com/video/2026/08/25/ultimas-noticias-25-agosto-2026-manana)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/25/martes-25-de-agosto-de-2026-0200-gmt/)
+- [El Economista](https://www.eleconomista.es/flash/20260825/)
+- [Periodista Digital](https://www.periodistadigital.com/periodismo/20260825/10-temas-marcan-escenario-politico-periodistico-espanol-martes-25-agosto-2026-crisis-ceuta-factura-luz-noticia-689405240805/)
+- [TradingKey](https://www.tradingkey.com/es/analysis/cryptocurrencies/btc/262129076-crypto-bitcoin-btc-price-80000-long-short-eth-tradingkey)
+- [CriptoNoticias](https://www.criptonoticias.com/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
