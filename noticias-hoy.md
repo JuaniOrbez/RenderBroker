@@ -1,61 +1,64 @@
-# Frecuencia Diaria — martes 25 de agosto de 2026
+# Frecuencia Diaria — miércoles 26 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Ulán Bator continúa la Convención de la ONU de Lucha contra la Desertificación.**
-  Delegaciones de todo el mundo siguen debatiendo estrategias frente al avance de la desertificación y la degradación de tierras.
+- **Cierran los Juegos Mundiales de Robots Humanoides de Pekín.**
+  Las finales principales y la ceremonia de clausura permiten evaluar la evolución de las máquinas respecto de la primera edición, celebrada en 2025.
 
-- **Amnistía Internacional entrega 27.000 cartas para el artista cubano Luis Manuel Otero Alcántara.**
-  El gesto, realizado en un evento en Miami, busca visibilizar la situación del artista y expreso político cubano.
+- **Entre los escombros del terremoto de Cali aparecen objetos y fotografías de las vidas perdidas.**
+  Los restos de los edificios derrumbados en Colombia el 10 de agosto empiezan a revelar fragmentos de cientos de historias familiares.
 
-- **Arranca en África la septuagésima sexta sesión del Comité Regional de la OMS.**
-  El encuentro se extenderá hasta el 28 de agosto y reunirá a delegaciones sanitarias de todo el continente.
+- **Ucrania evalúa eximir de la movilización a los hombres mayores de 50 años.**
+  El país rechaza además el servicio militar obligatorio para mujeres y resiste bajar la edad de reclutamiento, pese al déficit de personal militar.
 
 ## Economía
 
-- **El petróleo Brent cae más de 25% y baja a $88 el barril.**
-  El retroceso marca una de las caídas más pronunciadas del año para el crudo de referencia europeo.
+- **El costo de vida en Miami supera por primera vez al de Nueva York.**
+  El aumento de los precios de la vivienda y los alimentos impulsó el cambio, según datos de la Oficina de Análisis Económico de Estados Unidos.
+
+- **El petróleo profundiza su caída tras el anuncio de Irán de retomar el diálogo con Omán.**
+  Ambos países buscan restablecer parcialmente el tránsito comercial por el estrecho de Ormuz, por donde circulaba cerca del 20% del petróleo mundial antes del conflicto regional.
+
+- **El dólar cotiza a 0,8574 euros en un mercado cambiario volátil.**
+  Las variaciones responden a cambios en las tasas de interés, datos económicos mixtos y la persistente tensión geopolítica.
 
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente sigue llevando al crecimiento global a su nivel más bajo desde la pandemia.
-
-- **Volkswagen concentrará la mitad de sus nuevos despidos en Alemania.**
-  El consejero delegado de la automotriz argumentó que sus costos fijos son un 30% más altos que los de la competencia.
-
-- **Christine Lagarde se muestra «lista para servir» al frente del Banco Central Europeo.**
-  La declaración, hecha en el Foro Económico Mundial, coincide con el fuerte respaldo de su consejo de administración a la continuidad de su candidatura.
+  Los mercados emergentes y las economías en desarrollo registrarán el menor crecimiento del ingreso per cápita desde la pandemia.
 
 ## Política
 
-- **El gobierno de coalición de Alemania celebra su reunión de verano en Neuhardenberg.**
-  El encuentro aborda desafíos como la mermada competitividad industrial del país y el desarrollo de tecnologías clave.
+- **El Vaticano y el Kremlin dialogan sobre la situación internacional.**
+  El jefe de la diplomacia vaticana, Paul Richard Gallagher, se reunió con el asesor de política internacional del Kremlin, Yuri Ushakov.
 
-- **Antonio Costa se reúne en Bratislava con el primer ministro eslovaco Robert Fico.**
-  El presidente del Consejo Europeo mantiene conversaciones bilaterales en el marco de su agenda por Europa central.
+- **Una delegación del Senado español participa de reuniones en Kiev.**
+  La comitiva, integrada por miembros de la Comisión de Asuntos Exteriores, se suma a los encuentros diplomáticos con autoridades ucranianas.
 
-- **Pedro Sánchez convoca al Consejo de Seguridad Nacional por la crisis migratoria en Ceuta.**
-  La reunión llega 25 días después del ingreso masivo de más de 72.000 personas a la ciudad autónoma española.
+- **La disolución de las Fuerzas de Siria Democrática abre una nueva era política en Siria.**
+  La integración pacífica de la alianza armada kurdosiria a las instituciones del Estado marca un giro en la turbulenta vida política del país.
 
 ## Tecnología
 
-- **Bitcoin supera los $80.000 por primera vez en más de tres meses.**
-  La criptomoneda acumula una suba de aproximadamente 28% en lo que va de agosto, impulsada por compras de ETFs y liquidación de posiciones cortas.
+- **NVIDIA dispara sus ganancias 210% en su segundo trimestre fiscal.**
+  Sus ingresos crecieron 85%, y los inversores siguen de cerca la evolución de la demanda de chips para inteligencia artificial.
 
-- **El mercado cripto total sube 2% y alcanza los $2,75 billones.**
-  El Índice de Miedo y Codicia se ubica en 74 puntos, en zona de «codicia», reflejando el optimismo generalizado del mercado.
+- **OpenAI lanza el plugin Admin para ChatGPT Work y Codex.**
+  La herramienta permite a los administradores de espacios de trabajo gestionar su organización de inteligencia artificial directamente desde una conversación.
 
-- **Crece la cantidad de mineros que optan por pools de minería en solitario.**
-  Buscan participar de la red de bitcoin sin depender de los grandes operadores de minería.
+- **Apple presenta un nuevo Mac mini en una actualización inesperada.**
+  El lanzamiento no estaba anticipado en el calendario habitual de anuncios de la compañía.
+
+- **Bitcoin cotiza a $78.811 con el mercado en «codicia extrema».**
+  El Índice de Miedo y Codicia llega a 80 puntos, mientras el mercado cripto total supera los $2,52 billones.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/08/25/ultimas-noticias-25-agosto-2026-manana)
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/25/martes-25-de-agosto-de-2026-0200-gmt/)
-- [El Economista](https://www.eleconomista.es/flash/20260825/)
-- [Periodista Digital](https://www.periodistadigital.com/periodismo/20260825/10-temas-marcan-escenario-politico-periodistico-espanol-martes-25-agosto-2026-crisis-ceuta-factura-luz-noticia-689405240805/)
-- [TradingKey](https://www.tradingkey.com/es/analysis/cryptocurrencies/btc/262129076-crypto-bitcoin-btc-price-80000-long-short-eth-tradingkey)
+- [Euronews](https://es.euronews.com/video/2026/08/26/ultimas-noticias-26-agosto-2026-manana)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/26/miercoles-26-de-agosto-de-2026-0200-gmt/)
+- [El Heraldo de México](https://heraldodemexico.com.mx/economia/2026/8/26/precio-del-petroleo-hoy-asi-cotiza-el-barril-de-crudo-este-26-de-agosto-de-2026-876510.html)
+- [Infobae (tipo de cambio)](https://www.infobae.com/espana/2026/08/26/tipo-de-cambio-precio-del-euro-frente-al-dolar-hoy-26-de-agosto/)
+- [La Nación (Criptomonedas)](https://www.lanacion.com.ar/economia/IA/criptomonedas-hoy-cotizacion-de-las-principales-divisas-digitales-al-26-de-agosto-nid26082026/)
 - [CriptoNoticias](https://www.criptonoticias.com/)
 
 ---
