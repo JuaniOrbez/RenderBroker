@@ -1,65 +1,71 @@
-# Frecuencia Diaria — miércoles 26 de agosto de 2026
+# Frecuencia Diaria — jueves 27 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Cierran los Juegos Mundiales de Robots Humanoides de Pekín.**
-  Las finales principales y la ceremonia de clausura permiten evaluar la evolución de las máquinas respecto de la primera edición, celebrada en 2025.
+- **Un gigantesco deslizamiento de tierra provoca una avalancha desde China hasta Nepal.**
+  El derrumbe represó el río Bhote Koshi y dejó cientos de muertos; los científicos sospechan que el desprendimiento de un glaciar agravó el desastre.
 
-- **Entre los escombros del terremoto de Cali aparecen objetos y fotografías de las vidas perdidas.**
-  Los restos de los edificios derrumbados en Colombia el 10 de agosto empiezan a revelar fragmentos de cientos de historias familiares.
+- **Dinamarca vota indemnizar a miles de mujeres groenlandesas.**
+  El Parlamento danés debate una ley para reparar a quienes recibieron espirales anticonceptivas sin su consentimiento entre 1960 y 1991.
 
-- **Ucrania evalúa eximir de la movilización a los hombres mayores de 50 años.**
-  El país rechaza además el servicio militar obligatorio para mujeres y resiste bajar la edad de reclutamiento, pese al déficit de personal militar.
+- **Estados Unidos suspende temporalmente las citas para visas de inmigrante en todo el mundo.**
+  La medida afecta los trámites consulares de manera global hasta nuevo aviso.
+
+- **Científicos identifican rastros de dos ancestros «fantasma» en el ADN humano moderno.**
+  El hallazgo podría revelar pistas sobre antepasados que no aparecen en el registro fósil pero persisten en los genes de las personas vivas.
 
 ## Economía
 
-- **El costo de vida en Miami supera por primera vez al de Nueva York.**
-  El aumento de los precios de la vivienda y los alimentos impulsó el cambio, según datos de la Oficina de Análisis Económico de Estados Unidos.
+- **Arranca el simposio de Jackson Hole de la Reserva Federal.**
+  Es el primero con Kevin Warsh como presidente de la Fed, en un contexto marcado por el aumento de la deuda estadounidense y las tensiones en el mercado de bonos.
 
-- **El petróleo profundiza su caída tras el anuncio de Irán de retomar el diálogo con Omán.**
-  Ambos países buscan restablecer parcialmente el tránsito comercial por el estrecho de Ormuz, por donde circulaba cerca del 20% del petróleo mundial antes del conflicto regional.
+- **Alemania negocia recortes en el próximo presupuesto plurianual de la Unión Europea.**
+  El canciller Friedrich Merz se reunió con los líderes de Países Bajos, Austria, Finlandia y Dinamarca para buscar consenso de cara al período 2028-2034.
 
-- **El dólar cotiza a 0,8574 euros en un mercado cambiario volátil.**
-  Las variaciones responden a cambios en las tasas de interés, datos económicos mixtos y la persistente tensión geopolítica.
+- **India concluye una visita comercial de cuatro días a Japón.**
+  El ministro de Comercio, Piyush Goyal, encabezó una delegación de 200 empresarios para fortalecer la asociación económica entre ambos países.
 
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  Los mercados emergentes y las economías en desarrollo registrarán el menor crecimiento del ingreso per cápita desde la pandemia.
+  El conflicto en Medio Oriente sigue presionando al alza los precios de la energía y frenando la actividad global.
 
 ## Política
 
-- **El Vaticano y el Kremlin dialogan sobre la situación internacional.**
-  El jefe de la diplomacia vaticana, Paul Richard Gallagher, se reunió con el asesor de política internacional del Kremlin, Yuri Ushakov.
+- **Suiza votará en un mes sobre una interpretación más estricta de su neutralidad.**
+  La propuesta, impulsada por la ultraderecha, busca incorporarla a la Constitución y podría condicionar la política exterior y de defensa del país.
 
-- **Una delegación del Senado español participa de reuniones en Kiev.**
-  La comitiva, integrada por miembros de la Comisión de Asuntos Exteriores, se suma a los encuentros diplomáticos con autoridades ucranianas.
+- **Siria comienza a aplicar la pena de muerte a figuras del régimen de Bachar al Asad.**
+  Las condenas llegan mientras el país todavía no cuenta con un marco de justicia transicional para procesar los crímenes del régimen.
 
-- **La disolución de las Fuerzas de Siria Democrática abre una nueva era política en Siria.**
-  La integración pacífica de la alianza armada kurdosiria a las instituciones del Estado marca un giro en la turbulenta vida política del país.
+- **Cancilleres de la Organización de la Cooperación Islámica se reúnen por Medio Oriente.**
+  El encuentro abordó la situación en los territorios palestinos y sirvió para elegir a un nuevo secretario general del organismo.
+
+- **Los cancilleres de México y Estados Unidos se reúnen por primera vez en persona.**
+  Roberto Velasco y Marco Rubio mantuvieron su primer encuentro cara a cara desde la asunción del funcionario mexicano.
 
 ## Tecnología
 
-- **NVIDIA dispara sus ganancias 210% en su segundo trimestre fiscal.**
-  Sus ingresos crecieron 85%, y los inversores siguen de cerca la evolución de la demanda de chips para inteligencia artificial.
+- **Meta acuerda pagar $18.000 millones por daños a menores en sus plataformas.**
+  El acuerdo evita un juicio histórico y llega acompañado de la promesa de introducir cambios en el diseño de sus redes sociales.
 
-- **OpenAI lanza el plugin Admin para ChatGPT Work y Codex.**
-  La herramienta permite a los administradores de espacios de trabajo gestionar su organización de inteligencia artificial directamente desde una conversación.
+- **Asia convierte a la robótica en una nueva carrera tecnológica e industrial.**
+  China, Japón, Corea del Sur y Taiwán compiten por llevar sus máquinas de los laboratorios a las fábricas, los comercios y los hogares.
 
-- **Apple presenta un nuevo Mac mini en una actualización inesperada.**
-  El lanzamiento no estaba anticipado en el calendario habitual de anuncios de la compañía.
+- **Bitcoin cotiza a $78.764 mientras Ethereum y Solana suben con fuerza.**
+  Ethereum se ubica en $2.506 y Solana se dispara casi 6%, hasta los $102.
 
-- **Bitcoin cotiza a $78.811 con el mercado en «codicia extrema».**
-  El Índice de Miedo y Codicia llega a 80 puntos, mientras el mercado cripto total supera los $2,52 billones.
+- **El mercado cripto total alcanza los $2,76 billones.**
+  La dominancia de bitcoin en la industria se mantiene fuerte, en 57,4%.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/08/26/ultimas-noticias-26-agosto-2026-manana)
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/26/miercoles-26-de-agosto-de-2026-0200-gmt/)
-- [El Heraldo de México](https://heraldodemexico.com.mx/economia/2026/8/26/precio-del-petroleo-hoy-asi-cotiza-el-barril-de-crudo-este-26-de-agosto-de-2026-876510.html)
-- [Infobae (tipo de cambio)](https://www.infobae.com/espana/2026/08/26/tipo-de-cambio-precio-del-euro-frente-al-dolar-hoy-26-de-agosto/)
-- [La Nación (Criptomonedas)](https://www.lanacion.com.ar/economia/IA/criptomonedas-hoy-cotizacion-de-las-principales-divisas-digitales-al-26-de-agosto-nid26082026/)
-- [CriptoNoticias](https://www.criptonoticias.com/)
+- [Euronews](https://es.euronews.com/video/2026/08/27/ultimas-noticias-27-agosto-2026-manana)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/27/jueves-27-de-agosto-de-2026-0200-gmt/)
+- [CNN en Español (KVIA)](https://kvia.com/news/noticias/cnn-spanish/2026/08/27/las-5-cosas-que-debes-saber-este-27-de-agosto/)
+- [Infobae (multimillonarios)](https://www.infobae.com/noticias/2026/08/27/estos-son-los-multimillonarios-que-ganaron-mas-dinero-este-27-de-agosto/)
+- [Rio Times (Bitcoin)](https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-august-27-2026/)
+- [CoinGabbar](https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-27-august-bitcoin-eth-bitlayer-crypto-tax)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
