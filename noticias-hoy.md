@@ -1,71 +1,71 @@
-# Frecuencia Diaria — jueves 27 de agosto de 2026
+# Frecuencia Diaria — viernes 28 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Un gigantesco deslizamiento de tierra provoca una avalancha desde China hasta Nepal.**
-  El derrumbe represó el río Bhote Koshi y dejó cientos de muertos; los científicos sospechan que el desprendimiento de un glaciar agravó el desastre.
+- **Nepal y China enfrentan las consecuencias de una inundación masiva en la frontera con el Tíbet.**
+  Más de 1.400 personas continúan desaparecidas y se reportan cerca de 400 muertos tras la crecida.
 
-- **Dinamarca vota indemnizar a miles de mujeres groenlandesas.**
-  El Parlamento danés debate una ley para reparar a quienes recibieron espirales anticonceptivas sin su consentimiento entre 1960 y 1991.
+- **Islandia se prepara para votar el sábado si retoma las negociaciones para ingresar a la Unión Europea.**
+  Las conversaciones están estancadas desde 2013 y las encuestas muestran una leve ventaja para el «sí».
 
-- **Estados Unidos suspende temporalmente las citas para visas de inmigrante en todo el mundo.**
-  La medida afecta los trámites consulares de manera global hasta nuevo aviso.
+- **Noruega sigue de cerca el «muy grave» estado de salud del rey Harald V.**
+  El monarca, de 89 años, lleva once días internado en Oslo, adonde muchos ciudadanos se acercan a dejar flores.
 
-- **Científicos identifican rastros de dos ancestros «fantasma» en el ADN humano moderno.**
-  El hallazgo podría revelar pistas sobre antepasados que no aparecen en el registro fósil pero persisten en los genes de las personas vivas.
+- **Un tribunal alemán comienza a juzgar una demanda por el vuelo de Germanwings de 2015.**
+  Treinta familias de víctimas reclaman contra el Estado alemán por el accidente provocado por el piloto Andreas Lubitz.
 
 ## Economía
 
-- **Arranca el simposio de Jackson Hole de la Reserva Federal.**
-  Es el primero con Kevin Warsh como presidente de la Fed, en un contexto marcado por el aumento de la deuda estadounidense y las tensiones en el mercado de bonos.
+- **Argentina alcanza en julio un récord de producción de petróleo.**
+  Llegó a 916.200 barriles diarios, un 17,2% más que en el mismo mes del año anterior.
 
-- **Alemania negocia recortes en el próximo presupuesto plurianual de la Unión Europea.**
-  El canciller Friedrich Merz se reunió con los líderes de Países Bajos, Austria, Finlandia y Dinamarca para buscar consenso de cara al período 2028-2034.
+- **El bloqueo naval de Estados Unidos a los puertos iraníes agrava la crisis energética de Irán.**
+  La medida impide la importación de nafta en momentos en que la producción nacional no alcanza a cubrir el consumo interno.
 
-- **India concluye una visita comercial de cuatro días a Japón.**
-  El ministro de Comercio, Piyush Goyal, encabezó una delegación de 200 empresarios para fortalecer la asociación económica entre ambos países.
+- **España sale del top 12 de las grandes economías mundiales.**
+  La última revisión del FMI ubica al país fuera de ese grupo, al que el organismo no prevé que regrese.
 
-- **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente sigue presionando al alza los precios de la energía y frenando la actividad global.
+- **Fitch revisa la calificación de la deuda francesa.**
+  La actualización llega después de que las tasas de interés que paga Francia subieran a su nivel más alto desde 2008.
 
 ## Política
 
-- **Suiza votará en un mes sobre una interpretación más estricta de su neutralidad.**
-  La propuesta, impulsada por la ultraderecha, busca incorporarla a la Constitución y podría condicionar la política exterior y de defensa del país.
+- **Colombia realiza una jornada nacional de oración por las víctimas del terremoto.**
+  La convocatoria, impulsada por el vicepresidente José Manuel Restrepo y su esposa, Tatiana Céspedes, honra a las víctimas del sismo del 10 de agosto.
 
-- **Siria comienza a aplicar la pena de muerte a figuras del régimen de Bachar al Asad.**
-  Las condenas llegan mientras el país todavía no cuenta con un marco de justicia transicional para procesar los crímenes del régimen.
+- **Ecuador conoce hoy el veredicto del caso Sinohydro.**
+  La causa por corrupción vinculada a la hidroeléctrica Coca Codo Sinclair involucra al expresidente Lenín Moreno y a otras 19 personas.
 
-- **Cancilleres de la Organización de la Cooperación Islámica se reúnen por Medio Oriente.**
-  El encuentro abordó la situación en los territorios palestinos y sirvió para elegir a un nuevo secretario general del organismo.
+- **Rusia niega haber emitido un ultimátum a Estados Unidos por los ataques ucranianos.**
+  El canciller Serguéi Lavrov afirmó que Moscú plantea regularmente el tema ante Washington, pero sin formular exigencias formales.
 
-- **Los cancilleres de México y Estados Unidos se reúnen por primera vez en persona.**
-  Roberto Velasco y Marco Rubio mantuvieron su primer encuentro cara a cara desde la asunción del funcionario mexicano.
+- **Miles de personas marchan sobre Washington en un nuevo aniversario de la marcha de Martin Luther King Jr.**
+  La movilización conmemora los 63 años de aquella histórica jornada por los derechos civiles.
 
 ## Tecnología
 
-- **Meta acuerda pagar $18.000 millones por daños a menores en sus plataformas.**
-  El acuerdo evita un juicio histórico y llega acompañado de la promesa de introducir cambios en el diseño de sus redes sociales.
+- **Bitcoin roza los $80.000 mientras el mercado espera el discurso de Kevin Warsh en Jackson Hole.**
+  La criptomoneda acumula una suba de 24% en el último mes, a la espera de señales sobre inflación y tasas.
 
-- **Asia convierte a la robótica en una nueva carrera tecnológica e industrial.**
-  China, Japón, Corea del Sur y Taiwán compiten por llevar sus máquinas de los laboratorios a las fábricas, los comercios y los hogares.
+- **Solana salta casi 7% tras el anuncio de Charles Schwab.**
+  La firma financiera planea sumar Solana, Avalanche y Chainlink a su plataforma de criptoactivos.
 
-- **Bitcoin cotiza a $78.764 mientras Ethereum y Solana suben con fuerza.**
-  Ethereum se ubica en $2.506 y Solana se dispara casi 6%, hasta los $102.
+- **La Unión Europea admite por primera vez ataques de espionaje contra teléfonos de altos funcionarios.**
+  Una presentación interna de ciberseguridad confirmó campañas de spearphishing patrocinadas por gobiernos extranjeros.
 
-- **El mercado cripto total alcanza los $2,76 billones.**
-  La dominancia de bitcoin en la industria se mantiene fuerte, en 57,4%.
+- **X exige el cierre definitivo de Nitter.**
+  La compañía envió una carta de cese y desista contra el proyecto de código abierto que durante siete años permitió leer publicaciones sin la app oficial.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/08/27/ultimas-noticias-27-agosto-2026-manana)
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/27/jueves-27-de-agosto-de-2026-0200-gmt/)
-- [CNN en Español (KVIA)](https://kvia.com/news/noticias/cnn-spanish/2026/08/27/las-5-cosas-que-debes-saber-este-27-de-agosto/)
-- [Infobae (multimillonarios)](https://www.infobae.com/noticias/2026/08/27/estos-son-los-multimillonarios-que-ganaron-mas-dinero-este-27-de-agosto/)
-- [Rio Times (Bitcoin)](https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-august-27-2026/)
-- [CoinGabbar](https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-27-august-bitcoin-eth-bitlayer-crypto-tax)
+- [Euronews](https://es.euronews.com/video/2026/08/28/ultimas-noticias-28-agosto-2026-manana)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/28/viernes-28-de-agosto-de-2026-0200-gmt/)
+- [Prensa Latina](https://www.prensa-latina.cu/2026/08/28/primera-lista-de-los-principales-temas-del-dia-de-prensa-latina-389/)
+- [El Economista](https://www.eleconomista.es/economia/)
+- [CriptoNoticias](https://www.criptonoticias.com/mercados/bitcoin-80000-dolares-kevin-warsh-jackson-hole/)
+- [Rio Times (Bitcoin)](https://www.riotimesonline.com/crypto-markets-bitcoin-majors-friday-august-28-2026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
