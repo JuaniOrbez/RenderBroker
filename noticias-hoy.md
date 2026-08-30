@@ -1,65 +1,57 @@
-# Frecuencia Diaria — sábado 29 de agosto de 2026
+# Frecuencia Diaria — domingo 30 de agosto de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **El acuerdo petrolero entre Estados Unidos y Venezuela le da a Washington control sobre una quinta parte de los yacimientos venezolanos.**
-  El pacto canaliza ese control a través de empresas privadas estadounidenses.
+- **Continúa la búsqueda de sobrevivientes tras la inundación en Nepal y el Tíbet.**
+  Miles de efectivos iniciaron la quinta jornada de rastrillaje; la riada del miércoles ya deja casi 700 muertos y 3.000 desaparecidos, entre ellos al menos dos españoles.
 
-- **La NASA se prepara para lanzar mañana el telescopio Nancy Grace Roman.**
-  Será el observatorio panorámico más grande jamás construido, con un campo de visión cien veces mayor al del Hubble.
-
-- **El sector empresarial venezolano prioriza la asistencia a La Guaira tras el reciente sismo.**
-  El economista Luis Vicente León calificó la ayuda a la zona como «la prioridad número uno» por razones humanitarias.
+- **El musical «Moulin Rouge» baja el telón en Broadway tras siete años.**
+  La producción ganó diez premios Tony y recaudó más de $270 millones, convirtiéndose en símbolo de la resiliencia del teatro tras la pandemia.
 
 ## Economía
 
+- **Comienza en Asheville la reunión de ministros de Finanzas del G20.**
+  El encuentro, bajo presidencia de Estados Unidos, abordará la situación económica global, los desequilibrios de deuda y la regulación de las criptomonedas.
+
+- **El euríbor promedia 2,9512% en agosto.**
+  La tasa sube frente al 2,855% con que había cerrado julio.
+
+- **Venezuela detalla el acuerdo petrolero suscrito con Estados Unidos.**
+  La presidenta encargada, Delcy Rodríguez, precisó que el pacto tendrá una vigencia de 25 años.
+
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  Medio Oriente, el norte de África, Afganistán y Pakistán son la región más golpeada, mientras el sur de Asia sigue siendo la de mayor crecimiento.
-
-- **El presidente de Irán admite que las sanciones de Estados Unidos golpean la economía del país.**
-  El reconocimiento llega en medio del bloqueo naval que restringe las importaciones de combustible iraníes.
-
-- **Concluye el simposio de Jackson Hole de la Reserva Federal.**
-  Fue el primero con Kevin Warsh al frente del banco central estadounidense.
-
-- **Persisten los riesgos adversos para la economía global.**
-  Una posible intensificación de hostilidades, nuevas perturbaciones en los mercados de materias primas y más tensión geopolítica podrían agravar el panorama.
+  Los mercados emergentes y las economías en desarrollo registrarán el menor crecimiento del ingreso per cápita desde la pandemia.
 
 ## Política
 
-- **Colonos israelíes atacan la aldea palestina sitiada de Qusra, en Cisjordania.**
-  Los incidentes se suman a la tensión creciente en la zona, según reportes locales.
+- **Un tribunal de Ecuador sentencia al alcalde de Guayaquil, Aquiles Álvarez.**
+  El fallo alcanza a uno de los principales opositores al presidente Daniel Noboa.
 
-- **Jóvenes protegidos por DACA en Estados Unidos enfrentan riesgo de deportación.**
-  Errores en formularios migratorios o infracciones de tránsito antiguas pueden bastar para iniciar un proceso de expulsión, pese a haber cumplido con las leyes migratorias.
-
-- **El acuerdo petrolero entre Estados Unidos y Venezuela redefine el control geopolítico regional.**
-  El pacto sobre los yacimientos venezolanos consolida la influencia de Washington en el país caribeño.
+- **El G20 de Finanzas se reúne en medio de la incertidumbre por los aranceles de la Casa Blanca.**
+  Los ministros también analizarán los desequilibrios de la deuda de varias economías nacionales.
 
 ## Tecnología
 
-- **John Ternus asumirá el liderazgo de Apple el 1 de septiembre.**
-  El actual jefe de ingeniería de hardware sucede a Tim Cook en medio de la presión arancelaria y la carrera por la inteligencia artificial frente a rivales como OpenAI.
+- **OpenAI presenta los primeros resultados de Jalapeño, su chip de inferencia propio.**
+  Los números de rendimiento son lo suficientemente sólidos como para que la industria los tome en serio.
 
-- **La Unión Europea admite ataques de espionaje contra teléfonos de altos funcionarios.**
-  Una presentación interna de ciberseguridad confirmó campañas de spearphishing patrocinadas por gobiernos extranjeros.
+- **John Ternus asumirá como consejero delegado de Apple el 1 de septiembre.**
+  Sucede a Tim Cook tras casi 15 años al frente, en momentos en que la compañía busca acelerar su apuesta por la inteligencia artificial.
 
-- **Las reseñas falsas generadas por inteligencia artificial distorsionan el comercio online.**
-  Según el Foro Económico Mundial, afectan más de $150.000 millones anuales en decisiones de compra en internet.
+- **Los ETF de bitcoin cortan una racha de nueve días de entradas de capital.**
+  Registraron salidas netas de $202 millones, mientras los ETF de Ethereum acumulan diez jornadas seguidas de flujos positivos.
 
-- **Bitcoin cae 3,8% hasta los $77.803.**
-  El mercado cripto retrocede casi 3% en general, aunque el Índice de Miedo y Codicia se mantiene en zona de codicia, con 68 puntos.
+- **Bitcoin se estabiliza cerca de los $77.600.**
+  El precio retrocede desde los $81.000 alcanzados el 27 de agosto, aunque el Índice de Miedo y Codicia se mantiene en zona de codicia.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/08/29/ultimas-noticias-29-agosto-2026-manana)
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/29/sabado-29-de-agosto-de-2026-0200-gmt/)
-- [The Times of Israel](https://www.timesofisrael.com/liveblog-august-29-2026/)
-- [El Español (Omicrono)](https://www.elespanol.com/omicrono/)
-- [CoinGabbar](https://www.coingabbar.com/en/crypto-currency-news/crypto-news-today-29-august-bitcoin-ethereum-defi-market-down)
-- [Consecomercio](https://www.consecomercio.org/blog/resumen-de-noticias-2/resumen-semanal-de-noticias-del-22-al-29-de-agosto-de-2026-384)
+- [Euronews](https://es.euronews.com/video/2026/08/30/ultimas-noticias-30-agosto-2026-manana)
+- [Infobae](https://www.infobae.com/america/agencias/2026/08/30/domingo-30-de-agosto-de-2026-0200-gmt/)
+- [El Economista](https://www.eleconomista.es/economia/)
+- [CriptoNoticias (ETF)](https://www.criptonoticias.com/mercados/etf-bitcoin-pusieron-fin-nueve-dias-seguidos-entradas/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
