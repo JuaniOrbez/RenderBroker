@@ -1,67 +1,67 @@
-# Frecuencia Diaria — lunes 31 de agosto de 2026
+# Frecuencia Diaria — martes 1 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Irán y Estados Unidos intercambian ataques por primera vez desde finales de julio.**
-  Bombardeos estadounidenses contra la isla iraní de Larak dejaron muertos y heridos, según reportes locales.
+- **1,4 millones de estudiantes vuelven a clases en Cuba.**
+  El regreso llega después de que el curso anterior terminara de forma anticipada en junio por la crisis energética del país.
 
-- **Un superpetrolero sufre un incendio en el estrecho de Ormuz.**
-  La Guardia Revolucionaria iraní afirmó que la embarcación fue alcanzada por dos minas navales.
+- **Un domo de calor sahariano eleva los termómetros por encima de los 40 grados en España.**
+  La ola de calor marca un inicio de septiembre inusualmente intenso en buena parte del país.
 
-- **Xi Jinping asegura que China hace todo lo posible por encontrar a los desaparecidos en la riada fronteriza con Nepal.**
-  Las tareas de búsqueda continúan en la zona entre el distrito nepalí de Rasuwa y el condado chino de Gyirong.
-
-- **Malasia celebra el 69° aniversario de su independencia del Reino Unido.**
-  El país conmemora la fecha lograda originalmente el 31 de agosto de 1957.
+- **El aeropuerto Simón Bolívar de Venezuela reanuda vuelos desde terminales temporales.**
+  La reconstrucción de sus instalaciones centrales continúa tras los daños del doble terremoto del 24 de junio.
 
 ## Economía
 
-- **La industria manufacturera de China se contrae por segundo mes consecutivo.**
-  La caída de agosto fue menos pronunciada que la del mes anterior, según la Oficina Nacional de Estadística.
+- **Concluye en Asheville la reunión de ministros de Finanzas del G20.**
+  Los debates incluyeron el impacto económico de la guerra entre Estados Unidos e Irán, la evolución de las tasas de interés y la crisis de deuda global.
 
-- **El dólar se cambia a 0,8628 euros en el mercado de divisas global.**
-  La cotización refleja la dinámica reciente de los mercados cambiarios internacionales.
+- **El crecimiento mundial se desacelera al 2,5% en 2026.**
+  Los mercados emergentes y las economías en desarrollo registrarán el menor crecimiento del ingreso per cápita desde la pandemia.
 
-- **Brasil y Colombia difunden indicadores económicos clave.**
-  Brasil publica sus cuentas públicas y la relación deuda-PIB de julio, mientras Colombia da a conocer el dato de desempleo del mismo mes.
+- **Vladivostok es sede del undécimo Foro Económico Oriental de Rusia.**
+  El encuentro reúne a funcionarios y empresarios para discutir la cooperación económica en la región de Asia-Pacífico.
 
-- **Continúa en Asheville la reunión de ministros de Finanzas del G20.**
-  Funcionarios de Brasil se reunieron además con el representante comercial de Estados Unidos para tratar los aranceles a productos brasileños.
+- **Montevideo acoge un encuentro sobre integración gasífera entre el Mercosur y Chile.**
+  El evento, organizado por la ALADI junto a otros organismos, busca avanzar en la cooperación energética regional.
 
 ## Política
 
-- **Irán responde a los bombardeos de Estados Unidos con misiles contra Jordania y Emiratos Árabes Unidos.**
-  El intercambio de ataques marca la escalada más grave entre ambos países desde finales de julio.
+- **Los ministros de Defensa de la Unión Europea se reúnen en Irlanda.**
+  El encuentro informal en Wicklow abordó el apoyo militar a Ucrania, la preparación de defensa de la UE y la cooperación con la OTAN.
 
-- **El Foro Estratégico de Bled reúne a mandatarios de Europa central en Eslovenia.**
-  Bajo el lema «El poder para formar el futuro», participan los presidentes de Eslovaquia y Eslovenia y los primeros ministros de República Checa, Hungría y Croacia.
+- **Italia extiende 15 días más los controles fronterizos con España.**
+  La medida responde a la presión migratoria que atraviesa la ciudad autónoma de Ceuta.
 
-- **El primer ministro sueco recibe en Estocolmo al presidente francés Emmanuel Macron.**
-  El encuentro entre Ulf Kristersson y Macron se centra en las relaciones bilaterales y la cooperación en defensa.
+- **Claudia Sheinbaum entrega su segundo informe de gobierno en México.**
+  La rendición de cuentas llega tras un período marcado por la violencia interna y las tensiones con Estados Unidos.
+
+- **Corea del Norte acusa a Estados Unidos de intensificar su política hostil.**
+  El gobierno norcoreano citó ejercicios militares y presiones diplomáticas recientes de Washington.
 
 ## Tecnología
 
-- **Hoy es el último día de Tim Cook como consejero delegado de Apple.**
-  John Ternus asumirá el mando de la compañía a partir de mañana.
+- **John Ternus asume hoy como consejero delegado de Apple.**
+  Sucede a Tim Cook tras 15 años al frente de la compañía, justo antes del evento de nuevos dispositivos previsto para el 9 de septiembre.
 
-- **La Comisión Europea somete a ChatGPT, Roblox y Reddit a la Ley de Servicios Digitales.**
-  La decisión endurece los requisitos de transparencia y seguridad, equiparándolas a gigantes como Google, Meta o TikTok.
+- **Dell presenta sus resultados trimestrales.**
+  Los números permitirán ver si la fuerte demanda de infraestructura para inteligencia artificial sostiene el impulso de su negocio de servidores y centros de datos.
 
-- **Bitcoin cotiza a $78.274 mientras el mercado digiere el mensaje de la Fed.**
-  El tono más duro de Kevin Warsh en Jackson Hole redujo las expectativas de baja de tasas y frenó el optimismo cripto.
+- **Datos, inteligencia artificial e infraestructura digital protagonizan el encuentro de Ametic.**
+  La segunda jornada del cuadragésimo Encuentro de la Economía Digital y las Telecomunicaciones se centró en estos temas.
 
-- **Michael Saylor señala un regreso a las compras de bitcoin.**
-  El fundador de Strategy publicó el mensaje «We're Back» tras una ganancia de unos $2.800 millones en la posición de la firma.
+- **Bitcoin arranca septiembre cerca de los $78.729.**
+  El precio cae más de 2% en la semana tras haber superado los $80.500 días atrás, aunque los flujos institucionales hacia los ETF se mantienen firmes.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/08/31/ultimas-noticias-31-agosto-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/08/31/lunes-31-de-agosto-de-2026-0700-gmt/)
-- [Infobae (tipo de cambio)](https://www.infobae.com/espana/2026/08/31/cambio-de-euro-a-dolar-hoy-31-de-agosto-como-esta-la-cotizacion-y-previsiones/)
-- [Rio Times (Bitcoin)](https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-august-31-2026/)
-- [CoinDesk](https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar)
+- [Euronews](https://es.euronews.com/video/2026/09/01/ultimas-noticias-01-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/01/martes-1-de-septiembre-de-2026-0200-gmt/)
+- [Infobae (tipo de cambio)](https://www.infobae.com/espana/2026/09/01/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-1-de-septiembre/)
+- [Prensa Latina](https://www.prensa-latina.cu/2026/09/01/primera-lista-de-principales-temas-del-dia-de-prensa-latina-215/)
+- [CriptoNoticias](https://www.criptonoticias.com/mercados/bitcoin-septiembre-2026-escenario-transicion/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
