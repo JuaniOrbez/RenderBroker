@@ -1,69 +1,69 @@
-# Frecuencia Diaria — miércoles 2 de septiembre de 2026
+# Frecuencia Diaria — jueves 3 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Xi Jinping inicia la primera visita de un jefe de Estado chino a El Cairo en una década.**
-  Pekín ve grandes oportunidades en Egipto, mientras Estados Unidos sigue inmerso en su guerra con Irán.
+- **Irán toma represalias tras los ataques de Estados Unidos.**
+  La respuesta profundiza la escalada del conflicto entre ambos países.
 
-- **Emmanuel y Brigitte Macron visitan el Reino Unido.**
-  La agenda incluye una parada en el Museo Británico para ver la exposición del Tapiz de Bayeux.
+- **Unos 180.000 africanos repatriados desde Sudáfrica regresan a sus países.**
+  Habían sido expulsados este año a raíz de una ola de ataques xenófobos.
 
-- **Vietnam celebra su 81° Día Nacional.**
-  El país conmemora la independencia proclamada un 2 de septiembre de 1945.
+- **El Canal de Panamá reduce a 34 los tránsitos diarios de buques.**
+  La medida busca ahorrar agua ante el impacto de El Niño sobre los lagos que alimentan la vía interoceánica.
 
-- **El Festival de Venecia abre su 83° edición.**
-  George Clooney recibió el León de Oro honorífico en la ceremonia inaugural.
+- **Suiza acoge por primera vez los premios satíricos Ig Nobel.**
+  La ceremonia se celebra fuera de Estados Unidos por primera vez en sus 35 años de historia.
 
 ## Economía
 
-- **El bono del Tesoro de Estados Unidos a 10 años vuelve a operar cerca del 4,80%.**
-  La suba responde a las preocupaciones inflacionarias que genera el aumento del precio del petróleo.
+- **El petróleo Brent supera los $96 por barril.**
+  Los precios reaccionan a los bombardeos de Estados Unidos contra objetivos iraníes del fin de semana y de esta semana.
 
-- **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente continúa generando aumentos en los precios de la energía.
+- **Vladimir Putin interviene en el Foro Económico Oriental de Vladivostok.**
+  El mandatario ruso participó en la undécima edición del encuentro.
 
-- **Las economías avanzadas del G20 enfrentan una inflación general del 4% en 2026.**
-  El dato refleja la persistencia de las presiones de precios en las principales economías del mundo.
+- **San Pablo celebra la cuarta edición del Foro Latinoamericano de Economía Verde.**
+  Organizado por la agencia EFE, el encuentro aborda la descarbonización, la bioeconomía y la seguridad alimentaria.
 
-- **Se espera mañana el informe de empleo privado ADP de Estados Unidos.**
-  El dato es clave para evaluar la salud del mercado laboral estadounidense.
+- **Japón investiga la explosión mortal en un centro comercial de Kumamoto.**
+  El ministro de Economía, Comercio e Industria, Ryosei Akazawa, presidió la primera reunión del comité que analiza el hecho, ocurrido tras un terremoto de magnitud 7,1.
 
 ## Política
 
-- **Los cancilleres del Mercosur se reúnen en Montevideo.**
-  Argentina, Brasil, Paraguay, Bolivia y Uruguay abordan la agenda pendiente del bloque regional.
+- **Concluye en El Cairo la undécima Conferencia Internacional de Instituciones de Fetuas.**
+  Eruditos del mundo islámico, presididos por el Gran Muftí de Egipto, analizaron desafíos jurisprudenciales vinculados a la familia.
 
-- **Rafael Correa habla desde México sobre el futuro de la relación bilateral con Ecuador.**
-  El expresidente ecuatoriano se refirió al vínculo aún marcado por el asalto a la embajada mexicana en Quito.
+- **Túnez celebra una audiencia de casación en el caso «Complot contra la seguridad del Estado».**
+  El proceso judicial continúa avanzando en sus instancias superiores.
 
-- **El Partido Popular y Vox protestan frente al Parlamento Europeo.**
-  La manifestación cuestiona la gestión del gobierno español de la crisis migratoria en Ceuta.
+- **Venezuela firma alianzas energéticas con empresas de Estados Unidos e Italia.**
+  Los acuerdos buscan atraer inversión hacia el sector energético del país.
 
-- **Los ministros de Defensa de la Unión Europea continúan su reunión en Irlanda.**
-  El encuentro en Wicklow sigue centrado en el apoyo militar a Ucrania y la cooperación con la OTAN.
+- **Una vista judicial en Estados Unidos revisa la suspensión de la reforma de Trump sobre el voto por correo.**
+  El tribunal evalúa si la medida, impulsada por el presidente para restringir esa modalidad de voto, puede seguir bloqueada.
 
 ## Tecnología
 
-- **Se abre en Taipéi la feria SEMICON Taiwan.**
-  Más de 1.300 expositores de 65 países se reúnen en torno a la fotónica de silicio y la óptica integrada, tecnologías clave para la inteligencia artificial.
+- **NVIDIA presenta DLSS 5.**
+  La tecnología, basada en renderizado neuronal guiado en 3D, debuta en el videojuego NBA 2K27.
 
-- **El grupo ShinyHunters hackea a McKesson, el mayor distribuidor farmacéutico de Estados Unidos.**
-  Los atacantes exigen $55 millones de rescate.
+- **Una de cada cuatro brechas de seguridad ya involucra herramientas de inteligencia artificial.**
+  Los incidentes con participación de IA tienen un costo promedio de $6 millones, según reportes recientes del sector.
 
-- **Debian decide no prohibir ni respaldar oficialmente la inteligencia artificial generativa.**
-  El proyecto exige, en cambio, que cada colaborador asuma la responsabilidad del contenido que aporta.
+- **Bitcoin sube a cerca de $77.893 pese a la escalada en Medio Oriente.**
+  El repunte se da a pesar del salto en los precios del petróleo tras los nuevos ataques entre Estados Unidos e Irán.
 
-- **Bitcoin cae por debajo de los $77.000 tras un nuevo choque entre Estados Unidos e Irán.**
-  Es el mayor intercambio de ataques militares desde julio; Ethereum también retrocede, hasta los $2.374.
+- **Ethereum se recupera hasta los $2.402.**
+  La criptomoneda había abierto la jornada en su nivel más bajo en cerca de dos semanas.
 
 ## Fuentes
 
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/02/miercoles-2-de-septiembre-de-2026-0200-gmt/)
-- [Infobae (EFE Internacional)](https://www.infobae.com/america/agencias/2026/09/02/temas-del-dia-de-efe-internacional-del-miercoles-2-de-septiembre-de-2026-1200-gmt/)
-- [CriptoNoticias](https://www.criptonoticias.com/mercados/bitcoin-77000dolares-nuevos-ataques-eeuu-iran/)
-- [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-2-2026-crypto-prices-tumble-as-iran-war-reignites-112639522.html)
+- [Euronews](https://es.euronews.com/video/2026/09/03/ultimas-noticias-03-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/03/jueves-3-de-septiembre-2026-0200-gmt/)
+- [Infobae (EFE Internacional)](https://www.infobae.com/america/agencias/2026/09/03/temas-del-dia-de-efe-internacional-del-jueves-3-de-septiembre-2026-1200-gmt/)
+- [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-3-2026-crypto-prices-lift-this-morning-despite-oil-costs-gaining-steam-113526770.html)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
