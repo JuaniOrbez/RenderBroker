@@ -1,69 +1,69 @@
-# Frecuencia Diaria — viernes 4 de septiembre de 2026
+# Frecuencia Diaria — sábado 5 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Más de 1.250 muertos y 5.000 desaparecidos tras la riada en Nepal y el Tíbet.**
-  El saldo se conoce nueve días después de la devastadora crecida en la frontera entre Nepal y el condado tibetano de Gyirong.
+- **Fallas eléctricas en Venezuela son atribuidas a protestas por los pactos petroleros con Estados Unidos.**
+  Los cortes se suman a la tensión social generada por los recientes acuerdos energéticos.
 
-- **Cuba comienza a aplicar oficialmente 176 reformas económicas y sociales.**
-  Las nuevas normativas permiten empresas privadas de más de 100 trabajadores, la contratación directa y mayor apertura al comercio y el turismo.
+- **Un nuevo ataque israelí en el Líbano deja víctimas.**
+  El hecho se suma a la seguidilla de choques armados en la región.
 
-- **Ámsterdam inaugura su 20ª convención internacional de tatuajes.**
-  Más de 350 artistas de todo el mundo participan del evento.
+- **Un ataque con drones golpea un cuartel militar en Colombia.**
+  El incidente reaviva la preocupación por el uso de esta tecnología en el conflicto armado del país.
 
-- **La Bienal del Libro de San Pablo abre sus puertas con España como país invitado.**
-  La feria se extenderá hasta el 13 de septiembre.
+- **Venezuela firma acuerdos para remover los escombros del doble terremoto.**
+  Los convenios buscan acelerar la reconstrucción de las zonas más afectadas.
 
 ## Economía
 
-- **El consejo de supervisión de Volkswagen evalúa un plan de ahorro que podría cerrar cuatro fábricas en Alemania.**
-  El plan también contempla nuevos recortes de empleo en todo el mundo y una revisión del futuro de la marca SEAT.
+- **Los ingresos petroleros de Rusia vuelven a mostrar debilidad.**
+  Moscú obtuvo en agosto unos 326.200 millones de rublos netos por petróleo, equivalentes a cerca de $3.760 millones.
 
-- **Ecuador reduce 87% su déficit fiscal.**
-  El país también ve crecer el reconocimiento internacional de su industria camaronera, mientras China explora nuevas inversiones mineras.
+- **España cae al puesto 14 del ranking de economías del FMI.**
+  El país es superado por México y Australia, pese a que su PIB alcanzará un récord de $2,09 billones en 2026.
 
-- **El petróleo Brent retrocede a unos $67 el barril.**
-  El precio se aleja de los $69 alcanzados esta misma semana.
+- **El sector automotor español registra su primer déficit comercial semestral desde 2008.**
+  La brecha llegó a 158 millones de euros, tras dieciséis años de superávit ininterrumpido.
 
-- **El euro se mantiene en $1,16 y la libra en $1,34.**
-  Los mercados esperan los datos de empleo oficial de Estados Unidos para definir su próximo movimiento.
+- **El crecimiento mundial se desacelera al 2,5% en 2026.**
+  El conflicto en Medio Oriente continúa generando aumentos en los precios de la energía.
 
 ## Política
 
-- **El gobierno de Giorgia Meloni se convierte en el más longevo de la historia de Italia.**
-  Acumula 1.413 días de mandato ininterrumpido, superando la marca de Silvio Berlusconi.
+- **Una gran manifestación en Magdeburgo rechaza el avance de la ultraderecha en Alemania.**
+  La protesta llega antes de las elecciones de este domingo en el estado federado de Sajonia-Anhalt.
 
-- **El acuerdo petrolero entre Venezuela y Estados Unidos genera cautela entre los expertos.**
-  Persisten dudas sobre la infraestructura del país sudamericano y los riesgos de futuros cambios políticos.
+- **Belgrado celebra su decimocuarta Marcha del Orgullo.**
+  La capital serbia fue sede de la movilización anual por los derechos LGTBI.
 
-- **El líder golpista birmano Min Aung Hlaing visita Vietnam.**
-  Será recibido con honores de Estado, en medio de la transición política que atraviesa la junta militar de Birmania.
+- **El Tesoro de Estados Unidos inicia una operación de recompra de deuda.**
+  La medida busca aliviar la presión sobre los rendimientos de los bonos a largo plazo.
 
-- **Sectores leales a Evo Morales marchan en Bolivia.**
-  Protestan contra lo que consideran políticas económicas neoliberales del gobierno de Rodrigo Paz.
+- **La agencia EFE lanza una serie especial por los 25 años de los atentados del 11 de septiembre.**
+  La cobertura conmemorativa comienza este sábado, a días del aniversario en Estados Unidos.
 
 ## Tecnología
 
-- **Apple confirma su evento del 9 de septiembre.**
-  Presentará nuevos iPhone, incluido su primer modelo plegable, en el primer gran lanzamiento de John Ternus como consejero delegado.
+- **Se filtran los primeros detalles del iPhone 17 antes del evento de Apple.**
+  Las filtraciones anticipan mejoras y precios de cara a la presentación del 9 de septiembre.
 
-- **Apple recorta más de 200 puestos en los equipos de Siri, inteligencia artificial y Vision Pro.**
-  La compañía reorganiza recursos para acelerar el desarrollo de nuevas funciones de IA.
+- **iRobot presenta en IFA Berlín el Roomba Max 875 Combo.**
+  El robot aspirador, con estación AutoWash, estará disponible desde $1.199.
 
-- **Bitcoin se mantiene por encima de los $81.000.**
-  El repunte llega tras su mayor entrada de capital hacia ETF en nueve meses.
+- **Roku lanza su primer televisor OLED.**
+  El dispositivo estará disponible en exclusiva a través de Amazon.
 
-- **Ethereum sube a $2.522 mientras las monedas de privacidad se disparan.**
-  Zcash gana 16% y dash 19% en la jornada.
+- **Bitcoin cae por debajo de los $80.000.**
+  Un dato de empleo de Estados Unidos más fuerte de lo esperado redujo las expectativas de una baja de tasas de la Reserva Federal.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/09/04/ultimas-noticias-04-septiembre-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/04/viernes-4-de-septiembre-de-2026-0200-gmt/)
-- [Infobae (EFE Internacional)](https://www.infobae.com/america/agencias/2026/09/04/temas-del-dia-de-efe-internacional-del-viernes-4-de-septiembre-de-2026-1200-gmt/)
-- [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html)
+- [Euronews](https://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/05/sabado-5-de-septiembre-de-2026-0200-gmt/)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/05/como-funciona-el-mercado-de-criptomonedas-y-cual-es-su-valor-este-sabado-5-de-septiembre/)
+- [DiarioBitcoin](https://www.diariobitcoin.com/analisis/ena-cede-un-106-mientras-los-datos-de-empleo-presionan-al-mercado-cripto-analisis-del-5-de-septiembre-de-2026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
