@@ -1,69 +1,57 @@
-# Frecuencia Diaria — sábado 5 de septiembre de 2026
+# Frecuencia Diaria — domingo 6 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Fallas eléctricas en Venezuela son atribuidas a protestas por los pactos petroleros con Estados Unidos.**
-  Los cortes se suman a la tensión social generada por los recientes acuerdos energéticos.
+- **Se cumplen 25 años de los atentados del 11 de septiembre de 2001.**
+  Distintos medios internacionales comienzan sus coberturas conmemorativas de cara al aniversario en Estados Unidos.
 
-- **Un nuevo ataque israelí en el Líbano deja víctimas.**
-  El hecho se suma a la seguidilla de choques armados en la región.
-
-- **Un ataque con drones golpea un cuartel militar en Colombia.**
-  El incidente reaviva la preocupación por el uso de esta tecnología en el conflicto armado del país.
-
-- **Venezuela firma acuerdos para remover los escombros del doble terremoto.**
-  Los convenios buscan acelerar la reconstrucción de las zonas más afectadas.
+- **Iván Duque y Boris Johnson dialogan sobre las transformaciones geopolíticas del mundo.**
+  El expresidente colombiano y el ex primer ministro británico debatieron sobre el nuevo escenario internacional.
 
 ## Economía
 
-- **Los ingresos petroleros de Rusia vuelven a mostrar debilidad.**
-  Moscú obtuvo en agosto unos 326.200 millones de rublos netos por petróleo, equivalentes a cerca de $3.760 millones.
+- **El FMI proyecta un crecimiento mundial de 3% en 2026 y 3,4% en 2027.**
+  El panorama es desigual: la guerra golpea a los países importadores de energía, mientras la demanda de inteligencia artificial favorece a quienes integran esa cadena de valor.
 
-- **España cae al puesto 14 del ranking de economías del FMI.**
-  El país es superado por México y Australia, pese a que su PIB alcanzará un récord de $2,09 billones en 2026.
+- **El proceso de desinflación mundial se estanca.**
+  El FMI señala que los riesgos están más equilibrados que en abril, aunque persisten las amenazas de nuevos conflictos y correcciones financieras.
 
-- **El sector automotor español registra su primer déficit comercial semestral desde 2008.**
-  La brecha llegó a 158 millones de euros, tras dieciséis años de superávit ininterrumpido.
-
-- **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente continúa generando aumentos en los precios de la energía.
+- **España se mantiene en el puesto 14 del ranking de economías del FMI.**
+  El país sigue detrás de México y Australia, pese a que su PIB alcanzará un récord de $2,09 billones en 2026.
 
 ## Política
 
-- **Una gran manifestación en Magdeburgo rechaza el avance de la ultraderecha en Alemania.**
-  La protesta llega antes de las elecciones de este domingo en el estado federado de Sajonia-Anhalt.
+- **La renuncia del secretario del Ejército de Estados Unidos inquieta a legisladores republicanos.**
+  La salida de Dan Driscoll se suma a una serie de destituciones y bloqueos que alimentan la preocupación por la creciente concentración de poder del secretario de Guerra, Pete Hegseth.
 
-- **Belgrado celebra su decimocuarta Marcha del Orgullo.**
-  La capital serbia fue sede de la movilización anual por los derechos LGTBI.
+- **Los picos de llegadas migratorias a Ceuta reavivan el debate en Bruselas.**
+  La discusión se centra en la corresponsabilidad de los Estados miembros de la Unión Europea y el rol de España como frontera exterior.
 
-- **El Tesoro de Estados Unidos inicia una operación de recompra de deuda.**
-  La medida busca aliviar la presión sobre los rendimientos de los bonos a largo plazo.
-
-- **La agencia EFE lanza una serie especial por los 25 años de los atentados del 11 de septiembre.**
-  La cobertura conmemorativa comienza este sábado, a días del aniversario en Estados Unidos.
+- **La oposición española convierte el choque con Trump en munición política contra el gobierno.**
+  Distintos partidos destacan que las críticas internacionales reflejan cuestionamientos que ya venían haciendo sobre la política migratoria y de seguridad.
 
 ## Tecnología
 
-- **Se filtran los primeros detalles del iPhone 17 antes del evento de Apple.**
-  Las filtraciones anticipan mejoras y precios de cara a la presentación del 9 de septiembre.
+- **NVIDIA muestra en la IFA 2026 las primeras notebooks con su superchip RTX Spark.**
+  La compañía presentó los primeros equipos que incorporan esta nueva plataforma.
 
-- **iRobot presenta en IFA Berlín el Roomba Max 875 Combo.**
-  El robot aspirador, con estación AutoWash, estará disponible desde $1.199.
+- **Uber lanza en Londres su primer servicio de autos que conducen solos.**
+  Un conductor licenciado permanece en el asiento del volante, listo para intervenir si es necesario.
 
-- **Roku lanza su primer televisor OLED.**
-  El dispositivo estará disponible en exclusiva a través de Amazon.
+- **La empresa china Zeroth presenta Bridge, un robot humanoide compacto.**
+  El dispositivo está pensado como plataforma de desarrollo para otras compañías del sector.
 
-- **Bitcoin cae por debajo de los $80.000.**
-  Un dato de empleo de Estados Unidos más fuerte de lo esperado redujo las expectativas de una baja de tasas de la Reserva Federal.
+- **Bitcoin se mantiene estable en $79.780.**
+  El presidente de la SEC, Paul Atkins, anticipó una votación clave en el Senado para el 15 de septiembre sobre la regulación del sector cripto.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/09/05/ultimas-noticias-05-septiembre-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/05/sabado-5-de-septiembre-de-2026-0200-gmt/)
-- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/05/como-funciona-el-mercado-de-criptomonedas-y-cual-es-su-valor-este-sabado-5-de-septiembre/)
-- [DiarioBitcoin](https://www.diariobitcoin.com/analisis/ena-cede-un-106-mientras-los-datos-de-empleo-presionan-al-mercado-cripto-analisis-del-5-de-septiembre-de-2026/)
+- [Euronews](https://es.euronews.com/video/2026/09/06/ultimas-noticias-06-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/06/domingo-6-de-septiembre-de-2026-0200-gmt/)
+- [Periodista Digital](https://www.periodistadigital.com/periodismo/20260906/10-asuntos-marcan-politica-periodismo-espana-domingo-6-septiembre-2026-trump-ceuta-noticia-689405244280/)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/06/asi-cotizan-las-principales-criptomonedas-del-mundo-digital-este-domingo-6-de-septiembre/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
