@@ -1,69 +1,70 @@
-# Frecuencia Diaria — martes 8 de septiembre de 2026
+# Frecuencia Diaria — miércoles 9 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Se abre la octogésima primera sesión de la Asamblea General de la ONU.**
-  El encuentro anual reúne a jefes de Estado y delegaciones de todo el mundo en Nueva York.
+- **La ONU advierte que la inseguridad alimentaria podría afectar a 1,9 millones de hondureños.**
+  La directora regional del Programa Mundial de Alimentos visitó el sur de Honduras para evaluar los efectos de la sequía provocada por El Niño.
 
-- **Noruega se prepara para el funeral del rey Harald V.**
-  La ceremonia en la Catedral de Oslo contará con un fuerte operativo para recibir a familias reales y jefes de Estado.
+- **Se cumplen dos semanas de la devastadora riada en Nepal y el Tíbet.**
+  El desastre ya deja más de 1.300 muertos y cerca de 5.000 desaparecidos en la zona fronteriza.
 
-- **Se cumplen cuatro años de la coronación de Carlos III.**
-  El Ejército británico celebró la fecha con el disparo de 41 salvas de artillería.
+- **Corea del Norte celebra el 78° aniversario de su fundación.**
+  La fecha, establecida en 1948, es una de las festividades más importantes del calendario norcoreano.
 
-- **Se publican los resultados de una nueva edición del informe PISA.**
-  La evaluación mide el desempeño de alumnos de 15 años en ciencia, matemáticas y lectura en todo el mundo.
+- **Linz acoge la 47ª edición del festival Ars Electronica.**
+  El encuentro de arte, tecnología y sociedad se extiende hasta el 13 de septiembre bajo el lema «El futuro empieza: negociando la humanidad».
 
 ## Economía
 
-- **Las exportaciones de China crecieron 17,8% interanual en agosto.**
-  El dato refleja la fortaleza del comercio exterior chino pese al contexto internacional adverso.
+- **El petróleo sube a $99,31 el Brent y $94,34 el WTI.**
+  Los precios avanzan impulsados por el aumento de las tensiones geopolíticas en Medio Oriente.
 
-- **Japón publica su segundo informe preliminar del PIB del segundo trimestre.**
-  El dato se suma a las revisiones que también publican hoy Corea del Sur y Sudáfrica.
+- **Inditex gana $2.980 millones de euros en su primer semestre fiscal.**
+  La cifra representa un 6,8% más que un año atrás, con las ventas del nuevo trimestre creciendo 9%.
 
-- **Las remesas de la diáspora marroquí superan al turismo y los fosfatos.**
-  Los envíos sumaron más de 3.700 millones de euros en el primer cuatrimestre de 2026, impulsando la economía del país.
+- **Ecuador y Panamá impulsan Expoconecta 2026.**
+  La iniciativa busca profundizar los vínculos económicos, productivos y turísticos entre ambos países.
 
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
   El conflicto en Medio Oriente continúa generando un aumento en los precios de la energía.
 
 ## Política
 
-- **Kaja Kallas se reúne con autoridades lituanas en Vilna.**
-  La alta representante de la Unión Europea para Política Exterior dialogó con los ministros de Exteriores y Defensa y el presidente del Parlamento.
+- **Friedrich Merz recibe en Berlín a António Costa.**
+  El canciller alemán se reunió con el presidente del Consejo Europeo para tratar la agenda de la Unión Europea.
 
-- **Nicaragua responde ante la Corte Internacional de Justicia a las objeciones de Alemania.**
-  El caso está vinculado al apoyo político, financiero y militar alemán a Israel y presuntas violaciones de la Convención contra el Genocidio.
+- **París es sede de una cumbre internacional sobre el espacio.**
+  El encuentro reúne a delegaciones para discutir cooperación y política espacial global.
 
-- **Los 48 Cantones de Totonicapán marchan en Guatemala contra el alza de los combustibles.**
-  La protesta pacífica reclama por el aumento histórico de los precios del combustible en el país.
+- **El Partido Comunista de China reconoce errores de la era de Mao sin renunciar a su legado.**
+  El relato oficial admite los desastres causados por algunas de sus políticas, aunque mantiene central la figura del fundador.
 
-- **Cerca de 800 niños murieron y 360.000 personas fueron desplazadas en el Líbano.**
-  La cifra corresponde al período de enfrentamientos con Israel, según cifras difundidas hoy.
+- **El Alamein International Airshow celebra su segunda jornada en Egipto.**
+  La muestra reúne exhibiciones técnicas y demostraciones comerciales del sector aeronáutico y de defensa.
 
 ## Tecnología
 
-- **Londres estrena su primer servicio de robotaxis.**
-  Conductores con licencia supervisan los vehículos autónomos durante esta etapa inicial.
+- **Apple presenta su evento «Surprise and Shine», el debut de John Ternus como CEO.**
+  La compañía presentó el iPhone 18 Pro, el iPhone 18 Pro Max y su primer iPhone plegable, apodado iPhone Ultra.
 
-- **Ministros de más de 25 países firman una declaración sobre IA y educación.**
-  El documento busca preservar la educación como bien común en la era de la inteligencia artificial.
+- **Apple renueva también el Apple Watch y presenta nuevos AirPods y MacBook Pro.**
+  El evento confirmó la actualización completa de la línea de hardware de la compañía para este ciclo.
 
-- **Un acceso no autorizado a la plataforma judicial C-Track expone archivos de tribunales.**
-  El incidente, en un sistema de Thomson Reuters, afectó doce jurisdicciones de Estados Unidos y la provincia de Ontario, en Canadá.
+- **Bitcoin se mantiene sobre los $78.000 pese a la escalada entre Estados Unidos e Irán.**
+  La criptomoneda resiste la presión geopolítica gracias a renovados flujos de inversión hacia los ETF cripto.
 
-- **Bitcoin cae a cerca de $78.370.**
-  Los combates entre Estados Unidos e Irán continúan y empujan al petróleo cerca de los $100 el barril, presionando a la baja al mercado cripto.
+- **Crece el interés por el ETF de Zcash en medio del repunte de flujos hacia productos cripto.**
+  Bitcoin acumula una suba de más de 23% en el último mes, aunque sigue lejos de su máximo histórico de octubre de 2025.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/09/08/ultimas-noticias-08-septiembre-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/08/martes-8-de-septiembre-de-2026-0200-gmt/)
-- [Prensa Latina](https://www.prensa-latina.cu/2026/09/08/primera-lista-de-principales-temas-del-dia-de-prensa-latina-219/)
-- [Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-8-2026-crypto-prices-sliding-as-us-iran-fighting-continues-113441984.html)
+- [Euronews](https://es.euronews.com/video/2026/09/09/ultimas-noticias-09-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/09/miercoles-9-de-septiembre-de-2026-0200-gmt/)
+- [El Heraldo de México](https://heraldodemexico.com.mx/economia/2026/9/9/precio-del-petroleo-hoy-asi-cotiza-el-barril-de-crudo-este-de-septiembre-de-2026-884950.html)
+- [Infobae (Apple Event)](https://www.infobae.com/tecno/2026/09/09/apple-event-2026-todo-sobre-el-iphone-18-y-la-llegada-del-nuevo-ceo-john-ternus-que-reemplaza-a-tim-cook/)
+- [DiarioBitcoin](https://www.diariobitcoin.com/estados-unidos/bitcoin-btc-se-consolida-cerca-de-usd-79-000-este-9-de-septiembre-y-resiste-pese-al-temor-a-alzas-de-la-fed/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
