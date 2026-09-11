@@ -1,69 +1,69 @@
-# Frecuencia Diaria — jueves 10 de septiembre de 2026
+# Frecuencia Diaria — viernes 11 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Marruecos arranca la campaña para las elecciones legislativas del 23 de septiembre.**
-  La campaña se extenderá hasta el día 22, en un clima marcado por el temor a una alta abstención juvenil.
+- **Nueva York conmemora los 25 años de los atentados del 11 de septiembre de 2001.**
+  El presidente Donald Trump participó de un acto conmemorativo en el Pentágono por el aniversario.
 
-- **Comienzan en Perú los ejercicios navales multinacionales «Unitas 2026».**
-  Las maniobras reúnen a 5.000 militares de 24 países entre el 10 y el 24 de septiembre.
+- **Decenas de miles de judíos viajan a Uman pese a la guerra en Ucrania.**
+  Los peregrinos buscan pasar el Año Nuevo judío junto a la tumba del rabino Najman de Breslov.
 
-- **El programa Copernicus publica su boletín climático de agosto.**
-  El componente de vigilancia del clima del programa espacial europeo difundió sus datos mensuales.
+- **Yemen enfrenta una nueva escalada tras la toma de Al Hudeida y Moca por los hutíes.**
+  Los rebeldes se hicieron con el control de ambas localidades en la costa del mar Rojo.
 
-- **Cali rinde homenaje a las víctimas del terremoto que devastó la ciudad hace un mes.**
-  El sismo de magnitud 7,4 dejó un profundo impacto en la ciudad colombiana.
+- **El banco de desarrollo CAF formaliza un préstamo de $500 millones con Panamá.**
+  El financiamiento busca fortalecer el acceso al crédito del sector agrícola y las pequeñas y medianas empresas.
 
 ## Economía
 
-- **El petróleo Brent llega a $101,75, su nivel más alto en cuatro meses.**
-  El WTI también sube, hasta los $97,14, impulsado por la nueva escalada militar entre Estados Unidos e Irán.
+- **El Banco Central Europeo eleva las tasas al 2,5%.**
+  El euríbor se ubica en 3,14% y el petróleo supera los $101 por la tensión en Medio Oriente.
 
-- **El Banco Central Europeo define su decisión de tasas en Berlín.**
-  Christine Lagarde explicó los detalles de la reunión de política monetaria en una conferencia de prensa.
+- **La inflación se mantendrá por encima del objetivo del 2% hasta mediados de 2027.**
+  El encarecimiento de la energía y los alimentos, impulsado por el conflicto regional, presiona a los bancos centrales.
 
-- **La OMC reporta que el comercio mundial de mercancías se fortaleció desde junio.**
-  Su indicador de septiembre se ubicó en 102 puntos, por encima del 101,7 registrado en junio.
+- **El crecimiento mundial se desacelera al 2,5% en 2026.**
+  Los mercados emergentes y las economías en desarrollo registrarán el menor crecimiento del ingreso per cápita desde la pandemia.
 
-- **El FMI y el Banco Mundial divergen sobre el crecimiento global de 2026.**
-  El FMI proyecta un avance cercano al 3%, mientras el Banco Mundial anticipa una desaceleración al 2,5% por el conflicto en Medio Oriente.
+- **El dólar cotiza a $0,8617 euros en un mercado cambiario volátil.**
+  Las tasas de interés cambiantes y la tensión geopolítica siguen moviendo al mercado de divisas.
 
 ## Política
 
-- **Marruecos inicia su campaña electoral legislativa.**
-  El proceso llega en medio de la preocupación por una posible baja participación de los votantes más jóvenes.
+- **Familiares de presos políticos intentan marchar hacia la Presidencia en Caracas.**
+  La movilización reclama la liberación de los detenidos en Venezuela.
 
-- **Continúa en París la cumbre internacional sobre el espacio.**
-  El encuentro, organizado por Francia, sigue reuniendo a delegaciones de todo el mundo.
+- **El presidente chileno José Antonio Kast enfrenta su primera conmemoración del golpe militar como jefe de Estado.**
+  El acto se da en un clima de sensibilidad política sobre la memoria histórica del país.
 
-- **Feijóo y Abascal acusan al gobierno español de ceder ante Marruecos.**
-  En el Congreso, ambos líderes cuestionaron la gestión del Ejecutivo, que Pedro Sánchez respondió rechazando cualquier «chantaje».
+- **Se cumple un año de la condena a Jair Bolsonaro por intento de golpe de Estado.**
+  El expresidente brasileño fue sentenciado a 27 años de prisión por los hechos.
 
-- **Los CDC de África ofrecen una conferencia sobre el brote de ébola en la República Democrática del Congo.**
-  El organismo continental informó sobre la evolución de la epidemia en el país.
+- **Un tribunal de Hong Kong condena a tres exdirigentes de las vigilias por Tiananmen.**
+  Las penas van de cinco años y dos meses a siete años y tres meses de prisión.
 
 ## Tecnología
 
-- **Apple presenta el iPhone Duo, su primer teléfono plegable.**
-  El dispositivo, valuado en 1.700 euros, llega en el marco del debut de John Ternus como consejero delegado.
+- **Bitcoin cae 3,06% y pierde los $77.000.**
+  La caída responde al temor a una Reserva Federal más restrictiva y a la cautela tras un exploit registrado en Liquid Network.
 
-- **La Casa Blanca retira un videojuego que permitía construir un muro fronterizo.**
-  La decisión generó repercusión mediática en Estados Unidos.
+- **Un salto en la inflación mayorista de Estados Unidos presiona al mercado cripto.**
+  La capitalización global de las criptomonedas retrocede a $2,7 billones tras conocerse el dato de precios al productor.
 
-- **Bitcoin defiende los $78.000 mientras el temor a la Reserva Federal frena el rebote.**
-  Los inversores reducen exposición de cara a la reunión de la Fed prevista para el 15 y 16 de septiembre.
+- **La dominancia de bitcoin se mantiene fuerte, en 57,2%.**
+  Ethereum, por su parte, se ubica en 11,1% de participación en el mercado cripto.
 
-- **El mercado cripto global cae 0,9%, hasta los $2,76 billones.**
-  La dominancia de bitcoin sube a 58,57%, en un contexto de rotación de capital hacia el activo principal.
+- **Crecen las expectativas por la preventa del iPhone Duo y el iPhone 18.**
+  Los nuevos dispositivos de Apple, presentados esta semana, se acercan a su etapa de comercialización.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/09/10/ultimas-noticias-10-septiembre-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/10/jueves-10-de-septiembre-de-2026-0200-gmt/)
-- [El Heraldo de México](https://heraldodemexico.com.mx/economia/2026/9/10/precio-del-petroleo-hoy-asi-cotiza-el-barril-de-crudo-este-10-de-septiembre-de-2026-885636.html)
-- [DiarioBitcoin](https://www.diariobitcoin.com/estados-unidos/bitcoin-btc-defiende-los-usd-78-000-el-10-de-septiembre-de-2026-mientras-el-temor-a-la-fed-frena-el-rebote/)
+- [Euronews](https://es.euronews.com/video/2026/09/11/ultimas-noticias-11-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/11/viernes-11-de-septiembre-de-2026-0200-gmt/)
+- [Euribor.com.es](https://www.euribor.com.es/2026/09/11/analisis-de-mercados-11-de-septiembre-de-2026-11-septiembre-2026/)
+- [DiarioBitcoin](https://www.diariobitcoin.com/estados-unidos/bitcoin-btc-cae-un-306-y-pierde-los-usd-77-000-este-11-de-septiembre-de-2026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
