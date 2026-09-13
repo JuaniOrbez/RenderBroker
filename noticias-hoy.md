@@ -1,63 +1,68 @@
-# Frecuencia Diaria — sábado 12 de septiembre de 2026
+# Frecuencia Diaria — domingo 13 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **El Tribunal Penal de El Cairo inicia la audiencia por el asesinato de cuatro miembros de una familia.**
-  El caso, ocurrido en el barrio acomodado de New Cairo, conmocionó a la opinión pública egipcia.
+- **Concluye en Nueva Delhi la cumbre de los BRICS.**
+  El bloque acordó máxima contención en Medio Oriente y rechazo a las sanciones unilaterales.
 
-- **Organizaciones cívicas protestan en Seúl contra un posible despliegue militar en el estrecho de Ormuz.**
-  Los manifestantes exigen al gobierno surcoreano rechazar la presión de Washington para participar en operaciones en la zona.
+- **Suecia celebra elecciones legislativas.**
+  La oposición de centroizquierda llega como favorita tras cuatro años de gobierno de una coalición de derecha.
 
-- **El líder golpista birmano Min Aung Hlaing visita Camboya.**
-  Continúa su gira internacional en busca de reconocimiento externo, reducido a mínimos desde el golpe de febrero de 2021.
+- **El partido de Lula da Silva convoca manifestaciones en las principales ciudades de Brasil.**
+  La movilización llega en medio de un empate técnico con el senador Flávio Bolsonaro de cara a una eventual segunda vuelta.
+
+- **París exhibe «Andy Warhol, la línea y la imagen».**
+  La muestra en el Museo de Luxemburgo rescata la faceta de dibujante del artista estadounidense.
 
 ## Economía
 
-- **India acoge la cumbre de los BRICS en Nueva Delhi.**
-  El encuentro de dos días reúne a los líderes del bloque con las guerras en Irán y Ucrania como telón de fondo.
-
-- **Trump promete un dividendo de $5.000 para cada ciudadano adulto de Estados Unidos.**
-  El mandatario aseguró que hará realidad la medida si los republicanos ganan las próximas elecciones.
+- **Xi Jinping promete que China trabajará con los BRICS por la paz en Medio Oriente.**
+  En la misma cumbre, Putin abogó por ampliar el Consejo de Seguridad de la ONU.
 
 - **Rusia y China envían oro récord a Hong Kong.**
-  Las importaciones de lingotes rusos se triplicaron en 2026 en un intento por esquivar las sanciones de Occidente.
+  El cierre de mercados como Londres y Nueva York a los lingotes rusos impulsó esta ruta alternativa para esquivar sanciones.
 
 - **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente continúa generando un aumento en los precios de la energía.
+  El conflicto en Medio Oriente continúa golpeando a los mercados emergentes y las economías en desarrollo.
+
+- **La atención económica de la semana se centra en la decisión de tasas de la Reserva Federal.**
+  También se esperan datos de producción manufacturera y consumo privado en varias economías.
 
 ## Política
 
-- **La tensión nuclear de Irán regresa al Consejo de Seguridad de la ONU.**
-  España ocupa un asiento clave en las decisiones sobre verificación nuclear, con el precio del petróleo y la estabilidad del Mediterráneo en juego.
+- **La cumbre de los BRICS cierra con las guerras de Irán y Ucrania como telón de fondo.**
+  Los líderes del bloque discutieron la incertidumbre económica global generada por ambos conflictos.
 
-- **Putin, Xi Jinping y Pezeshkian se reúnen en la cumbre de los BRICS.**
-  Los mandatarios de Rusia, China e Irán coinciden en Nueva Delhi en un encuentro marcado por los conflictos en curso.
+- **Suecia vota en unas elecciones legislativas clave.**
+  El resultado definirá si continúa la coalición de derecha o asume la oposición de centroizquierda.
 
-- **Corea del Sur enfrenta presión de Washington para sumarse a operaciones militares en Ormuz.**
-  La posibilidad genera rechazo social y pone al gobierno surcoreano ante una decisión delicada.
+- **Activistas convocan una vigilia por la libertad de los presos políticos en Venezuela.**
+  La actividad busca visibilizar la situación de los detenidos por razones políticas en el país.
+
+- **El partido de Lula moviliza a sus bases en Brasil de cara a las elecciones de octubre.**
+  Las encuestas muestran un escenario reñido entre el presidente y Flávio Bolsonaro.
 
 ## Tecnología
 
-- **Google actualiza sus suscripciones de inteligencia artificial.**
-  Los planes AI Plus, Pro y Ultra incorporan mejoras en productividad por voz y creación de imágenes para usuarios finales.
+- **Bitcoin cotiza a $77.135.**
+  Los flujos institucionales hacia los ETF de bitcoin se mantienen firmes, aunque persisten señales de cautela en el mercado de opciones.
 
-- **El asistente Instinct puede gestionar ahora su propia dirección de email.**
-  La función le permite hacer reservas, contactar negocios y gestionar seguimientos sin exponer los datos personales del usuario.
+- **La reunión de la Reserva Federal del 16 de septiembre concentra la atención del mercado cripto.**
+  El banco central podría mantener las tasas entre 3,50% y 3,75% o subirlas 0,25 puntos porcentuales.
 
-- **Bitcoin retrocede a $77.237.**
-  La cautela previa al dato de inflación de Estados Unidos frena el impulso de la criptomoneda.
+- **Avanzan modificaciones a leyes de bitcoin impulsadas por distintos gobiernos.**
+  Varias legislaturas respaldan cambios normativos para regular el uso de la criptomoneda en sus países.
 
-- **El mercado cripto global sube 0,8%, hasta los $2,73 billones.**
-  China podría flexibilizar sus restricciones al uso de criptomonedas, comenzando por Hong Kong.
+- **Samsung presenta novedades de «AI Living» en su evento First Look 2026.**
+  La compañía mostró nuevas funciones de inteligencia artificial pensadas para el hogar conectado.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/09/12/ultimas-noticias-12-septiembre-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/12/sabado-12-de-septiembre-de-2026-0200-gmt/)
-- [Moncloa.com](https://www.moncloa.com/2026/09/12/consejo-seguridad-onu-iran-espana-3430354)
-- [DiarioBitcoin](https://www.diariobitcoin.com/estados-unidos/bitcoin-btc-cae-a-usd-77-237-este-12-de-septiembre-de-2026-mientras-la-inflacion-tensa-los-mercados/)
+- [Euronews](https://es.euronews.com/video/2026/09/13/ultimas-noticias-13-septiembre-2026-mediodia)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/13/domingo-13-de-septiembre-de-2026-0200-gmt/)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/13/cual-es-el-precio-de-las-principales-criptomonedas-de-hoy-13-de-septiembre/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
