@@ -1,68 +1,69 @@
-# Frecuencia Diaria — domingo 13 de septiembre de 2026
+# Frecuencia Diaria — lunes 14 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Concluye en Nueva Delhi la cumbre de los BRICS.**
-  El bloque acordó máxima contención en Medio Oriente y rechazo a las sanciones unilaterales.
+- **Rusia Unida arrasa en las elecciones legislativas rusas.**
+  Putin busca mostrar al mundo el apoyo total de los rusos a la guerra en Ucrania tras la aplastante victoria del partido del Kremlin.
 
-- **Suecia celebra elecciones legislativas.**
-  La oposición de centroizquierda llega como favorita tras cuatro años de gobierno de una coalición de derecha.
+- **Italia despide a la senadora Emma Bonino.**
+  El gobierno delibera sobre honras fúnebres públicas y funeral de Estado para la histórica dirigente radical, fallecida el viernes en Roma a los 78 años.
 
-- **El partido de Lula da Silva convoca manifestaciones en las principales ciudades de Brasil.**
-  La movilización llega en medio de un empate técnico con el senador Flávio Bolsonaro de cara a una eventual segunda vuelta.
+- **Arranca en Riad el Foro Global sobre la Ética de la Inteligencia Artificial de la Unesco.**
+  La cumbre reúne a expertos y líderes mundiales para debatir los desafíos éticos que plantea el avance de la inteligencia artificial.
 
-- **París exhibe «Andy Warhol, la línea y la imagen».**
-  La muestra en el Museo de Luxemburgo rescata la faceta de dibujante del artista estadounidense.
+- **Oasis anuncia las fechas de su próxima gira mundial.**
+  El anuncio de la banda británica generó expectativa entre los fanáticos tras meses de rumores sobre su regreso a los escenarios.
 
 ## Economía
 
-- **Xi Jinping promete que China trabajará con los BRICS por la paz en Medio Oriente.**
-  En la misma cumbre, Putin abogó por ampliar el Consejo de Seguridad de la ONU.
+- **El dólar se fortalece frente al euro.**
+  Un dólar equivale a $0,8646 euros, en un contexto de tasas de interés cambiantes, datos mixtos y tensión geopolítica.
 
-- **Rusia y China envían oro récord a Hong Kong.**
-  El cierre de mercados como Londres y Nueva York a los lingotes rusos impulsó esta ruta alternativa para esquivar sanciones.
+- **El bono español a diez años roza su nivel más alto desde 2014.**
+  La tasa llegó al 4,006% y podría superar el máximo de 4,066% marcado en 2023.
 
-- **El crecimiento mundial se desacelera al 2,5% en 2026.**
-  El conflicto en Medio Oriente continúa golpeando a los mercados emergentes y las economías en desarrollo.
+- **Indonesia destituye a su ministro de Finanzas en medio de incertidumbre financiera.**
+  La salida se produce horas antes del regreso del presidente desde India, donde participó de la cumbre de los BRICS.
 
-- **La atención económica de la semana se centra en la decisión de tasas de la Reserva Federal.**
-  También se esperan datos de producción manufacturera y consumo privado en varias economías.
+- **El Banco Mundial proyecta una desaceleración del crecimiento global al 2,5% en 2026.**
+  Los mercados emergentes y las economías en desarrollo registrarían el menor crecimiento del ingreso per cápita desde la pandemia.
 
 ## Política
 
-- **La cumbre de los BRICS cierra con las guerras de Irán y Ucrania como telón de fondo.**
-  Los líderes del bloque discutieron la incertidumbre económica global generada por ambos conflictos.
+- **Irán negocia con los países del Golfo por la seguridad naval en el estrecho de Ormuz.**
+  El encuentro en Omán busca garantizar rutas seguras para la navegación comercial tras la intensificación de los ataques a petroleros.
 
-- **Suecia vota en unas elecciones legislativas clave.**
-  El resultado definirá si continúa la coalición de derecha o asume la oposición de centroizquierda.
+- **Una ONG israelí denuncia una política sistemática de desplazamiento en Cisjordania.**
+  El informe «The Elimination Project» de Btselem vincula violaciones de derechos humanos documentadas durante décadas con la escalada actual.
 
-- **Activistas convocan una vigilia por la libertad de los presos políticos en Venezuela.**
-  La actividad busca visibilizar la situación de los detenidos por razones políticas en el país.
+- **Europa reordena sus bloques parlamentarios tras el avance de la ultraderecha.**
+  Los resultados electorales en Suecia y en estados alemanes reabren el debate sobre migración y defensa en el continente.
 
-- **El partido de Lula moviliza a sus bases en Brasil de cara a las elecciones de octubre.**
-  Las encuestas muestran un escenario reñido entre el presidente y Flávio Bolsonaro.
+- **Macron recibe al primer ministro de Irak mientras Siria y Turquía amplían su cooperación.**
+  Ambos encuentros reflejan el reacomodamiento diplomático en Medio Oriente tras meses de tensión regional.
 
 ## Tecnología
 
-- **Bitcoin cotiza a $77.135.**
-  Los flujos institucionales hacia los ETF de bitcoin se mantienen firmes, aunque persisten señales de cautela en el mercado de opciones.
+- **Apple lanza la versión estable de iOS 27.**
+  La actualización llega a los dispositivos compatibles días después de la presentación del iPhone 18, el iPhone Duo y el Apple Watch Ultra 4.
 
-- **La reunión de la Reserva Federal del 16 de septiembre concentra la atención del mercado cripto.**
-  El banco central podría mantener las tasas entre 3,50% y 3,75% o subirlas 0,25 puntos porcentuales.
+- **Riad inaugura el IV Foro Global sobre la Ética de la Inteligencia Artificial de la Unesco.**
+  El encuentro convoca a especialistas de todo el mundo para discutir regulación y buenas prácticas en el desarrollo de la inteligencia artificial.
 
-- **Avanzan modificaciones a leyes de bitcoin impulsadas por distintos gobiernos.**
-  Varias legislaturas respaldan cambios normativos para regular el uso de la criptomoneda en sus países.
+- **Bitcoin cotiza en torno a $78.195 a la espera de la decisión de la Reserva Federal.**
+  La criptomoneda sube 1,3% en las últimas 24 horas mientras el mercado se paraliza ante la reunión del FOMC.
 
-- **Samsung presenta novedades de «AI Living» en su evento First Look 2026.**
-  La compañía mostró nuevas funciones de inteligencia artificial pensadas para el hogar conectado.
+- **Autoridades mexicanas allanan una mina clandestina de criptomonedas en Puebla.**
+  En el operativo se secuestraron alrededor de 300 placas gráficas y ocho antenas de internet satelital.
 
 ## Fuentes
 
-- [Euronews](https://es.euronews.com/video/2026/09/13/ultimas-noticias-13-septiembre-2026-mediodia)
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/13/domingo-13-de-septiembre-de-2026-0200-gmt/)
-- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/13/cual-es-el-precio-de-las-principales-criptomonedas-de-hoy-13-de-septiembre/)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/14/lunes-14-de-septiembre-de-2026-0200-gmt/)
+- [Infobae (economía)](https://www.infobae.com/espana/2026/09/14/cambio-de-euro-a-dolar-hoy-14-de-septiembre-como-esta-la-cotizacion-y-previsiones/)
+- [Infobae (política)](https://ahorainfo.com.ar/2026/09/14/mundo-puntos-clave-de-la-agenda-internacional/)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/14/asi-cotizan-las-principales-criptomonedas-del-mundo-digital-este-lunes-14-de-septiembre/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
