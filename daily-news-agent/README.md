@@ -5,7 +5,7 @@ publica de dos formas, ambas con URL estable, sobrescritas cada día:
 
 1. **Artifact visual**, se puede escuchar en voz alta desde el navegador
    (usa la Web Speech API, `speechSynthesis`, sin dependencias externas):
-   https://claude.ai/code/artifact/4c1e97c8-f152-49c4-b3af-1e2e8b874333
+   https://claude.ai/artifact/AQB87ML3CtD1GoDpNJaNKL
 2. **`noticias-hoy.md`**, texto plano puro (sin JS) para que lo lean
    herramientas externas, vía la URL raw de GitHub:
    https://raw.githubusercontent.com/JuaniOrbez/RenderBroker/claude/daily-news-summary-agent-yai11v/noticias-hoy.md
