@@ -1,69 +1,69 @@
-# Frecuencia Diaria — martes 15 de septiembre de 2026
+# Frecuencia Diaria — miércoles 16 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **La Corte Suprema de Filipinas absuelve a Imelda Marcos de cargos de corrupción.**
-  El fallo desató protestas de ciudadanos filipinos frente al tribunal en Manila, que rechazan la decisión sobre la ex primera dama.
+- **Ursula von der Leyen pronuncia su discurso del Estado de la Unión Europea 2026.**
+  La presidenta de la Comisión Europea repasó dos años de gestión y fijó las prioridades legislativas de Bruselas para los próximos meses.
 
-- **El Canal de Panamá reduce a 32 los tránsitos diarios de buques.**
-  La medida busca ahorrar agua ante el déficit de lluvias provocado por El Niño, cuatro tránsitos menos que el promedio habitual.
+- **El Tribunal Especial para Kosovo condena al expresidente Hashim Thaci.**
+  El fallo alcanza también a otros tres acusados por crímenes de guerra y de lesa humanidad cometidos durante el conflicto de 1998 y 1999.
 
-- **Estados Unidos impone un arancel del 50% a nuevos productos canadienses.**
-  La sobretasa alcanza a quesos, muebles, productos de aluminio, colchones y embarcaciones en medio de la guerra comercial entre ambos países.
+- **Miles de personas siguen desaparecidas tres semanas después de las inundaciones en Nepal.**
+  El desastre dejó casi 1.400 fallecidos y más de 4.000 desaparecidos, en medio del agotamiento y el reclamo a las autoridades.
 
-- **Se cumplen seis años de la firma de los Acuerdos de Abraham.**
-  El pacto, auspiciado por Estados Unidos, impulsó la normalización de relaciones entre Israel y varios países árabes e islámicos.
+- **Hong Kong presenta su primer plan quinquenal.**
+  El territorio delineó por primera vez una hoja de ruta de desarrollo a cinco años.
 
 ## Economía
 
-- **La inflación española repunta al 4,3% interanual en agosto.**
-  La inestabilidad geopolítica derivada del conflicto en Irán aumenta la presión sobre los precios en España.
+- **La Reserva Federal evalúa una nueva suba de tasas de 25 puntos básicos.**
+  La decisión, que llevaría la tasa hasta el 4%, domina la agenda económica del día.
 
-- **Las principales compañías de inteligencia artificial de frontera acuerdan ralentizar su desarrollo.**
-  Sus directivos alcanzaron una entente para moderar el avance de sus modelos más potentes.
+- **Rusia y China triplican en 2026 sus envíos de oro a Hong Kong.**
+  La ruta busca esquivar las sanciones occidentales tras el cierre de mercados como Londres y Nueva York a los lingotes rusos.
 
-- **Estados Unidos y Canadá profundizan su guerra comercial.**
-  La nueva sobretasa del 50% a productos canadienses tensiona aún más la relación bilateral.
+- **El Banco Mundial proyecta una desaceleración del crecimiento global al 2,5% en 2026.**
+  El alza de los precios de la energía por el conflicto en Medio Oriente sigue golpeando a la economía mundial.
 
-- **Canadá busca movilizar un billón de dólares canadienses en inversión extranjera.**
-  El primer ministro Mark Carney lo planteó en la primera Cumbre de Inversión de Canadá.
+- **Las relaciones económicas entre Alemania y Rusia llegan a un nuevo punto de tensión.**
+  El vínculo bilateral completó un giro de 180 grados desde la invasión de Ucrania.
 
 ## Política
 
-- **Países Bajos abre su curso político con el tradicional Prinsjesdag.**
-  Es el primer gobierno neerlandés que intenta sacar adelante sus presupuestos estando en minoría parlamentaria.
+- **Von der Leyen fija las prioridades políticas de la Unión Europea para lo que resta del mandato.**
+  Su discurso del Estado de la Unión repasó el panorama internacional y los desafíos legislativos de Bruselas.
 
-- **El Senado de Italia prevé aprobar una controvertida Ley Electoral.**
-  La iniciativa generó debate entre las distintas fuerzas políticas del país.
+- **La crisis migratoria en Ceuta se convierte en eje de confrontación política en España.**
+  El asunto llegó al Parlamento Europeo, con acusaciones cruzadas entre partidos por el manejo de la frontera.
 
-- **India y el Mercosur inician negociaciones para ampliar su Acuerdo de Comercio Preferencial.**
-  Las partes buscan profundizar los vínculos comerciales entre ambos bloques.
+- **El Ministerio de Salud de Gaza suspende el traslado de personal médico por falta de combustible.**
+  La medida reduce la disponibilidad de trabajadores sanitarios y las intervenciones quirúrgicas en la zona.
 
-- **El Foro Global sobre la Ética de la Inteligencia Artificial de la Unesco celebra su segunda jornada en Riad.**
-  El encuentro se centra en el desarrollo responsable y la gobernanza de la tecnología.
+- **El Tribunal Especial para Kosovo dicta sentencia contra Hashim Thaci.**
+  La resolución marca un hito judicial casi tres décadas después del conflicto kosovar.
 
 ## Tecnología
 
-- **Apple prepara nuevas funciones para el Apple Watch, que sale a la venta el 18 de septiembre.**
-  Entre ellas, una capaz de escuchar conversaciones y transcribirlas directamente desde el reloj.
+- **España registra su primera brecha de datos ejecutada por un agente de inteligencia artificial autónomo.**
+  La Agencia Española de Protección de Datos recibió la notificación este lunes, un caso inédito en el país.
 
-- **Expertos reunidos en Pekín piden reforzar la supervisión humana sobre la inteligencia artificial.**
-  Coincidieron en la necesidad de fortalecer los mecanismos de seguridad y la cooperación internacional ante sus riesgos.
+- **La Cámara de Representantes de Estados Unidos revisa hoy un proyecto de reserva estratégica de bitcoin.**
+  La propuesta legislativa genera expectativa en el mercado cripto mientras se debate su alcance.
 
-- **Bitcoin ronda los $78.000 mientras el Senado de Estados Unidos vota la ley CLARITY.**
-  El mercado cripto global alcanzó una capitalización de $2,77 billones, a la espera también de la decisión de la Reserva Federal.
+- **Bitcoin cotiza en torno a $77.100 en medio del debate sobre la reserva estratégica.**
+  Los inversores siguen de cerca tanto la discusión legislativa como la próxima decisión de tasas de la Reserva Federal.
 
-- **El exchange CoinEx anuncia el cierre de su plataforma de criptomonedas.**
-  La compañía citó las condiciones del mercado y las exigencias regulatorias; sus operaciones finalizarán el 22 de diciembre.
+- **Entra en vigor la Ley de Resiliencia Cibernética de la Unión Europea.**
+  La norma exige reportar en un plazo de 24 horas las vulnerabilidades detectadas en billeteras de criptomonedas.
 
 ## Fuentes
 
-- [Infobae](https://www.infobae.com/america/agencias/2026/09/15/martes-15-de-septiembre-de-2026-0700-gmt/)
-- [Infobae (economía)](https://www.eleconomista.es/economia/)
-- [Swissinfo (política)](https://www.swissinfo.ch/spa/temas-del-d%C3%ADa-de-efe-internacional-del-martes,-15-de-septiembre-de-2026-(09:00-horas)/92058557)
-- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/regulacion/bitcoin-btc-cede-un-082-este-15-de-septiembre-de-2026-mientras-el-senado-vota-la-clarity-act/)
+- [Infobae](https://www.infobae.com/america/agencias/2026/09/16/miercoles-16-de-septiembre-de-2026-0700-gmt/)
+- [elEconomista](https://www.eleconomista.es/economia/)
+- [Periodista Digital (política)](https://www.periodistadigital.com/periodismo/20260916/10-temas-marcan-politica-periodismo-miercoles-16-septiembre-2026-ceuta-supremo-relato-noticia-689405247404/)
+- [CriptoNoticias](https://www.criptonoticias.com/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
