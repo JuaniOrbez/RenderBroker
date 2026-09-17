@@ -1,6 +1,8 @@
-# Frecuencia Diaria — miércoles 16 de septiembre de 2026
+# Frecuencia Diaria — jueves 17 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
+
+*Nota: la búsqueda web no estuvo disponible hoy, así que esta edición mantiene las noticias de ayer (miércoles 16) por categoría, según lo indicado para estos casos.*
 
 ## Mundo
 
