@@ -1,66 +1,63 @@
-# Frecuencia Diaria — sábado 19 de septiembre de 2026
+# Frecuencia Diaria — domingo 20 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **El puerto de Ceuta se desborda mientras miles de inmigrantes vuelven a acampar en las playas.**
-  Más de 2.000 personas debieron regresar a las playas tras no encontrar espacio en el nuevo centro de recepción del puerto, pensado para 1.700 plazas.
+- **Irán emite el Código 100, su máximo nivel de alerta militar.**
+  El Cuerpo de Guardianes de la Revolución, el ejército y las fuerzas de seguridad iraníes fueron puestos en alerta máxima ante la escalada con Estados Unidos.
 
-- **Reporteros Sin Fronteras denuncia una campaña de odio y difamación contra periodistas en Marruecos.**
-  La organización alertó sobre el hostigamiento que enfrentan comunicadores marroquíes en el ejercicio de su labor.
+- **Un bombardero B-1B Lancer del Pentágono despega hacia Medio Oriente.**
+  La aeronave, cargada con munición, partió de la base RAF Fairford en el Reino Unido rumbo a la región en medio de la tensión con Irán.
 
-- **Ceuta pide ayuda urgente a la Unión Europea ante la falta de coordinación en la crisis migratoria.**
-  Las autoridades de la ciudad autónoma reclaman apoyo europeo mientras persisten los problemas para alojar a los migrantes.
+- **La guerra entre Estados Unidos e Irán se extiende hacia Arabia Saudí y el estrecho de Ormuz.**
+  La escalada eleva el riesgo de un nuevo shock inflacionario a través del mercado energético mundial.
 
 ## Economía
 
-- **El Banco Mundial proyecta una desaceleración del crecimiento global al 2,5% en 2026.**
-  La eurozona crecería apenas 0,8% este año, mientras China se desaceleraría al 4,4%.
+- **La Reserva Federal sube las tasas de interés por primera vez desde 2023.**
+  La medida se dio en medio de una demanda interna que sigue mostrando fortaleza pese al endurecimiento de las condiciones financieras.
 
-- **Rusia y China intensifican sus envíos de oro a Hong Kong para esquivar las sanciones occidentales.**
-  Las importaciones de lingotes rusos se triplicaron en 2026 mientras persiste el cierre de los mercados de Londres y Nueva York.
+- **El mercado mundial de refino de petróleo enfrenta una creciente tensión de oferta.**
+  El procesamiento global cayó a 81,4 millones de barriles diarios en agosto, 4,2 millones menos que un año antes, con Rusia y Medio Oriente como principales focos de disrupción.
 
-- **Las dudas sobre el desarrollo acelerado de la inteligencia artificial provocan una corrección en las bolsas mundiales.**
-  Las advertencias de los propios creadores de la tecnología sobre la necesidad de regularla golpearon a los mercados.
+- **El encarecimiento del petróleo por la guerra entre Estados Unidos e Irán aumenta el riesgo de un nuevo shock inflacionario.**
+  Las tensiones en el estrecho de Ormuz y la extensión del conflicto hacia Arabia Saudí presionan al alza los precios de la energía.
 
-- **SpaceX afronta una nueva liberación de acciones el 24 de septiembre.**
-  Se sumarán hasta 328,4 millones de acciones adicionales al mercado, cerca del 7% del total en circulación.
+- **El Banco Mundial mantiene su proyección de una desaceleración del crecimiento global al 2,5% en 2026.**
+  El organismo advierte que el conflicto en Medio Oriente sigue golpeando a los mercados emergentes y las economías en desarrollo.
 
 ## Política
 
-- **El puerto de Ceuta se desborda y la ciudad autónoma pide ayuda urgente a la Unión Europea.**
-  La falta de coordinación en la crisis migratoria vuelve a poner presión sobre el gobierno español y las autoridades europeas.
+- **Irán decreta su máximo nivel de alerta militar ante la escalada con Estados Unidos.**
+  El Código 100 pone en estado de máxima preparación al Cuerpo de Guardianes de la Revolución, el ejército y las fuerzas de seguridad.
 
-- **EH Bildu celebra su Conferencia Política.**
-  La organización sometió a votación su protocolo contra la violencia machista y su código ético.
+- **Estados Unidos despliega un bombardero hacia Medio Oriente en medio de la tensión con Irán.**
+  El Pentágono envió un B-1B Lancer cargado con munición desde una base en el Reino Unido.
 
-- **Reporteros Sin Fronteras denuncia una campaña de odio y difamación contra periodistas en Marruecos.**
-  El informe describe el hostigamiento sistemático que enfrentan comunicadores marroquíes.
-
-- **Bernie Sanders presenta un proyecto para prohibir la superinteligencia artificial en Estados Unidos.**
-  La iniciativa busca pausar el desarrollo de la inteligencia artificial más avanzada hasta contar con reglas federales.
+- **La guerra entre Estados Unidos e Irán amenaza con extenderse a Arabia Saudí.**
+  La escalada regional pone en alerta a los países del golfo Pérsico y a la navegación en el estrecho de Ormuz.
 
 ## Tecnología
 
-- **El gobernador de California firma una orden ejecutiva para reforzar la supervisión de la inteligencia artificial avanzada.**
-  Gavin Newsom propone exigir mecanismos de desconexión de emergencia para los modelos más avanzados, verificados por organismos independientes.
+- **Anthropic fusiona el chat y Cowork en «One Claude» y lanza Claude Docs, Slides y Design.**
+  Las nuevas herramientas quedan integradas directamente dentro de las conversaciones con Claude.
 
-- **Expertos piden evitar tanto el alarmismo como la indiferencia ante una eventual pérdida de control de la inteligencia artificial.**
-  Especialistas consultados advirtieron sobre la necesidad de un debate equilibrado frente a los riesgos de la tecnología.
+- **El Consejo de Supervisión de Meta ordena retirar videos deepfake de la plataforma.**
+  El organismo calificó la política de inteligencia artificial generativa de la empresa como «consistente y fundamentalmente inadecuada».
 
-- **Bitcoin supera los $81.000 tras disiparse las dudas por el fracaso de la ley de transparencia cripto en el Senado de Estados Unidos.**
-  La criptomoneda subió 4,87% en el día, mientras el mercado global de criptomonedas trepó 5,2% hasta los $2,86 billones.
+- **Bitcoin cotiza a $80.485 con una suba de 0,92%.**
+  Deutsche Bank planea ofrecer servicios de custodia de bitcoin y activos digitales a clientes institucionales europeos antes de fin de año.
 
-- **Solana sube más del 12% en 24 horas, su mayor avance en siete meses.**
-  El token superó tanto a Bitcoin como a Ethereum en la jornada, cotizando en torno a los $113.
+- **La Comisión de Bolsa y Valores de Estados Unidos habilita una exención regulatoria para valores tokenizados.**
+  La «innovation exemption» permite que los exchanges basados en blockchain coticen y comercien con este tipo de activos.
 
 ## Fuentes
 
-- [Euronews (Ceuta)](https://es.euronews.com/my-europe/2026/09/19/el-puerto-de-ceuta-se-desborda-mientras-miles-de-inmigrantes-vuelven-a-acampar-en-las-play)
-- [Infobae (IA)](https://www.infobae.com/america/agencias/2026/09/19/expertos-ante-una-posible-perdida-de-control-de-la-ia-no-debemos-caer-ni-en-el-alarmismo-ni-en-la-indiferencia/)
-- [El Universal (California IA)](https://www.eluniversal.com.co/mundo/2026/09/18/un-boton-para-apagar-la-ia-la-propuesta-del-gobernador-de-california/)
-- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/19/como-funciona-el-mercado-de-criptomonedas-y-cual-es-su-valor-este-sabado-19-de-septiembre/)
+- [La Jornada (Irán)](https://www.jornada.com.mx/2026/09/20/mundo/015n1mun?partner=rss)
+- [El Mapa Macro (semana económica)](https://alphaxander.substack.com/p/el-mapa-macro-1420-septiembre-2026)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/20/criptomonedas-valor-de-las-principales-divisas-digitales-hoy-domingo-20-de-septiembre/)
+- [Infobae (agencias)](https://www.infobae.com/america/agencias/2026/09/20/domingo-20-de-septiembre-0200-gmt/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
