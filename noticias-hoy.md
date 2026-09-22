@@ -1,66 +1,69 @@
-# Frecuencia Diaria — lunes 21 de septiembre de 2026
+# Frecuencia Diaria — martes 22 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Israel indulta al exsoldado Elor Azaria, condenado en 2017 por matar a un palestino herido.**
-  El presidente Isaac Herzog firmó el indulto, mientras el ministro Itamar Ben-Gvir exige además la pena de muerte para el autor de un tiroteo cerca de un asentamiento en Cisjordania.
+- **Termina la campaña electoral en Marruecos, que celebra mañana elecciones legislativas.**
+  El país cierra la etapa de proselitismo antes de acudir a las urnas para renovar su parlamento.
 
-- **Rusia ataca con drones puertos e instalaciones energéticas ucranianas en Kiev y Odesa.**
-  El bombardeo se produjo la misma noche en que Ucrania atacó el «corazón de Rusia» en plena jornada electoral rusa.
+- **Arranca la Asamblea General de la ONU en Nueva York con el discurso de António Guterres.**
+  El debate estará marcado por las guerras en Irán, Gaza y Ucrania, las tensiones geopolíticas y los desafíos de la inteligencia artificial.
 
-- **Continúa la guerra civil en Yemen con nuevos bombardeos de la coalición liderada por Arabia Saudí.**
-  La ofensiva sostiene al gobierno internacionalmente reconocido en su lucha contra los hutíes.
+- **Colombia y Costa Rica coordinan la lucha contra el narcotráfico y el crimen organizado.**
+  Los presidentes de ambos países centraron su encuentro en las organizaciones criminales transnacionales.
+
+- **Londres alberga el estreno mundial de «Digger», la nueva película de Alejandro González Iñárritu.**
+  El filme, protagonizado por Tom Cruise, contó con la presencia esperada de los príncipes de Gales.
 
 ## Economía
 
-- **Los mercados elevan al 56,5% la probabilidad de otra suba de tasas de la Reserva Federal en octubre.**
-  Su presidente, Kevin Warsh, advirtió que la inflación «es demasiado alta y lo ha sido durante demasiado tiempo».
+- **El petróleo se desploma por cuarta sesión consecutiva.**
+  El Brent cayó 3,35% hasta los $100,4 por barril y el WTI bajó 4,6%, a $95,68, tras la oferta de crudo adicional de Arabia Saudí a refinerías asiáticas.
 
-- **Arabia Saudí ofrece cargamentos adicionales de crudo a través de Omán.**
-  La medida reduce los temores a interrupciones prolongadas en el suministro energético mundial.
+- **La caída del petróleo resta presión inflacionaria sobre los bancos centrales.**
+  El alivio en los precios de la energía llega tras varios trimestres de subas de tasas para contener la inflación.
 
-- **El Ibex 35 se dispara más de 1% y recupera los 19.700 puntos.**
-  Los mercados europeos reaccionan con optimismo pese a la cautela de los inversores ante la falta de catalizadores claros.
+- **El 56% de los economistas prevé una mejora de la economía mundial.**
+  Sin embargo, el 96% considera que los conflictos geopolíticos seguirán siendo una fuente probable de incertidumbre el próximo año.
 
-- **Xi Jinping realizará una visita de Estado a Estados Unidos del 23 al 25 de septiembre.**
-  El presidente chino viajará por invitación de Donald Trump en un encuentro bilateral de alto perfil.
+- **La Cámara de Comercio de la Unión Europea en China advierte sobre los desequilibrios estructurales de su economía.**
+  El informe de posición 2026/2027 expone las principales preocupaciones de las empresas europeas que operan en el país.
 
 ## Política
 
-- **Pedro Sánchez viaja a Nueva York para la 81ª Asamblea General de la ONU con la crisis de Ceuta como tema central.**
-  El presidente español se reunió con el secretario general António Guterres al inicio de su visita.
+- **Arranca la Semana de Alto Nivel de la Asamblea General de la ONU en Nueva York.**
+  El discurso de apertura de António Guterres estará marcado por las guerras en Irán, Gaza y Ucrania.
 
-- **Lula da Silva desarrolla una agenda bilateral en Nueva York antes de abrir el debate general de la ONU.**
-  El mandatario brasileño pronunciará mañana el tradicional discurso de apertura de la Asamblea General.
+- **El Atlantic Council reúne en Nueva York al presidente sirio y al canciller español.**
+  Ahmed al Sharaa y José Manuel Albares participaron del encuentro en el marco de la Semana de Alto Nivel de la ONU.
 
-- **Trump se prepara para recibir a Xi Jinping en Washington tras la Asamblea de la ONU.**
-  El presidente estadounidense combinará su participación en el encuentro de alto nivel en Nueva York con la visita de Estado china.
+- **Termina la campaña electoral en Marruecos de cara a las legislativas de mañana.**
+  El país se prepara para renovar su parlamento en una jornada que definirá el rumbo político de los próximos años.
 
-- **Israel indulta al exsoldado Elor Azaria en medio de tensión por un nuevo ataque en Cisjordania.**
-  El ministro de Seguridad Nacional, Itamar Ben-Gvir, exige además la pena de muerte para el autor de un tiroteo cerca de un asentamiento.
+- **En Ecuador, la iniciativa Revoca EC recurre a la Corte Constitucional.**
+  El líder indígena Leonidas Iza presentó una acción de protección tras el rechazo a la revocatoria de mandato del presidente Daniel Noboa.
 
 ## Tecnología
 
-- **Trump anuncia la creación de una «AI Force» y descarta imponer regulación federal a la inteligencia artificial.**
-  La decisión deja el terreno libre a las grandes tecnológicas estadounidenses en el desarrollo de la IA.
+- **Jensen Huang, de Nvidia, afirma que la inteligencia artificial generativa no provocará el fin de la humanidad.**
+  Responde así a advertencias alarmistas de un exempleado de Anthropic y a los llamados de Dario Amodei y Sam Altman a moderar el ritmo de desarrollo de la tecnología.
 
-- **Anthropic retrasa su salida a bolsa de octubre a noviembre de 2026.**
-  La compañía ajustó el cronograma de su esperado debut en el mercado bursátil.
+- **Bitcoin supera los $85.000 y roza los $87.000 tras liquidaciones masivas de posiciones cortas.**
+  Las liquidaciones forzadas alcanzaron unos $648 millones, con un volumen de operaciones 72% superior al promedio de 30 días.
 
-- **Alibaba lanza en código abierto Qwen-Image-2.1, un generador de imágenes con inteligencia artificial.**
-  La compañía asegura que supera a modelos cerrados como los de OpenAI o Midjourney.
+- **Strategy retoma sus compras de bitcoin tras una pausa de dos semanas.**
+  La compañía sumó 950 bitcoins por $76 millones a su reserva.
 
-- **Bitcoin rompe su rango lateral de $80.000 y sube 5,31% hasta los $84.666.**
-  La criptomoneda superó su promedio móvil de 50 semanas por primera vez en 45 semanas, un posible indicio de fin del mercado bajista.
+- **Ethereum rompe por encima de los $2.700 mientras el mercado cripto extiende su repunte semanal.**
+  Otros tokens de capa uno también avanzaron en una jornada de fuertes ganancias generalizadas.
 
 ## Fuentes
 
-- [La Jornada (Medio Oriente)](https://www.jornada.com.mx/2026/09/21/mundo/029n2mun?partner=rss)
-- [Infobae (economía)](https://www.infobae.com/espana/2026/09/21/como-esta-el-euro-frente-al-dolar-este-21-de-septiembre/)
-- [Periodista Digital (política)](https://www.periodistadigital.com/periodismo/20260921/10-temas-marcan-politica-periodismo-lunes-21-septiembre-2026-titulares-cruzados-noticia-689405248866/)
-- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/regulacion/bitcoin-btc-salta-un-531-a-usd-84-666-este-21-de-septiembre-de-2026-y-rompe-su-techo-de-90-dias/)
+- [Semana (Mundo)](https://www.semana.com/mundo/articulo/la-unica-forma-en-la-que-venezuela-puede-vislumbrar-un-futuro-mejor-es-dando-una-transicion-rapida-a-la-democracia-ivan-duque/202621/)
+- [Infobae (economía)](https://www.infobae.com/america/agencias/2026/09/22/los-economistas-preven-una-mejora-de-la-economia-mundial-pero-con-la-incertidumbre-todavia-acechando/)
+- [Infobae (política, EFE)](https://www.infobae.com/america/agencias/2026/09/22/temas-del-dia-de-efe-internacional-del-martes-22-de-septiembre-de-2026-1200-gmt/)
+- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/analisis/bitcoin-btc-salta-634-a-usd-85-487-este-22-de-septiembre-de-2026-y-erosiona-los-usd-87-000/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
