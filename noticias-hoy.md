@@ -1,69 +1,69 @@
-# Frecuencia Diaria — miércoles 23 de septiembre de 2026
+# Frecuencia Diaria — jueves 24 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Guterres convoca la Cumbre del Clima 2026 en la ONU.**
-  El encuentro busca impulsar la transición hacia las energías renovables, reforzar la seguridad energética y abordar la financiación climática.
+- **Trump recibe a Xi Jinping en la Casa Blanca en una cumbre marcada por Taiwán, Irán, el comercio y la inteligencia artificial.**
+  Es la primera visita del líder chino a Washington en más de una década y la segunda reunión entre ambos mandatarios en el año.
 
-- **Trump y Delcy Rodríguez se reúnen por primera vez en Nueva York.**
-  El encuentro, calificado de «histórico» por la mandataria venezolana, es el primer contacto presencial entre un presidente estadounidense y un gobernante venezolano en más de once años.
+- **Cazas españoles se activan ante una alerta real por drones rusos cerca de la frontera de Rumanía.**
+  Dos F-18 del Ejército del Aire y del Espacio monitorearon la presencia de drones sobre la localidad ucraniana de Chilia Veche.
 
-- **Trump amenaza con «aniquilar» a Irán en su discurso ante la Asamblea General de la ONU.**
-  La intervención del presidente estadounidense elevó la tensión en plena Semana de Alto Nivel de Naciones Unidas.
+- **Opositores protestan en Caracas para exigir el regreso de María Corina Machado a Venezuela.**
+  Los manifestantes reclaman el retorno al país de la líder opositora, premio Nobel de la Paz.
 
-- **Pedro Sánchez interviene ante la Asamblea General de la ONU.**
-  El presidente español participó además en Nueva York del foro «América Latina, Estados Unidos y España en la economía global».
+- **Los sindicatos europeos convocan una manifestación contra el impacto de «EU Inc.» en los trabajadores.**
+  La protesta busca visibilizar las consecuencias laborales de la iniciativa para las y los trabajadores del bloque.
 
 ## Economía
 
-- **El petróleo Brent cae a $98,50 por barril.**
-  Las esperanzas diplomáticas y la reanudación del oleoducto Este-Oeste de Arabia Saudita, que se prepara para retomar exportaciones por Yanbu, reducen la prima de riesgo geopolítico.
+- **El comercio bilateral centra la cumbre entre Trump y Xi Jinping en la Casa Blanca.**
+  Ambos mandatarios buscan estabilizar una relación tensionada también por Taiwán, Irán y la inteligencia artificial.
 
-- **La OCDE eleva su previsión de crecimiento mundial al 2,9% para 2026.**
-  El organismo proyecta un 3% para 2027, mientras espera una expansión de apenas 1% para la zona euro en ambos años.
+- **Brasil publica su informe trimestral de política monetaria.**
+  El Banco Central actualizó sus proyecciones de PIB e inflación para 2026, en la misma semana en que la Conab difunde su tercera estimación de la cosecha de café.
 
-- **La OCDE eleva la previsión de crecimiento de Italia al 0,9% para 2026.**
-  La estimación queda cuatro décimas por encima de la proyección que el organismo había hecho en junio.
+- **El Banco Central de Egipto se reúne para revisar sus tasas de interés.**
+  La decisión se toma en un contexto de atención global a la política monetaria de las economías emergentes.
 
-- **Australia mantiene expectativas de una suba de tasas pese a indicadores de actividad más débiles.**
-  El banco central se reunirá el 29 de septiembre para definir su próxima decisión de política monetaria.
+- **El alza récord de los combustibles en Chile encarece el costo de vida.**
+  El aumento sostenido desde marzo, bajo la administración de José Antonio Kast, presiona a pequeños comerciantes, transportistas y agricultores.
 
 ## Política
 
-- **Trump y Delcy Rodríguez protagonizan un acercamiento inédito entre Washington y Caracas.**
-  El encuentro en el Hotel Lotte New York Palace marca el primer contacto presencial en más de once años entre ambos gobiernos.
+- **Trump recibe a Xi Jinping en la primera visita del líder chino a Washington en más de una década.**
+  La cumbre busca estabilidad bilateral en medio de diferencias sobre Taiwán, Irán, comercio e inteligencia artificial.
 
-- **Trump amenaza con «aniquilar» a Irán en su discurso ante Naciones Unidas.**
-  Las declaraciones se dieron en medio de la Semana de Alto Nivel de la Asamblea General de la ONU.
+- **Pedro Sánchez pronuncia ante la ONU un alegato contra las políticas de Donald Trump.**
+  El discurso del presidente español se suma a la serie de intervenciones críticas durante la Semana de Alto Nivel de la Asamblea General.
 
-- **Yolanda Díaz compite por la dirección general de la Organización Internacional del Trabajo.**
-  La ministra española se presentó junto al actual titular, Gilbert Houngbo, y el exministro peruano Javier González-Olaechea ante el Consejo de Administración del organismo.
+- **Opositores exigen en Caracas el regreso de María Corina Machado a Venezuela.**
+  La movilización reclama el retorno de la líder opositora y premio Nobel de la Paz al país.
 
-- **Culmina en Venezuela el segundo ciclo de diálogo entre el chavismo y la oposición.**
-  Las mesas técnicas abordaron la libertad de expresión y el derecho a la información en el marco del plan de transición impulsado por Estados Unidos.
+- **El conflicto en el Cuerno de África gana atención internacional con Sudán y Etiopía en el centro.**
+  Analistas de política exterior siguen de cerca la evolución de las tensiones regionales.
 
 ## Tecnología
 
-- **Google pone a la venta el Pixelbook a $899.**
-  Los primeros equipos llegarán a las tiendas de Estados Unidos el 4 de octubre y al resto de los mercados un día después.
+- **Qualcomm presenta el Snapdragon 8 Elite Extreme Gen 6 en su Snapdragon Summit 26.**
+  El nuevo procesador de gama alta se posiciona como el más potente de la compañía, con nuevas funciones y tecnologías.
 
-- **Bitcoin cotiza a $86.872, cerca de máximos de ocho meses.**
-  La mejora en los flujos de capital hacia los fondos cotizados en bolsa impulsó el reciente rebote de la criptomoneda.
+- **La NASA desarrolla un sistema de inteligencia artificial que permite a robots de distintos tipos colaborar de forma autónoma.**
+  Cada robot aporta sus habilidades particulares para lograr un trabajo en equipo planificado sin intervención humana.
 
-- **Bitcoin Cash se dispara más de 31% tras confirmarse el lanzamiento de futuros regulados en CME Group.**
-  Los contratos comenzarán a operar el 19 de octubre, lo que impulsó con fuerza la cotización del token.
+- **Bitcoin cae 2,7% hasta los $84.148.**
+  El repunte del petróleo y de los rendimientos de los bonos del Tesoro intensificó las preocupaciones por tasas de interés más altas.
 
-- **Un analista de U.S. Tiger Securities afirma que Bitcoin entró en un nuevo mercado alcista.**
-  La firma fijó un objetivo de ciclo de $250.000 para 2029 o antes.
+- **Un analista mantiene el objetivo de $100.000 para bitcoin pese a la caída.**
+  Ali Martinez destaca los $82.500 como soporte clave y cita la demanda institucional como respaldo de la proyección.
 
 ## Fuentes
 
-- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/09/22/miercoles-23-septiembre-de-2026-1930-gmt/)
-- [CiberCuba (Trump-Rodríguez)](https://www.cibercuba.com/noticias/2026-09-23-u1-e199370-s27061-nid340959-trump-delcy-rodriguez-reunen-primera-vez-nueva-york)
-- [Prensa Latina (OCDE)](https://www.prensa-latina.cu/2026/09/23/ocde-eleva-prevision-de-crecimiento-de-italia-al-09-por-ciento/)
-- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/regulacion/bitcoin-cash-bch-se-dispara-mas-de-31-este-23-de-septiembre-de-2026-y-el-mercado-pregunta-si-puede-sostener-el-nivel/)
+- [Infobae (Trump-Xi)](https://www.infobae.com/america/mundo/2026/09/24/trump-recibe-a-xi-jinping-en-la-casa-blanca-para-una-cumbre-marcada-por-el-comercio-taiwan-iran-y-la-inteligencia-artificial/)
+- [Infobae (agencias)](https://www.infobae.com/america/agencias/2026/09/24/jueves-24-de-septiembre-de-2026-0200-gmt/)
+- [Periodista Digital (política)](https://www.periodistadigital.com/periodismo/20260924/10-temas-marcan-politica-periodismo-jueves-24-septiembre-2026-desahucio-maricarmen-ceuta-noticia-689405250125/)
+- [Investing.com (cripto)](https://mx.investing.com/news/cryptocurrency-news/bitcoin-cae-a-84k-por-alza-en-rendimientos-y-petroleo-3774574)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
