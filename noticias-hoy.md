@@ -1,69 +1,60 @@
-# Frecuencia Diaria — viernes 25 de septiembre de 2026
+# Frecuencia Diaria — sábado 26 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **El Consejo de Seguridad de la ONU aborda la situación mundial de los refugiados.**
-  El debate se da en el marco de la Asamblea General, con millones de personas desplazadas por guerras y conflictos en distintas regiones.
+- **Cerca de 40 naciones se comprometen a defender a las cortes internacionales y a Palestina.**
+  El bloque de países respalda el rol de los tribunales internacionales frente a las presiones políticas.
 
-- **La Asamblea General de la ONU prosigue con las intervenciones de líderes de Oriente Medio.**
-  Los primeros ministros de Líbano, Irak y Pakistán tomaron la palabra en medio de los conflictos que atraviesan la región.
+- **El canciller brasileño Mauro Vieira respalda sanciones contra colonos y políticos israelíes.**
+  Vieira avaló los reclamos por la violencia contra la población palestina en los territorios ocupados.
 
-- **El papa visita la sede de la Unesco en París.**
-  Pronunció un discurso sobre las oportunidades y los peligros de la inteligencia artificial, uno de los ejes centrales de su pontificado.
-
-- **Representantes de los países de los Acuerdos de Abraham se reúnen en Nueva York.**
-  Es el primer encuentro conjunto desde enero de 2023 entre las naciones firmantes del pacto de normalización con Israel.
+- **Sudáfrica y Malasia convocan a países tras ataques de Estados Unidos, Israel y gobiernos derechistas en la ONU.**
+  Ambos países buscan coordinar una respuesta conjunta frente a las críticas recibidas durante la Semana de Alto Nivel.
 
 ## Economía
 
-- **El petróleo alcanza los $101 por barril y el diésel supera los $6 el galón por primera vez.**
-  El conflicto en Medio Oriente sigue sacudiendo los mercados energéticos globales.
+- **Wall Street sube 1% y cierra la semana en verde ante esperanzas de un acuerdo en Irán.**
+  El auge de la inteligencia artificial contrasta con la caída de las empresas de consumo, golpeadas por la inflación y las expectativas de tasas más altas.
 
-- **El crecimiento mundial se desacelera a su tasa más baja desde la pandemia.**
-  El conflicto en Oriente Medio y el consecuente encarecimiento de la energía explican buena parte de la frenada.
+- **Se proyecta que el crecimiento mundial se desacelerará al 2,5% en 2026.**
+  El conflicto en Oriente Medio y el consecuente aumento de los precios de la energía siguen golpeando a los mercados emergentes.
 
-- **España destina una cifra récord al pago mensual de las pensiones contributivas.**
-  La Seguridad Social desembolsó 14.498 millones de euros en septiembre, un 6,3% más que en el mismo mes de 2025.
-
-- **Europa se prepara para un invierno duro en materia energética.**
-  Los analistas advierten sobre la necesidad de reforzar la seguridad de suministro ante la escalada de precios.
+- **Las economías en desarrollo registrarían el menor crecimiento del ingreso per cápita desde la pandemia.**
+  El organismo advierte que la recuperación seguirá siendo desigual entre regiones.
 
 ## Política
 
-- **Representantes de los países de los Acuerdos de Abraham se reúnen en Nueva York por primera vez desde 2023.**
-  El encuentro busca dar continuidad al proceso de normalización de relaciones con Israel.
+- **Cerca de 40 naciones respaldan a las cortes internacionales y a Palestina.**
+  El pronunciamiento conjunto busca reforzar la legitimidad de los tribunales internacionales ante las presiones políticas.
 
-- **La Asamblea General de la ONU continúa con los discursos de líderes de Oriente Medio.**
-  Las intervenciones de Líbano, Irak y Pakistán reflejan la magnitud de los conflictos que atraviesa la región.
+- **El canciller brasileño avala sanciones contra colonos y políticos israelíes responsables de violencia contra palestinos.**
+  Mauro Vieira se sumó a los reclamos internacionales sobre la situación en los territorios ocupados.
 
-- **El Consejo de Seguridad debate la crisis mundial de refugiados.**
-  El organismo analiza la situación de millones de personas desplazadas por guerras en distintas partes del mundo.
-
-- **El papa advierte sobre los peligros de la inteligencia artificial en su visita a la Unesco.**
-  Su discurso en París abordó tanto las oportunidades como los riesgos de la tecnología para la humanidad.
+- **Sudáfrica y Malasia coordinan una respuesta conjunta tras críticas de Estados Unidos e Israel en la ONU.**
+  Ambos países convocaron a otras naciones tras los señalamientos de gobiernos derechistas durante la Semana de Alto Nivel.
 
 ## Tecnología
 
-- **Databricks compra Row Zero para potenciar su asistente de inteligencia artificial Genie.**
-  La tecnología permitirá incorporar una interfaz de hojas de cálculo para explorar datos y crear modelos en web, escritorio y dispositivos móviles.
+- **Nintendo obtiene una sentencia por rebeldía contra el moderador de una red de piratería de Switch.**
+  La compañía reclama $4,5 millones en daños y pidió a Reddit, Google y Discord la entrega de datos para identificar a otros piratas asociados.
 
-- **El papa advierte en la Unesco sobre las oportunidades y los peligros de la inteligencia artificial.**
-  El discurso se enmarca en uno de los ejes centrales de su pontificado y de su primera encíclica.
+- **YouTube celebra su evento anual para creadores «Made on YouTube».**
+  La plataforma presentó actualizaciones en YouTube Studio, nuevas herramientas de edición para Shorts y mejoras en YouTube Music.
 
-- **Bitget confirma un ciberataque y suma auditorías externas con Mandiant y SlowMist.**
-  Los saldos de los usuarios permanecen intactos y el fondo de protección de la empresa, que supera los $464 millones, cubrirá el impacto del incidente.
+- **Bitcoin se estabiliza en torno a los $84.060 mientras el capital gira hacia las altcoins.**
+  Es la primera vez en varias semanas que las altcoins ganan terreno frente a la principal criptomoneda.
 
-- **Bitcoin cotiza a $83.979 mientras Bittensor sube 5,74%.**
-  El token TAO extiende un impulso semanal del 19,85%, en una jornada de movimientos controlados para las principales criptomonedas.
+- **Solana lidera las subidas entre las grandes criptomonedas con un alza diaria de 3,6%.**
+  El token se destacó en una jornada de movimientos moderados para Bitcoin y Ethereum.
 
 ## Fuentes
 
-- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/09/25/viernes-25-de-septiembre-de-2026-0700-gmt/)
-- [elEconomista (economía)](https://www.eleconomista.es/economia/)
-- [Times of Israel (política)](https://www.timesofisrael.com/liveblog-september-25-2026/)
-- [CriptoNoticias (cripto)](https://www.criptonoticias.com/seguridad-bitcoin/ceo-bitget-revela-punto-debil-que-permitio-ciberataque/)
+- [La Jornada (mundo/política)](https://www.jornada.com.mx/2026/09/26/mundo/017n1mun?partner=rss)
+- [La Jornada (economía)](https://www.jornada.com.mx/2026/09/26/economia/014a1eco?partner=rss)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/26/cual-es-el-precio-de-las-principales-criptomonedas-de-hoy-26-de-septiembre/)
+- [Euribor (cripto)](https://www.euribor.com.es/2026/09/26/criptomonedas-hoy-26-septiembre-2026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
