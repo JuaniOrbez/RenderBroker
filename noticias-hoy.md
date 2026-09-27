@@ -1,60 +1,69 @@
-# Frecuencia Diaria — sábado 26 de septiembre de 2026
+# Frecuencia Diaria — domingo 27 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Cerca de 40 naciones se comprometen a defender a las cortes internacionales y a Palestina.**
-  El bloque de países respalda el rol de los tribunales internacionales frente a las presiones políticas.
+- **Europa refuerza su seguridad frente a la creciente amenaza rusa.**
+  Varios países del bloque anuncian nuevas medidas de defensa ante el aumento de la tensión con Moscú.
 
-- **El canciller brasileño Mauro Vieira respalda sanciones contra colonos y políticos israelíes.**
-  Vieira avaló los reclamos por la violencia contra la población palestina en los territorios ocupados.
+- **España declara el estado de excepción como vía exprés para la crisis de Ceuta.**
+  La medida busca agilizar la respuesta ante el desborde migratorio que atraviesa la ciudad autónoma.
 
-- **Sudáfrica y Malasia convocan a países tras ataques de Estados Unidos, Israel y gobiernos derechistas en la ONU.**
-  Ambos países buscan coordinar una respuesta conjunta frente a las críticas recibidas durante la Semana de Alto Nivel.
+- **La calle eleva la presión por un pacto urgente en materia de vivienda en España.**
+  Las movilizaciones reclaman una respuesta rápida del Gobierno ante la crisis habitacional.
+
+- **El turismo mundial vuelve a marcar cifras récord.**
+  El aumento sostenido de viajeros, gasto y precios genera reacciones en contra en los destinos más masificados.
 
 ## Economía
 
-- **Wall Street sube 1% y cierra la semana en verde ante esperanzas de un acuerdo en Irán.**
-  El auge de la inteligencia artificial contrasta con la caída de las empresas de consumo, golpeadas por la inflación y las expectativas de tasas más altas.
+- **El petróleo se mantiene en $101 por barril y el diésel supera los $6 el galón por primera vez.**
+  El conflicto en Medio Oriente sigue sacudiendo los mercados energéticos globales.
 
-- **Se proyecta que el crecimiento mundial se desacelerará al 2,5% en 2026.**
-  El conflicto en Oriente Medio y el consecuente aumento de los precios de la energía siguen golpeando a los mercados emergentes.
+- **El crecimiento mundial se desacelera a su tasa más baja desde la pandemia.**
+  Se proyecta que la expansión global caerá al 2,5% en 2026 por el impacto del conflicto en Oriente Medio.
 
-- **Las economías en desarrollo registrarían el menor crecimiento del ingreso per cápita desde la pandemia.**
-  El organismo advierte que la recuperación seguirá siendo desigual entre regiones.
+- **México difundirá esta semana su balanza comercial de agosto.**
+  El Inegi y el Banco de México publicarán los datos de comercio exterior en los próximos días.
+
+- **El turismo mundial bate récords de viajeros, gasto y precios.**
+  La tendencia genera cada vez más tensiones en los destinos más masificados.
 
 ## Política
 
-- **Cerca de 40 naciones respaldan a las cortes internacionales y a Palestina.**
-  El pronunciamiento conjunto busca reforzar la legitimidad de los tribunales internacionales ante las presiones políticas.
+- **España declara el estado de excepción para agilizar la respuesta a la crisis de Ceuta.**
+  El Gobierno busca una vía rápida para hacer frente al desborde migratorio en la ciudad autónoma.
 
-- **El canciller brasileño avala sanciones contra colonos y políticos israelíes responsables de violencia contra palestinos.**
-  Mauro Vieira se sumó a los reclamos internacionales sobre la situación en los territorios ocupados.
+- **Pedro Sánchez presenta las candidaturas socialistas de Madrid para las elecciones de mayo de 2027.**
+  El presidente del Gobierno y el líder del PSOE madrileño, Óscar López, encabezaron el acto de presentación.
 
-- **Sudáfrica y Malasia coordinan una respuesta conjunta tras críticas de Estados Unidos e Israel en la ONU.**
-  Ambos países convocaron a otras naciones tras los señalamientos de gobiernos derechistas durante la Semana de Alto Nivel.
+- **Sumar amenaza con boicotear el Consejo de Ministros si no hay decreto de vivienda.**
+  La formación presiona al Ejecutivo para que apruebe medidas urgentes frente a la crisis habitacional.
+
+- **Europa refuerza su seguridad frente a la creciente amenaza rusa.**
+  El bloque evalúa nuevas medidas de defensa conjunta ante el aumento de la tensión con Moscú.
 
 ## Tecnología
 
-- **Nintendo obtiene una sentencia por rebeldía contra el moderador de una red de piratería de Switch.**
-  La compañía reclama $4,5 millones en daños y pidió a Reddit, Google y Discord la entrega de datos para identificar a otros piratas asociados.
+- **Apple lanza mañana iOS 27, la actualización más importante del año.**
+  El nuevo sistema operativo llegará a los dispositivos compatibles con una renovación profunda de funciones.
 
-- **YouTube celebra su evento anual para creadores «Made on YouTube».**
-  La plataforma presentó actualizaciones en YouTube Studio, nuevas herramientas de edición para Shorts y mejoras en YouTube Music.
+- **Un directivo de Fidelity advierte que el «trade» de la inteligencia artificial lleva tres meses siendo dinero muerto.**
+  El director de macroeconomía global de la firma expresó su preocupación por el rendimiento de las inversiones ligadas a la IA.
 
-- **Bitcoin se estabiliza en torno a los $84.060 mientras el capital gira hacia las altcoins.**
-  Es la primera vez en varias semanas que las altcoins ganan terreno frente a la principal criptomoneda.
+- **Bitcoin se mantiene sobre los $84.000 con impulso técnico alcista.**
+  Ethereum defiende los $2.600 en medio del temor a una suba de tasas de interés en Estados Unidos.
 
-- **Solana lidera las subidas entre las grandes criptomonedas con un alza diaria de 3,6%.**
-  El token se destacó en una jornada de movimientos moderados para Bitcoin y Ethereum.
+- **China evalúa flexibilizar sus restricciones a las criptomonedas.**
+  El cambio comenzaría por Hong Kong, que podría habilitar un uso más amplio de estos activos.
 
 ## Fuentes
 
-- [La Jornada (mundo/política)](https://www.jornada.com.mx/2026/09/26/mundo/017n1mun?partner=rss)
-- [La Jornada (economía)](https://www.jornada.com.mx/2026/09/26/economia/014a1eco?partner=rss)
-- [Infobae (cripto)](https://www.infobae.com/tecno/2026/09/26/cual-es-el-precio-de-las-principales-criptomonedas-de-hoy-26-de-septiembre/)
-- [Euribor (cripto)](https://www.euribor.com.es/2026/09/26/criptomonedas-hoy-26-septiembre-2026/)
+- [Infobae (titulares)](https://www.infobae.com/america/agencias/2026/09/26/principales-titulares-de-los-periodicos-para-el-domingo-27-de-septiembre/)
+- [La Jornada (economía)](https://www.jornada.com.mx/2026/09/27/economia/014n2eco?partner=rss)
+- [Periodista Digital (política)](https://www.periodistadigital.com/periodismo/20260927/10-temas-marcan-periodismo-politica-espana-domingo-27-septiembre-2026-vivienda-presion-politica-agenda-judicial-noticia-689405251005/)
+- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/analisis/bitcoin-btc-consolida-sobre-usd-84-000-con-momentum-tecnico-alcista-el-27-de-septiembre-de-2026/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
