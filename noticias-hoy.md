@@ -1,69 +1,69 @@
-# Frecuencia Diaria — lunes 28 de septiembre de 2026
+# Frecuencia Diaria — martes 29 de septiembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Concluye la 81ª Asamblea General de la ONU tras una semana marcada por las guerras de Gaza y Ucrania.**
-  La Semana de Alto Nivel también estuvo dominada por las tensiones en torno a Irán y el debate sobre el futuro del sistema internacional.
+- **El huracán Polo deja sin luz a varias comunidades tras tocar tierra en Baja California Sur.**
+  El fenómeno provocó cortes de energía en distintas localidades de la región mexicana.
 
-- **China confirma la extensión de la tregua comercial con Estados Unidos hasta enero de 2027.**
-  El anuncio llega tras la reciente reunión entre Xi Jinping y Donald Trump en Washington.
+- **El Consejo de Seguridad de la ONU renueva el mandato de la Fuerza de Supresión de Pandillas en Haití.**
+  La misión había sido autorizada en septiembre de 2025 por un período inicial de doce meses.
 
-- **El papa se traslada a Metz, Francia, para un encuentro interreligioso.**
-  Participó del acto «En las raíces de Europa por la paz y la unidad».
+- **Canadá, Ucrania y Noruega concluyen en Toronto la conferencia «Pathways to Peace».**
+  El encuentro abordó el regreso de niños ucranianos deportados, civiles detenidos y prisioneros de guerra.
 
-- **China reafirma su apoyo a Cuba en el 66º aniversario de relaciones diplomáticas.**
-  Pekín aseguró que su respaldo se mantiene firme más allá de los cambios en el contexto internacional.
+- **Shein se desploma hasta 14% en Hong Kong tras su primer balance como empresa cotizada.**
+  La plataforma de moda rápida reportó una caída de dos tercios en su beneficio ajustado del segundo trimestre.
 
 ## Economía
 
-- **Christine Lagarde comparece ante el Parlamento Europeo tras la suba de tasas del Banco Central Europeo al 2,5%.**
-  La medida busca contener el repunte de la inflación en plena incertidumbre geopolítica.
+- **El petróleo Brent sube 1,3% hasta los $106,60 por barril.**
+  El mercado sigue de cerca las negociaciones diplomáticas entre Estados Unidos e Irán y su posible impacto en el suministro energético.
 
-- **China y Estados Unidos extienden su tregua comercial hasta enero de 2027.**
-  Ambos países aplicarán rebajas arancelarias a productos agrícolas, electrodomésticos, carbón y juguetes.
+- **El S&P 500 y el Nasdaq 100 alcanzan nuevos máximos históricos.**
+  El índice tecnológico se revalorizó 3,25% hasta los 30.770,63 puntos en una jornada de fuertes ganancias en Wall Street.
 
-- **Citi inaugura en Miami la conferencia Sibos sobre economías impulsadas por inteligencia artificial.**
-  Su directora, Jane Fraser, debatirá con funcionarios del Fondo Monetario Internacional el impacto económico de la tecnología.
+- **Las exportaciones de crudo de Medio Oriente llegan a 12,8 millones de barriles diarios en septiembre.**
+  Es el nivel más alto desde febrero, según datos de los principales productores de la región.
 
-- **Se proyecta que el crecimiento mundial se desacelerará al 2,5% en 2026.**
-  El organismo espera un repunte en 2027 y 2028 a medida que se recuperen los suministros de energía y se fortalezca el comercio.
+- **Shein cae con fuerza en su debut de resultados en la bolsa de Hong Kong.**
+  La compañía de moda rápida vio caer dos tercios su beneficio ajustado en el segundo trimestre.
 
 ## Política
 
-- **Concluye en Nueva York la 81ª Asamblea General de la ONU.**
-  La semana de alto nivel dejó como saldo intensos debates sobre Gaza, Ucrania e Irán.
+- **Las tropas de la coalición liderada por Estados Unidos contra el Estado Islámico abandonan Irak.**
+  La retirada se da en un momento delicado, en medio de la guerra con Irán y el intento del Gobierno iraquí de desarmar a las milicias fuera de su control.
 
-- **México presenta su nuevo informe sobre el caso Ayotzinapa.**
-  El Gobierno dará a conocer avances, nuevas líneas de investigación y detenciones vinculadas a la desaparición de los 43 estudiantes.
+- **Miles de filipinos protestan contra la vicepresidenta Sara Duterte.**
+  La funcionaria enfrenta un juicio político en el Senado por corrupción, malversación y amenazas contra el presidente.
 
-- **El Congreso chileno interpela de forma inédita al canciller Francisco Pérez Mackenna.**
-  Los legisladores lo cuestionan por la adhesión de Chile al Escudo de las Américas y la controversia con Argentina por el estrecho de Magallanes.
+- **El Consejo de Seguridad de la ONU renueva el mandato de la Fuerza de Supresión de Pandillas en Haití.**
+  La misión internacional continuará desplegada en el país por un nuevo período.
 
-- **La campaña electoral brasileña entra en su última semana.**
-  Doce candidaturas están registradas, con la disputa concentrada entre el presidente Lula da Silva y el senador Flávio Bolsonaro.
+- **La OCDE presenta su informe «Panorama de la Educación 2026».**
+  El documento anual pone el foco en la escasez de profesores en los sistemas educativos de todo el mundo.
 
 ## Tecnología
 
-- **Mark Zuckerberg abre Meta Connect 2026 y define a las gafas como la plataforma de computación de Meta.**
-  El anuncio marca una apuesta estratégica de la compañía por los dispositivos vestibles.
+- **OpenAI celebra su Developer Day en San Francisco.**
+  La compañía reunió a su comunidad de desarrolladores para presentar sus últimas herramientas de inteligencia artificial.
 
-- **Deutsche Telekom anuncia en el evento HumanX de Ámsterdam el fin del sistema IVR.**
-  Su director de inteligencia artificial describió la transformación que la tecnología trae al sector de atención al cliente.
+- **OpenAI prepara el lanzamiento de GPT-6 Cyber, un modelo enfocado en ciberseguridad.**
+  El anuncio se espera en los próximos días, en medio de la presión mundial por el desarrollo acelerado de la IA.
 
-- **Bitcoin cede 0,68% y consolida bajo los $84.000.**
-  Los fondos cotizados de bitcoin captaron $2.400 millones durante la semana, su mayor entrada desde octubre de 2025.
+- **BitMine confirma que posee 6.001.302 ether, el 4,9% del suministro total.**
+  Se trata del mayor tesoro corporativo de Ethereum del mundo, una noticia que marcó el pulso del mercado cripto.
 
-- **Bitget sufre el mayor hackeo cripto del año, con unos $387,5 millones robados.**
-  Los atacantes apuntaron a billeteras calientes y templadas de la plataforma, sustrayendo XRP, ether y stablecoins.
+- **Bitcoin sostiene los $84.000 con un leve avance.**
+  Ethereum sube 1,71% hasta los $2.700 en una jornada de ganancias moderadas para el mercado cripto.
 
 ## Fuentes
 
-- [Infobae (mundo/política)](https://www.infobae.com/america/agencias/2026/09/28/lunes-28-de-septiembre-de-2026-0700-gmt/)
-- [Infobae (economía)](https://www.infobae.com/america/agencias/2026/09/28/lunes-28-de-septiembre-0200-gmt/)
-- [Prensa Latina (política)](https://www.prensa-latina.cu/2026/09/28/primera-lista-de-los-principales-temas-del-dia-de-prensa-latina-397/)
-- [CoinDesk (cripto)](https://www.coindesk.com/markets/2026/09/28/bitcoin-falls-to-usd83-000-while-altcoins-unwind-friday-s-rally)
+- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/09/29/martes-29-de-septiembre-de-2026-0700-gmt/)
+- [El Heraldo de México (petróleo)](https://heraldodemexico.com.mx/economia/2026/9/29/precio-del-petroleo-hoy-asi-cotiza-el-barril-de-crudo-este-29-de-septiembre-de-2026-897408.html)
+- [Unitel (política, EFE)](https://unitel.bo/noticias/agencias/temas-del-dia-de-efe-internacional-del-martes-29-de-septiembre-de-2026-1200-gmt-KO23788828)
+- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/estados-unidos/bitcoin-btc-sostiene-los-usd-84-000-con-leve-avance-este-29-de-septiembre/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
