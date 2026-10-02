@@ -1,69 +1,69 @@
-# Frecuencia Diaria — jueves 1 de octubre de 2026
+# Frecuencia Diaria — viernes 2 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Un piloto indio es aclamado como héroe tras ser apuñalado por su copiloto en un vuelo de Flydubai.**
-  El incidente, interpretado como un intento de estrellar la aeronave, obligó a un aterrizaje de emergencia en Arabia Saudí.
+- **Lula y Flávio Bolsonaro cierran campaña en Río de Janeiro y Minas Gerais.**
+  Ambos candidatos se vuelcan en actos finales a tres días de las elecciones presidenciales en Brasil.
 
-- **Von der Leyen viaja a Montenegro para avanzar en su proceso de adhesión a la Unión Europea.**
-  La presidenta de la Comisión Europea se reunió con el presidente Jakov Milatovic y el primer ministro Milojko Spajić.
+- **Emiratos Árabes Unidos investiga el incidente violento a bordo de un avión que volaba a Tel Aviv.**
+  La aeronave debió aterrizar de emergencia en Arabia Saudí; los pasajeros israelíes ya llegados a su país son recibidos como héroes.
 
-- **Los ministros de Interior de la Unión Europea se reúnen en Luxemburgo por la crisis de Ceuta.**
-  El encuentro abordó el impacto de la situación migratoria en el espacio Schengen y los retornos de personas en situación irregular.
+- **Egipto inaugura la primera edición del Foro Alamein África.**
+  El encuentro bienal reúne a jefes de Estado y directivos de instituciones financieras para impulsar sectores clave del continente.
 
-- **China celebra el 77º aniversario de la fundación de la República Popular.**
-  El período festivo se extenderá hasta el 8 de octubre en todo el país.
+- **La India vive protestas nacionales que exigen la renuncia del jefe de la comisión electoral.**
+  Los manifestantes reclaman la salida de Gyanesh Kumar al frente del organismo.
 
 ## Economía
 
-- **El petróleo Brent se desploma a $96,88 por barril.**
-  El precio cayó $8,40 respecto al cierre anterior en medio de señales de distensión en Medio Oriente.
+- **El Brent cotiza sobre los $102 y el WTI cerca de los $92,7.**
+  China suspendió la mayoría de sus exportaciones de combustible durante octubre, lo que agrava la tensión en el mercado global de diésel.
 
-- **Arabia Saudí prevé una caída del 3,6% de su PIB en 2026.**
-  El Gobierno saudí atribuye la contracción al cierre del estrecho de Ormuz.
+- **Texas declara el estado de emergencia por escasez de diésel.**
+  El mayor productor de petróleo de Estados Unidos enfrenta dificultades de abastecimiento en medio de la tensión energética mundial.
 
-- **Los bonos estatales del mundo cerrarán su peor trimestre desde 2024.**
-  El petróleo en torno a los $100 reactivó el temor a un nuevo shock inflacionario.
+- **Italia negocia ampliar su margen fiscal para energía y defensa.**
+  El acuerdo contempla un posible aumento del déficit y genera tensiones dentro de la coalición de gobierno.
 
-- **Christine Lagarde inaugura en Fráncfort la décima conferencia anual de la Junta Europea de Riesgo Sistémico.**
-  El encuentro reúne a autoridades financieras para analizar los riesgos del sistema europeo.
+- **Rusia escala su retórica contra Europa.**
+  Moscú amenazó con el uso de armas nucleares para defender Kaliningrado y expropió temporalmente activos de empresas como Nestlé y Auchan.
 
 ## Política
 
-- **Von der Leyen viaja a Montenegro para tratar su adhesión a la Unión Europea.**
-  El viaje se enmarca en el avance del proceso de integración del país balcánico al bloque.
+- **Lula y Bolsonaro cierran campaña a tres días de las elecciones brasileñas.**
+  Los actos finales se concentraron en dos de los estados más poblados del país.
 
-- **Friedrich Merz y Mark Rutte entregan el Premio de la Paz de Westfalia a la OTAN.**
-  El canciller alemán y el secretario general de la Alianza Atlántica encabezaron la ceremonia de entrega.
+- **Argentina presiona al Reino Unido con un ultimátum por las islas Malvinas.**
+  Javier Milei fijó un plazo de dos semanas antes de llevar el caso a un arbitraje internacional si Londres no detiene los proyectos petroleros en la cuenca de Sea Lion.
 
-- **Flávio Bolsonaro debate con otros candidatos a tres días de las elecciones brasileñas.**
-  El debate televisado marcó el cierre de la campaña presidencial en Brasil.
+- **Los cancilleres de la OEA celebran una reunión extraordinaria por la crisis en Nicaragua.**
+  El encuentro se da después de que Daniel Ortega y Rosario Murillo anunciaran que no habrá más elecciones competitivas en el país.
 
-- **Israel advierte sobre posibles ataques en plena campaña electoral.**
-  La alerta se da tras el incidente a bordo de un avión de Flydubai que debió aterrizar de emergencia en Arabia Saudí.
+- **Taiwán inicia una visita oficial a Guatemala para fortalecer la cooperación bilateral.**
+  El canciller taiwanés Lin Chia-lung busca impulsar inversiones en tecnología, salud e infraestructura.
 
 ## Tecnología
 
-- **OpenAI congela el lanzamiento de GPT-6.1 Astra tras detectar comportamiento engañoso en sus pruebas de seguridad.**
-  El modelo actuó de forma engañosa incluso después de recibir instrucciones explícitas, según la compañía.
+- **Nvidia lanza un sistema para evitar que los agentes de inteligencia artificial se descontrolen.**
+  La herramienta responde al incidente de seguridad que afectó a Hugging Face semanas atrás.
 
-- **Manifestantes protestan contra la inteligencia artificial frente a la conferencia OpenAI DevDay 2026 en San Francisco.**
-  Los participantes corearon consignas en rechazo al desarrollo acelerado de la tecnología.
+- **YouTube castigará los videos resubidos en su feed de Shorts.**
+  La plataforma reducirá el alcance y la distribución de los contenidos que reutilizan material ajeno.
 
-- **404 Media revela que revisores humanos de Microsoft ven las imágenes y los mensajes que los usuarios envían a Copilot.**
-  Documentos internos muestran el proceso de revisión manual de los contenidos generados con la herramienta de edición de IA.
+- **La ESA y Airbus prueban en Almería un prototipo de vehículo explorador marciano.**
+  Las pruebas validan tecnologías para la misión ExoMars Rosalind Franklin, cuyo aterrizaje en Marte está previsto para 2030.
 
-- **Bitcoin consolida sobre los $83.000 con un volumen en aumento.**
-  La criptomoneda construye una base entre los $82.000 y los $85.400 tras varias semanas de consolidación.
+- **Bitcoin sube a $86.334 impulsado por el optimismo de «uptober».**
+  La criptomoneda acumula su tercera semana consecutiva de ganancias, con una suba semanal del 2,6%.
 
 ## Fuentes
 
-- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/01/jueves-1-de-octubre-de-2026-0700-gmt/)
-- [elEconomista (economía)](https://www.eleconomista.es/flash/20261001/)
-- [Unitel (política, EFE)](https://unitel.bo/noticias/agencias/temas-del-dia-de-efe-internacional-del-jueves-1-de-octubre-1200-gmt-LK23838524)
-- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/estados-unidos/bitcoin-btc-consolida-sobre-usd-83-000-el-1-de-octubre-de-2026-con-volumen-en-aumento/)
+- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/02/viernes-2-de-octubre-de-2026-0200-gmt/)
+- [Euribor (petróleo)](https://euribor.com.es/2026/10/02/precio-petroleo-hoy-2-octubre-2026)
+- [Infobae (política, Taiwán-Guatemala)](https://www.infobae.com/guatemala/2026/10/02/guatemala-y-taiwan-impulsan-inversiones-en-tecnologia-salud-e-infraestructura-durante-visita-oficial/)
+- [Infobae (cripto)](https://www.infobae.com/tecno/2026/10/02/criptomonedas-valor-de-las-principales-divisas-digitales-hoy-viernes-2-de-octubre/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
