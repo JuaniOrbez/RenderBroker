@@ -1,69 +1,69 @@
-# Frecuencia Diaria — viernes 2 de octubre de 2026
+# Frecuencia Diaria — sábado 3 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Lula y Flávio Bolsonaro cierran campaña en Río de Janeiro y Minas Gerais.**
-  Ambos candidatos se vuelcan en actos finales a tres días de las elecciones presidenciales en Brasil.
+- **Brasil vota la primera vuelta presidencial, polarizada entre Lula da Silva y Flávio Bolsonaro.**
+  Los brasileños acuden a las urnas tras una campaña marcada por el enfrentamiento entre el presidente y el candidato opositor.
 
-- **Emiratos Árabes Unidos investiga el incidente violento a bordo de un avión que volaba a Tel Aviv.**
-  La aeronave debió aterrizar de emergencia en Arabia Saudí; los pasajeros israelíes ya llegados a su país son recibidos como héroes.
+- **Letonia celebra elecciones legislativas para renovar su parlamento.**
+  El país báltico, con unos 450 kilómetros de frontera con Rusia y Bielorrusia, define también el rumbo de su próximo gobierno.
 
-- **Egipto inaugura la primera edición del Foro Alamein África.**
-  El encuentro bienal reúne a jefes de Estado y directivos de instituciones financieras para impulsar sectores clave del continente.
+- **La fiscalía de Emiratos Árabes Unidos confirma que el copiloto de Flydubai «inició la ejecución de un ataque terrorista».**
+  El copiloto atacó al piloto con un hacha de emergencia durante el vuelo que conectaba Dubái con Tel Aviv.
 
-- **La India vive protestas nacionales que exigen la renuncia del jefe de la comisión electoral.**
-  Los manifestantes reclaman la salida de Gyanesh Kumar al frente del organismo.
+- **La Asamblea Legislativa de Bolivia suspende de forma permanente al fiscal general Roger Mariaca.**
+  Mariaca fue detenido y acusado de presunta protección al narcotráfico; asumió como interino el abogado José Armando Urioste.
 
 ## Economía
 
-- **El Brent cotiza sobre los $102 y el WTI cerca de los $92,7.**
-  China suspendió la mayoría de sus exportaciones de combustible durante octubre, lo que agrava la tensión en el mercado global de diésel.
+- **El G7 anuncia la liberación de 100 millones de barriles de crudo y diésel.**
+  La distribución se realizará a lo largo de cuatro meses para aliviar la tensión en el mercado energético mundial.
 
-- **Texas declara el estado de emergencia por escasez de diésel.**
-  El mayor productor de petróleo de Estados Unidos enfrenta dificultades de abastecimiento en medio de la tensión energética mundial.
+- **El Brent recorta 2% hasta los $100 por barril.**
+  El retroceso se da en medio de las medidas coordinadas para estabilizar el suministro global.
 
-- **Italia negocia ampliar su margen fiscal para energía y defensa.**
-  El acuerdo contempla un posible aumento del déficit y genera tensiones dentro de la coalición de gobierno.
+- **Polonia aprueba un impuesto a las ganancias extraordinarias de las petroleras.**
+  Los fondos recaudados se destinarán a aliviar los precios de los combustibles para los consumidores.
 
-- **Rusia escala su retórica contra Europa.**
-  Moscú amenazó con el uso de armas nucleares para defender Kaliningrado y expropió temporalmente activos de empresas como Nestlé y Auchan.
+- **Las expectativas de inflación en la eurozona se disparan.**
+  El dato provisional de septiembre podría marcar un 3,7% anual por el encarecimiento de la energía.
 
 ## Política
 
-- **Lula y Bolsonaro cierran campaña a tres días de las elecciones brasileñas.**
-  Los actos finales se concentraron en dos de los estados más poblados del país.
+- **Brasil vota la primera vuelta presidencial entre Lula da Silva y Flávio Bolsonaro.**
+  La jornada electoral define si habrá una segunda vuelta entre ambos candidatos.
 
-- **Argentina presiona al Reino Unido con un ultimátum por las islas Malvinas.**
-  Javier Milei fijó un plazo de dos semanas antes de llevar el caso a un arbitraje internacional si Londres no detiene los proyectos petroleros en la cuenca de Sea Lion.
+- **España vive una nueva jornada de protestas y acampadas por la crisis de vivienda.**
+  El rechazo en el Congreso a los decretos del Gobierno llevó a Pedro Sánchez a abrir un período de reflexión sobre adelantar las elecciones de 2027.
 
-- **Los cancilleres de la OEA celebran una reunión extraordinaria por la crisis en Nicaragua.**
-  El encuentro se da después de que Daniel Ortega y Rosario Murillo anunciaran que no habrá más elecciones competitivas en el país.
+- **Las organizaciones estudiantiles francesas mantienen los bloqueos y convocan una nueva protesta nacional.**
+  Consideran insuficientes las medidas anunciadas por el Gobierno y llamaron a movilizarse el próximo martes con apoyo sindical.
 
-- **Taiwán inicia una visita oficial a Guatemala para fortalecer la cooperación bilateral.**
-  El canciller taiwanés Lin Chia-lung busca impulsar inversiones en tecnología, salud e infraestructura.
+- **Estados Unidos investiga si el incidente en el avión de Flydubai estuvo vinculado a Irán.**
+  Las autoridades analizan el ataque del copiloto contra el piloto durante el vuelo a Tel Aviv.
 
 ## Tecnología
 
-- **Nvidia lanza un sistema para evitar que los agentes de inteligencia artificial se descontrolen.**
-  La herramienta responde al incidente de seguridad que afectó a Hugging Face semanas atrás.
+- **Nueva York activa la primera ley municipal «click to cancel» del mundo.**
+  La norma exige que cancelar una suscripción sea tan simple como contratarla.
 
-- **YouTube castigará los videos resubidos en su feed de Shorts.**
-  La plataforma reducirá el alcance y la distribución de los contenidos que reutilizan material ajeno.
+- **Google DeepMind incrusta una firma invisible en las proteínas diseñadas por inteligencia artificial.**
+  La medida busca reforzar la bioseguridad en la nueva era del diseño molecular asistido por IA.
 
-- **La ESA y Airbus prueban en Almería un prototipo de vehículo explorador marciano.**
-  Las pruebas validan tecnologías para la misión ExoMars Rosalind Franklin, cuyo aterrizaje en Marte está previsto para 2030.
+- **Un tribunal japonés sienta un precedente mundial sobre la clonación de voz con inteligencia artificial.**
+  El fallo determina que clonar la voz de un actor sin su permiso viola sus derechos.
 
-- **Bitcoin sube a $86.334 impulsado por el optimismo de «uptober».**
-  La criptomoneda acumula su tercera semana consecutiva de ganancias, con una suba semanal del 2,6%.
+- **Bitcoin sube 3% y supera los $86.000.**
+  El mercado se ilusiona con una posible pausa en las subas de tasas de la Reserva Federal.
 
 ## Fuentes
 
-- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/02/viernes-2-de-octubre-de-2026-0200-gmt/)
-- [Euribor (petróleo)](https://euribor.com.es/2026/10/02/precio-petroleo-hoy-2-octubre-2026)
-- [Infobae (política, Taiwán-Guatemala)](https://www.infobae.com/guatemala/2026/10/02/guatemala-y-taiwan-impulsan-inversiones-en-tecnologia-salud-e-infraestructura-durante-visita-oficial/)
-- [Infobae (cripto)](https://www.infobae.com/tecno/2026/10/02/criptomonedas-valor-de-las-principales-divisas-digitales-hoy-viernes-2-de-octubre/)
+- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/03/sabado-3-de-octubre-de-2026-0200-gmt/)
+- [elEconomista (economía)](https://eleconomista.es/flash/20261003)
+- [Infobae (política, EFE)](https://www.infobae.com/america/agencias/2026/10/03/temas-del-dia-de-efe-internacional-del-sabado-3-de-octubre-de-2026-1200-gmt/)
+- [Ámbito (cripto)](https://www.ambito.com/finanzas/bitcoin-sube-un-3-y-supera-los-us86000-el-mercado-se-ilusiona-una-pausa-las-subas-tasas-la-fed-n6329301)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
