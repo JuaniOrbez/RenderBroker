@@ -1,69 +1,69 @@
-# Frecuencia Diaria — lunes 5 de octubre de 2026
+# Frecuencia Diaria — martes 6 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Pedro Sánchez disuelve el Parlamento español y convoca elecciones generales anticipadas.**
-  El anuncio pone fin al período de reflexión que el presidente había abierto tras el rechazo a sus decretos de vivienda.
+- **El Gobierno de España aprueba nuevas medidas urgentes de vivienda tras los disturbios en Barcelona.**
+  La decisión busca responder a la presión social generada por la crisis habitacional en el país.
 
-- **El Nobel de Medicina 2026 reconoce a Karl Deisseroth, Peter Hegemann y Georg Nagel.**
-  Los tres científicos fueron distinguidos por su trabajo para descifrar cómo el cerebro da forma a los recuerdos y las emociones.
+- **Un sismo de magnitud 4,5 sacude Kaohsiung, en Taiwán.**
+  Las autoridades informaron que no se registraron daños materiales ni víctimas.
 
-- **Detienen en California a una mujer acusada de espiar para China.**
-  Las autoridades la señalan por vigilar al hijo del presidente de Taiwán.
+- **Francis Halzen gana el Nobel de Física por su trabajo sobre neutrinos de origen astrofísico.**
+  Su investigación aportó herramientas clave para el estudio de estas partículas provenientes del espacio.
 
-- **Haití inicia la campaña para sus elecciones presidenciales, legislativas y el referendo constitucional.**
-  Los comicios están previstos para el 13 de diciembre.
+- **Guterres llega a Pakistán para hablar de la mediación entre Estados Unidos e Irán.**
+  El secretario general de la ONU mantendrá conversaciones sobre la actualidad regional e internacional.
 
 ## Economía
 
-- **AMD firma un acuerdo definitivo para adquirir World Labs.**
-  La compañía liderada por Fei-Fei Li, pionera en inteligencia artificial, fue comprada por casi $8.200 millones.
+- **Los pedidos de fábrica alemanes se desploman más de 10%.**
+  El dato representa un revés para la recuperación económica de Alemania.
 
-- **Vietnam crece 9,95% interanual en el tercer trimestre de 2026.**
-  El dato, difundido por la Oficina Nacional de Estadística, confirma el fuerte dinamismo de la economía vietnamita.
+- **El grupo francés BPCE entra en el Banco Sabadell con un 7% del capital.**
+  La entidad explorará oportunidades de cooperación estratégica con el banco español.
 
-- **Aramco rebaja los precios del crudo para sus clientes en Asia.**
-  La decisión de la petrolera saudí responde a las condiciones actuales del mercado energético.
+- **El desempleo en Chile alcanza 9,6% en el trimestre junio-agosto.**
+  Es el nivel más alto en cinco años; el Banco Central recortó su proyección de crecimiento para 2026.
 
-- **El BID celebra en Quito el Foro Global de Emprendimiento y Tecnología para América Latina y el Caribe.**
-  El encuentro se desarrollará del 5 al 7 de octubre con la participación de referentes regionales del sector.
+- **El Nasdaq cierra en nuevos máximos históricos impulsado por los valores tecnológicos ligados a la inteligencia artificial.**
+  Los futuros apuntan a una apertura al alza que mantendría el impulso de la jornada previa.
 
 ## Política
 
-- **Pedro Sánchez disuelve el Parlamento español y convoca elecciones generales anticipadas.**
-  La convocatoria llega tras el rechazo en el Congreso a los decretos de vivienda impulsados por el Gobierno.
+- **España aprueba nuevas medidas urgentes de vivienda tras los disturbios en Barcelona.**
+  El Gobierno busca descomprimir la tensión social generada por la crisis habitacional.
 
-- **Fuerzas yemeníes apoyadas por Arabia Saudí retoman el control del estrecho de Bab al Mandeb.**
-  El Gobierno yemení lanzó además un ataque estratégico contra Saná en el marco de la ofensiva contra los rebeldes hutíes.
+- **Brasil prohíbe las plataformas y anuncios de apuestas deportivas y casinos en línea.**
+  La medida, ordenada por el presidente Lula da Silva, entró en vigor este martes.
 
-- **Turquía, Arabia Saudí y Pakistán evalúan en Riad su pacto de defensa conjunta.**
-  El encuentro se da horas después de que Yemen anunciara una nueva gran ofensiva contra los hutíes.
+- **El conflicto en Yemen se recrudece tras un ataque saudí a depósitos de misiles hutíes.**
+  Los rebeldes anunciaron en respuesta nuevos ataques con misiles y drones contra aeropuertos.
 
-- **Se abre en Ginebra el 57º período de sesiones del Consejo de Derechos Humanos de la ONU.**
-  El organismo inició una nueva ronda de debates sobre la situación de los derechos humanos en el mundo.
+- **Von der Leyen debate con el Parlamento Europeo la agenda migratoria, energética y comercial con China.**
+  La presidenta de la Comisión Europea adelantó los temas que se tratarán en la próxima cumbre del bloque.
 
 ## Tecnología
 
-- **El Concejo de Nueva York debate los riesgos de la inteligencia artificial.**
-  La sesión plenaria contó con representantes de Anthropic, OpenAI, Google y Meta.
+- **Google Cloud abrirá un nuevo centro en Guadalajara, México.**
+  La sede servirá de fuente de talento para equipos regionales y ampliará la organización de ingenieros desplegados junto a los clientes.
 
-- **Google lanza las nuevas Skills basadas en SKILL.md para Workspace.**
-  La función reemplaza a las Gems dentro de Gemini.
+- **El Nasdaq alcanza nuevos máximos históricos impulsado por acciones tecnológicas ligadas a la inteligencia artificial.**
+  El impulso del sector continúa marcando el rumbo de los mercados bursátiles.
 
-- **AMD adquiere World Labs, liderada por Fei-Fei Li, por unos $8.200 millones.**
-  La operación refuerza la apuesta de la compañía por la inteligencia artificial aplicada a la visión por computadora.
+- **Bitcoin cotiza en torno a los $85.564 con una estructura técnica favorable.**
+  El volumen de operaciones por debajo del promedio y un MACD bajista reducen la convicción del avance.
 
-- **Bitcoin supera los $86.000 impulsado por datos de empleo débiles.**
-  La SEC aprobó además los primeros ETF con apalancamiento 3x de bitcoin y ether en Estados Unidos.
+- **Bitcoin se mantiene 32% por debajo de su récord histórico de hace un año.**
+  La criptomoneda había superado los $126.000 el 6 de octubre de 2025.
 
 ## Fuentes
 
-- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/05/lunes-5-de-octubre-de-2026-0700-gmt/)
-- [elEconomista (economía)](https://eleconomista.es/flash/20261005)
-- [Infobae (política, EFE)](https://www.infobae.com/america/agencias/2026/10/05/temas-del-dia-de-efe-internacional-del-lunes-5-de-octubre-1200-gmt/)
-- [CoinDesk (cripto)](https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings)
+- [El Nuevo Día (mundo)](https://www.elnuevodia.com/noticias/mundo/notas/el-gobierno-de-espana-aprueba-nuevas-medidas-urgentes-de-vivienda-tras-disturbios-en-barcelona/)
+- [Bolsamanía (economía)](https://www.bolsamania.com/noticias/economia/cinco-noticias-mas-importantes-hoy-martes-6-octubre--23765876.html)
+- [Infobae (política, EFE)](https://www.infobae.com/america/agencias/2026/10/06/martes-6-de-octubre-de-2026-0800-gmt/)
+- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/analisis/bitcoin-btc-el-6-de-octubre-de-2026-senales-mixtas-frenan-la-conviccion-alcista/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
