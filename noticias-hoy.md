@@ -1,69 +1,69 @@
-# Frecuencia Diaria — martes 6 de octubre de 2026
+# Frecuencia Diaria — miércoles 7 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **El Gobierno de España aprueba nuevas medidas urgentes de vivienda tras los disturbios en Barcelona.**
-  La decisión busca responder a la presión social generada por la crisis habitacional en el país.
+- **Israel conmemora el tercer aniversario de los ataques de Hamás del 7 de octubre.**
+  Las familias de las víctimas rindieron homenaje en Reím, donde se celebraba el Festival Nova; también se realizó una vigilia en Nueva York.
 
-- **Un sismo de magnitud 4,5 sacude Kaohsiung, en Taiwán.**
-  Las autoridades informaron que no se registraron daños materiales ni víctimas.
+- **Brasil subasta derechos para explotar petróleo en trece áreas del Atlántico.**
+  Diecinueve empresas están inscritas para participar en la licitación de la región que concentra las mayores reservas del país.
 
-- **Francis Halzen gana el Nobel de Física por su trabajo sobre neutrinos de origen astrofísico.**
-  Su investigación aportó herramientas clave para el estudio de estas partículas provenientes del espacio.
+- **Los astronautas de la Crew-12 regresan a la Tierra.**
+  La tripulación pasó más de siete meses en la Estación Espacial Internacional, donde realizó experimentos y caminatas espaciales.
 
-- **Guterres llega a Pakistán para hablar de la mediación entre Estados Unidos e Irán.**
-  El secretario general de la ONU mantendrá conversaciones sobre la actualidad regional e internacional.
+- **La Academia Real de Ciencias de Suecia anuncia el Nobel de Química 2026.**
+  El galardón reconoce un nuevo aporte científico de alcance internacional.
 
 ## Economía
 
-- **Los pedidos de fábrica alemanes se desploman más de 10%.**
-  El dato representa un revés para la recuperación económica de Alemania.
+- **El Brent vuelve a superar los $100 por barril.**
+  Irán intensificó sus ataques en el estrecho de Ormuz, lo que amenaza nuevamente el tráfico de petróleo y gas por el Golfo Pérsico.
 
-- **El grupo francés BPCE entra en el Banco Sabadell con un 7% del capital.**
-  La entidad explorará oportunidades de cooperación estratégica con el banco español.
+- **Irak devalúa su moneda cerca de 13% frente al dólar.**
+  La medida responde a la fuerte presión económica generada por el cierre efectivo del estrecho de Ormuz.
 
-- **El desempleo en Chile alcanza 9,6% en el trimestre junio-agosto.**
-  Es el nivel más alto en cinco años; el Banco Central recortó su proyección de crecimiento para 2026.
+- **El Banco de la Reserva de la India eleva su tasa de referencia al 5,50%.**
+  Es la primera suba en casi cuatro años, en medio de la presión inflacionaria por el conflicto en Medio Oriente.
 
-- **El Nasdaq cierra en nuevos máximos históricos impulsado por los valores tecnológicos ligados a la inteligencia artificial.**
-  Los futuros apuntan a una apertura al alza que mantendría el impulso de la jornada previa.
+- **La directora del FMI advierte que la inteligencia artificial puede agravar las desigualdades económicas.**
+  Kristalina Georgieva señaló que la tecnología impulsa la demanda mundial mientras la crisis energética presiona a la baja la economía.
 
 ## Política
 
-- **España aprueba nuevas medidas urgentes de vivienda tras los disturbios en Barcelona.**
-  El Gobierno busca descomprimir la tensión social generada por la crisis habitacional.
+- **El mundo conmemora el tercer aniversario del ataque de Hamás del 7 de octubre.**
+  Universidades londinenses marcharon por Palestina y hubo una manifestación en Berlín contra la ofensiva militar israelí en Gaza.
 
-- **Brasil prohíbe las plataformas y anuncios de apuestas deportivas y casinos en línea.**
-  La medida, ordenada por el presidente Lula da Silva, entró en vigor este martes.
+- **El Parlamento Europeo declara que las relaciones entre la Unión Europea y China están en un «punto crítico».**
+  La cámara aprobó un informe que señala las prácticas económicas desleales de Pekín como principal fuente de tensión.
 
-- **El conflicto en Yemen se recrudece tras un ataque saudí a depósitos de misiles hutíes.**
-  Los rebeldes anunciaron en respuesta nuevos ataques con misiles y drones contra aeropuertos.
+- **El presidente egipcio Abdelfatah al Sisi inicia una visita de Estado a Corea del Sur.**
+  Es la primera visita de este tipo en una década entre ambos países.
 
-- **Von der Leyen debate con el Parlamento Europeo la agenda migratoria, energética y comercial con China.**
-  La presidenta de la Comisión Europea adelantó los temas que se tratarán en la próxima cumbre del bloque.
+- **Las fuerzas yemeníes intentan consolidar avances sobre Bab al Mandeb y la ciudad de Moca.**
+  Los rebeldes hutíes niegan la pérdida de esos territorios en medio de la escalada del conflicto.
 
 ## Tecnología
 
-- **Google Cloud abrirá un nuevo centro en Guadalajara, México.**
-  La sede servirá de fuente de talento para equipos regionales y ampliará la organización de ingenieros desplegados junto a los clientes.
+- **Varios celulares Android antiguos se quedan sin WhatsApp a partir de hoy.**
+  La aplicación deja de ser compatible con una lista de modelos que no cumplen con los requisitos técnicos actuales.
 
-- **El Nasdaq alcanza nuevos máximos históricos impulsado por acciones tecnológicas ligadas a la inteligencia artificial.**
-  El impulso del sector continúa marcando el rumbo de los mercados bursátiles.
+- **Se celebra en Santo Domingo la XI Semana de la Energía.**
+  Autoridades de 27 países debaten los desafíos de la transición energética regional, con énfasis en la innovación tecnológica.
 
-- **Bitcoin cotiza en torno a los $85.564 con una estructura técnica favorable.**
-  El volumen de operaciones por debajo del promedio y un MACD bajista reducen la convicción del avance.
+- **Chile suprime su plan de becas de acceso a tecnología.**
+  El programa había beneficiado este año a 96.000 niños y jóvenes con una computadora personal.
 
-- **Bitcoin se mantiene 32% por debajo de su récord histórico de hace un año.**
-  La criptomoneda había superado los $126.000 el 6 de octubre de 2025.
+- **Bitcoin cae por debajo de los $84.000 mientras sube el petróleo por ataques a buques cisterna iraníes.**
+  Las liquidaciones en el mercado cripto se elevaron a $547 millones en la jornada.
 
 ## Fuentes
 
-- [El Nuevo Día (mundo)](https://www.elnuevodia.com/noticias/mundo/notas/el-gobierno-de-espana-aprueba-nuevas-medidas-urgentes-de-vivienda-tras-disturbios-en-barcelona/)
-- [Bolsamanía (economía)](https://www.bolsamania.com/noticias/economia/cinco-noticias-mas-importantes-hoy-martes-6-octubre--23765876.html)
-- [Infobae (política, EFE)](https://www.infobae.com/america/agencias/2026/10/06/martes-6-de-octubre-de-2026-0800-gmt/)
-- [DiarioBitcoin (cripto)](https://www.diariobitcoin.com/analisis/bitcoin-btc-el-6-de-octubre-de-2026-senales-mixtas-frenan-la-conviccion-alcista/)
+- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/07/miercoles-7-de-octubre-de-2026-0700-gmt/)
+- [Infobae (economía, FMI)](https://www.infobae.com/america/mundo/2026/10/07/la-directora-del-fmi-advirtio-que-la-ia-puede-agravar-las-desigualdades-economicas/)
+- [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/07/miercoles-7-de-octubre-de-2026-0200-gmt/)
+- [CoinDesk (cripto)](https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
