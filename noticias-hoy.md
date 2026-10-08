@@ -1,69 +1,69 @@
-# Frecuencia Diaria — miércoles 7 de octubre de 2026
+# Frecuencia Diaria — jueves 8 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Israel conmemora el tercer aniversario de los ataques de Hamás del 7 de octubre.**
-  Las familias de las víctimas rindieron homenaje en Reím, donde se celebraba el Festival Nova; también se realizó una vigilia en Nueva York.
+- **La Academia Sueca anuncia hoy el ganador del Nobel de Literatura 2026.**
+  Entre los nombres que circulan en las quinielas figuran Can Xue, Gerald Murnane, Cristina Rivera Garza y Enrique Vila-Matas.
 
-- **Brasil subasta derechos para explotar petróleo en trece áreas del Atlántico.**
-  Diecinueve empresas están inscritas para participar en la licitación de la región que concentra las mayores reservas del país.
+- **Macron recibe en Francia al presidente alemán Frank-Walter Steinmeier.**
+  La visita de Estado incluye actos en París y se extiende hasta el viernes.
 
-- **Los astronautas de la Crew-12 regresan a la Tierra.**
-  La tripulación pasó más de siete meses en la Estación Espacial Internacional, donde realizó experimentos y caminatas espaciales.
+- **Vence el plazo que Israel dio al Reino Unido para cerrar su Consulado General en Jerusalén.**
+  Israel había anunciado la medida como represalia por la prohibición británica de importar productos de asentamientos en Cisjordania.
 
-- **La Academia Real de Ciencias de Suecia anuncia el Nobel de Química 2026.**
-  El galardón reconoce un nuevo aporte científico de alcance internacional.
+- **Sindicatos educativos franceses convocan una nueva huelga y manifestaciones.**
+  La jornada se da en apoyo al movimiento estudiantil que reclama más recursos para los institutos.
 
 ## Economía
 
-- **El Brent vuelve a superar los $100 por barril.**
-  Irán intensificó sus ataques en el estrecho de Ormuz, lo que amenaza nuevamente el tráfico de petróleo y gas por el Golfo Pérsico.
+- **El Brent vuelve a superar los $100 y el G7 estudia una nueva liberación de reservas de crudo.**
+  Irán intensifica sus ataques en el estrecho de Ormuz, lo que presiona al alza los precios de la energía.
 
-- **Irak devalúa su moneda cerca de 13% frente al dólar.**
-  La medida responde a la fuerte presión económica generada por el cierre efectivo del estrecho de Ormuz.
+- **El Ibex 35 cae 1,3% hasta los 18.861 puntos.**
+  Es su nivel más bajo en casi cuatro meses, presionado por la suba del crudo y la tensión en los mercados de deuda.
 
-- **El Banco de la Reserva de la India eleva su tasa de referencia al 5,50%.**
-  Es la primera suba en casi cuatro años, en medio de la presión inflacionaria por el conflicto en Medio Oriente.
+- **La hipoteca fija a 30 años en Estados Unidos alcanza el 7,49%.**
+  Es su nivel más alto desde noviembre de 2023, según la Mortgage Bankers Association.
 
-- **La directora del FMI advierte que la inteligencia artificial puede agravar las desigualdades económicas.**
-  Kristalina Georgieva señaló que la tecnología impulsa la demanda mundial mientras la crisis energética presiona a la baja la economía.
+- **El FMI aprueba $1.200 millones adicionales para Pakistán.**
+  El país continúa dependiendo de financiación externa para sostener su economía.
 
 ## Política
 
-- **El mundo conmemora el tercer aniversario del ataque de Hamás del 7 de octubre.**
-  Universidades londinenses marcharon por Palestina y hubo una manifestación en Berlín contra la ofensiva militar israelí en Gaza.
+- **El Eurogrupo se reúne en Luxemburgo para evaluar el impacto de la crisis energética.**
+  Los ministros de Economía de la eurozona analizan el alza de precios del gas y la electricidad derivada de las perturbaciones en Ormuz.
 
-- **El Parlamento Europeo declara que las relaciones entre la Unión Europea y China están en un «punto crítico».**
-  La cámara aprobó un informe que señala las prácticas económicas desleales de Pekín como principal fuente de tensión.
+- **La reforma electoral del Gobierno de Giorgia Meloni llega a su votación definitiva en Italia.**
+  La oposición anunció que votará en bloque en contra en la Cámara de Diputados.
 
-- **El presidente egipcio Abdelfatah al Sisi inicia una visita de Estado a Corea del Sur.**
-  Es la primera visita de este tipo en una década entre ambos países.
+- **Vence el plazo que Israel dio al Reino Unido para cerrar su Consulado General en Jerusalén.**
+  La medida se enmarca en la disputa diplomática por la prohibición británica de importar productos de asentamientos israelíes.
 
-- **Las fuerzas yemeníes intentan consolidar avances sobre Bab al Mandeb y la ciudad de Moca.**
-  Los rebeldes hutíes niegan la pérdida de esos territorios en medio de la escalada del conflicto.
+- **Trump elogia a María Corina Machado tras su anuncio de regresar a Venezuela.**
+  El presidente estadounidense respaldó públicamente la intención de la líder opositora.
 
 ## Tecnología
 
-- **Varios celulares Android antiguos se quedan sin WhatsApp a partir de hoy.**
-  La aplicación deja de ser compatible con una lista de modelos que no cumplen con los requisitos técnicos actuales.
+- **Amazon recorta puestos de trabajo mientras planea invertir $220.000 millones en inteligencia artificial.**
+  La inversión se destinará a centros de datos, chips y otra infraestructura, en medio de una reorganización iniciada en octubre de 2025.
 
-- **Se celebra en Santo Domingo la XI Semana de la Energía.**
-  Autoridades de 27 países debaten los desafíos de la transición energética regional, con énfasis en la innovación tecnológica.
+- **Amazon lanza una nueva generación de tabletas con mayor integración de inteligencia artificial.**
+  La compañía busca mejorar tanto la productividad laboral como el entretenimiento a través del sistema operativo.
 
-- **Chile suprime su plan de becas de acceso a tecnología.**
-  El programa había beneficiado este año a 96.000 niños y jóvenes con una computadora personal.
+- **Google expande el acceso a SynthID Detector.**
+  La herramienta permite comprobar si una imagen, un video o un audio fue generado con inteligencia artificial.
 
-- **Bitcoin cae por debajo de los $84.000 mientras sube el petróleo por ataques a buques cisterna iraníes.**
-  Las liquidaciones en el mercado cripto se elevaron a $547 millones en la jornada.
+- **Bitcoin cae por debajo de los $83.000 en medio de salidas masivas de los ETF.**
+  El aumento de los rendimientos del Tesoro, la energía más cara y un dólar más fuerte presionan a la criptomoneda.
 
 ## Fuentes
 
-- [Infobae (mundo)](https://www.infobae.com/america/agencias/2026/10/07/miercoles-7-de-octubre-de-2026-0700-gmt/)
-- [Infobae (economía, FMI)](https://www.infobae.com/america/mundo/2026/10/07/la-directora-del-fmi-advirtio-que-la-ia-puede-agravar-las-desigualdades-economicas/)
-- [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/07/miercoles-7-de-octubre-de-2026-0200-gmt/)
-- [CoinDesk (cripto)](https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000)
+- [Unitel (mundo, EFE)](https://unitel.bo/noticias/agencias/jueves-8-de-octubre-de-2026-0700-gmt-AB23991098)
+- [elEconomista (economía)](https://eleconomista.es/flash/20261008)
+- [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
+- [Infobae (tecnología/cripto)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
