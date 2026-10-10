@@ -1,8 +1,8 @@
-# Frecuencia Diaria — viernes 9 de octubre de 2026
+# Frecuencia Diaria — sábado 10 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: la búsqueda web no encontró cobertura verificable fechada específicamente en el día de hoy, así que esta edición mantiene las noticias de ayer (jueves 8) por categoría, según lo indicado para estos casos.*
+*Nota: la búsqueda web tampoco encontró cobertura verificable fechada específicamente en el día de hoy (segundo día consecutivo), así que esta edición mantiene las noticias de la última edición verificada (jueves 8 de octubre) por categoría, según lo indicado para estos casos.*
 
 ## Mundo
 
