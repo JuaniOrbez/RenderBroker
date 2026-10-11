@@ -1,8 +1,8 @@
-# Frecuencia Diaria — sábado 10 de octubre de 2026
+# Frecuencia Diaria — domingo 11 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: la búsqueda web tampoco encontró cobertura verificable fechada específicamente en el día de hoy (segundo día consecutivo), así que esta edición mantiene las noticias de la última edición verificada (jueves 8 de octubre) por categoría, según lo indicado para estos casos.*
+*Nota: en Mundo y Política la búsqueda web no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada (jueves 8 de octubre). Economía y Tecnología sí se actualizaron con información real de estos últimos días (6 al 9 de octubre), ya que hoy domingo hay menor actividad de mercados y noticias.*
 
 ## Mundo
 
@@ -20,17 +20,14 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Economía
 
-- **El Brent vuelve a superar los $100 y el G7 estudia una nueva liberación de reservas de crudo.**
-  Irán intensifica sus ataques en el estrecho de Ormuz, lo que presiona al alza los precios de la energía.
+- **Las actas de la última reunión de la Reserva Federal muestran que la mayoría de sus funcionarios ve probable otra subida de tasas antes de fin de año.**
+  La decisión dependerá de cómo evolucionen la inflación y el mercado laboral en Estados Unidos en las próximas semanas.
 
-- **El Ibex 35 cae 1,3% hasta los 18.861 puntos.**
-  Es su nivel más bajo en casi cuatro meses, presionado por la suba del crudo y la tensión en los mercados de deuda.
+- **Los mercados bursátiles de China reabren tras la Semana Dorada del Día Nacional.**
+  El Shanghai Composite había subido cerca de medio punto porcentual en la última sesión antes del receso de una semana.
 
-- **La hipoteca fija a 30 años en Estados Unidos alcanza el 7,49%.**
-  Es su nivel más alto desde noviembre de 2023, según la Mortgage Bankers Association.
-
-- **El FMI aprueba $1.200 millones adicionales para Pakistán.**
-  El país continúa dependiendo de financiación externa para sostener su economía.
+- **Comienza en Bangkok la antesala de las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
+  Los encuentros centrales se realizan del 12 al 18 de octubre, con la evolución de la economía mundial y la estabilidad financiera como temas principales.
 
 ## Política
 
@@ -57,15 +54,18 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Google expande el acceso a SynthID Detector.**
   La herramienta permite comprobar si una imagen, un video o un audio fue generado con inteligencia artificial.
 
-- **Bitcoin cae por debajo de los $83.000 en medio de salidas masivas de los ETF.**
-  El aumento de los rendimientos del Tesoro, la energía más cara y un dólar más fuerte presionan a la criptomoneda.
+- **Bitcoin cae hasta los $81.868 y desata liquidaciones por unos $1.000 millones en el mercado cripto en solo 60 minutos.**
+  El desplome arrastró a otras criptomonedas y reavivó la cautela entre los inversores más apalancados.
 
 ## Fuentes
 
 - [Unitel (mundo, EFE)](https://unitel.bo/noticias/agencias/jueves-8-de-octubre-de-2026-0700-gmt-AB23991098)
-- [elEconomista (economía)](https://eleconomista.es/flash/20261008)
+- [investingLive (economía, Fed)](https://investinglive.com/es/noticias/investinglive-americas-resumen-de-noticias-del-mercado-funcionarios-de-la-fed-preparados-para-volver-a-subir-este-ano/)
+- [investingLive (economía, China)](https://investinglive.com/es/actualizacion-del-mercado-bursatil/los-mercados-de-china-reabren-tras-la-semana-dorada-cinco-claves-a-observar-para-las-acciones-y-el-oro/)
+- [Banco Central de Chile (economía, FMI-BM)](https://www.bcentral.cl/contenido/-/details/prensa/nota-de-prensa/presidenta-del-bcch-participara-en-reuniones-anuales-fmi-y-banco-mundial-en-bangkok)
 - [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
-- [Infobae (tecnología/cripto)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
+- [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
+- [Decrypt (tecnología/cripto)](https://decrypt.co/es/349625/bitcoin-cae-a-81-868-y-desata-liquidaciones-por-1-000-millones-en-60-minutos)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
