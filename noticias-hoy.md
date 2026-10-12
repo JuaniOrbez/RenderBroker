@@ -1,33 +1,24 @@
-# Frecuencia Diaria — domingo 11 de octubre de 2026
+# Frecuencia Diaria — lunes 12 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: en Mundo y Política la búsqueda web no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada (jueves 8 de octubre). Economía y Tecnología sí se actualizaron con información real de estos últimos días (6 al 9 de octubre), ya que hoy domingo hay menor actividad de mercados y noticias.*
+*Nota: Mundo y Economía se actualizaron con noticias reales de hoy y de esta semana. En Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada (jueves 8 de octubre).*
 
 ## Mundo
 
-- **La Academia Sueca anuncia hoy el ganador del Nobel de Literatura 2026.**
-  Entre los nombres que circulan en las quinielas figuran Can Xue, Gerald Murnane, Cristina Rivera Garza y Enrique Vila-Matas.
+- **La poeta y ensayista canadiense Anne Carson gana el Premio Nobel de Literatura 2026.**
+  La Academia Sueca destacó su obra audaz, que dialoga de forma lúdica con la tradición clásica griega.
 
-- **Macron recibe en Francia al presidente alemán Frank-Walter Steinmeier.**
-  La visita de Estado incluye actos en París y se extiende hasta el viernes.
-
-- **Vence el plazo que Israel dio al Reino Unido para cerrar su Consulado General en Jerusalén.**
-  Israel había anunciado la medida como represalia por la prohibición británica de importar productos de asentamientos en Cisjordania.
-
-- **Sindicatos educativos franceses convocan una nueva huelga y manifestaciones.**
-  La jornada se da en apoyo al movimiento estudiantil que reclama más recursos para los institutos.
+- **La jurista sudafricana Navi Pillay gana el Premio Nobel de la Paz 2026.**
+  El comité noruego reconoció su trabajo en derechos humanos y derecho internacional, incluido su paso por el tribunal penal para Ruanda.
 
 ## Economía
 
-- **Las actas de la última reunión de la Reserva Federal muestran que la mayoría de sus funcionarios ve probable otra subida de tasas antes de fin de año.**
-  La decisión dependerá de cómo evolucionen la inflación y el mercado laboral en Estados Unidos en las próximas semanas.
+- **Arrancan hoy en Bangkok las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
+  El encuentro se extiende hasta el 18 de octubre y reúne a bancos centrales y ministros de Finanzas para discutir la economía mundial y la estabilidad financiera.
 
-- **Los mercados bursátiles de China reabren tras la Semana Dorada del Día Nacional.**
-  El Shanghai Composite había subido cerca de medio punto porcentual en la última sesión antes del receso de una semana.
-
-- **Comienza en Bangkok la antesala de las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
-  Los encuentros centrales se realizan del 12 al 18 de octubre, con la evolución de la economía mundial y la estabilidad financiera como temas principales.
+- **Hoy es feriado federal en Estados Unidos por el Columbus Day.**
+  Cierran los bancos, las oficinas de gobierno y el mercado de bonos, aunque la bolsa de acciones opera con normalidad.
 
 ## Política
 
@@ -59,10 +50,10 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Unitel (mundo, EFE)](https://unitel.bo/noticias/agencias/jueves-8-de-octubre-de-2026-0700-gmt-AB23991098)
-- [investingLive (economía, Fed)](https://investinglive.com/es/noticias/investinglive-americas-resumen-de-noticias-del-mercado-funcionarios-de-la-fed-preparados-para-volver-a-subir-este-ano/)
-- [investingLive (economía, China)](https://investinglive.com/es/actualizacion-del-mercado-bursatil/los-mercados-de-china-reabren-tras-la-semana-dorada-cinco-claves-a-observar-para-las-acciones-y-el-oro/)
+- [El Economista (mundo, Nobel Literatura)](https://eleconomista.com.ar/actualidad/anne-carson-gano-nobel-literatura-2026-su-historia-sus-libros-vinculo-inesperado-argentina-n98706/)
+- [Artículo 14 (mundo, Nobel Paz)](https://www.articulo14.es/internacional/navanethem-navi-pillay-gana-el-premio-nobel-de-la-paz-2026-20261009.html)
 - [Banco Central de Chile (economía, FMI-BM)](https://www.bcentral.cl/contenido/-/details/prensa/nota-de-prensa/presidenta-del-bcch-participara-en-reuniones-anuales-fmi-y-banco-mundial-en-bangkok)
+- [WBUR (economía, Columbus Day)](https://www.wbur.org/news/2026/10/06/indigenous-peoples-day-columbus-open-closed-2026-boston-mbta)
 - [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
 - [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Decrypt (tecnología/cripto)](https://decrypt.co/es/349625/bitcoin-cae-a-81-868-y-desata-liquidaciones-por-1-000-millones-en-60-minutos)
