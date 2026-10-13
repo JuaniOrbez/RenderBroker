@@ -1,8 +1,8 @@
-# Frecuencia Diaria — lunes 12 de octubre de 2026
+# Frecuencia Diaria — martes 13 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo y Economía se actualizaron con noticias reales de hoy y de esta semana. En Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada (jueves 8 de octubre).*
+*Nota: Mundo, Economía y Tecnología se actualizaron con noticias reales de esta semana. En Política la búsqueda no encontró cobertura nueva verificable (quinto día consecutivo), así que se mantiene el contenido de la última edición verificada (jueves 8 de octubre).*
 
 ## Mundo
 
@@ -12,13 +12,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **La jurista sudafricana Navi Pillay gana el Premio Nobel de la Paz 2026.**
   El comité noruego reconoció su trabajo en derechos humanos y derecho internacional, incluido su paso por el tribunal penal para Ruanda.
 
+- **Karl Deisseroth, Peter Hegemann y Georg Nagel ganan el Premio Nobel de Medicina 2026 por sus descubrimientos en optogenética.**
+  La técnica permite encender o apagar neuronas específicas con luz y hoy ayuda a estudiar circuitos cerebrales y a intentar restaurar la vista.
+
 ## Economía
 
-- **Arrancan hoy en Bangkok las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
-  El encuentro se extiende hasta el 18 de octubre y reúne a bancos centrales y ministros de Finanzas para discutir la economía mundial y la estabilidad financiera.
+- **Siguen en marcha en Bangkok las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
+  Según Reuters, el encuentro reúne a más de 15.000 participantes de 191 países y se extiende hasta el 18 de octubre.
 
-- **Hoy es feriado federal en Estados Unidos por el Columbus Day.**
-  Cierran los bancos, las oficinas de gobierno y el mercado de bonos, aunque la bolsa de acciones opera con normalidad.
+- **Ayer fue feriado federal en Estados Unidos por el Columbus Day.**
+  Los bancos y las oficinas de gobierno estuvieron cerrados, aunque la bolsa de acciones operó con normalidad.
 
 ## Política
 
@@ -36,11 +39,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Tecnología
 
+- **Una jueza federal de California despeja el camino para que Paramount compre Warner Bros. Discovery.**
+  La magistrada Araceli Martínez-Olguín aprobó el acuerdo que resuelve la demanda antimonopolio presentada por una docena de fiscales generales estatales.
+
 - **Amazon recorta puestos de trabajo mientras planea invertir $220.000 millones en inteligencia artificial.**
   La inversión se destinará a centros de datos, chips y otra infraestructura, en medio de una reorganización iniciada en octubre de 2025.
-
-- **Amazon lanza una nueva generación de tabletas con mayor integración de inteligencia artificial.**
-  La compañía busca mejorar tanto la productividad laboral como el entretenimiento a través del sistema operativo.
 
 - **Google expande el acceso a SynthID Detector.**
   La herramienta permite comprobar si una imagen, un video o un audio fue generado con inteligencia artificial.
@@ -52,9 +55,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 - [El Economista (mundo, Nobel Literatura)](https://eleconomista.com.ar/actualidad/anne-carson-gano-nobel-literatura-2026-su-historia-sus-libros-vinculo-inesperado-argentina-n98706/)
 - [Artículo 14 (mundo, Nobel Paz)](https://www.articulo14.es/internacional/navanethem-navi-pillay-gana-el-premio-nobel-de-la-paz-2026-20261009.html)
-- [Banco Central de Chile (economía, FMI-BM)](https://www.bcentral.cl/contenido/-/details/prensa/nota-de-prensa/presidenta-del-bcch-participara-en-reuniones-anuales-fmi-y-banco-mundial-en-bangkok)
+- [Vanguardia (mundo, Nobel Medicina)](https://www.vanguardia.com/mundo/2026/10/05/nobel-de-medicina-2026-deisseroth-hegemann-y-nagel-ganan-por-descubrimientos-en-optogenetica/)
+- [Internazionale/Reuters (economía, FMI-BM)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings)
 - [WBUR (economía, Columbus Day)](https://www.wbur.org/news/2026/10/06/indigenous-peoples-day-columbus-open-closed-2026-boston-mbta)
 - [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
+- [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Decrypt (tecnología/cripto)](https://decrypt.co/es/349625/bitcoin-cae-a-81-868-y-desata-liquidaciones-por-1-000-millones-en-60-minutos)
 
