@@ -1,13 +1,13 @@
-# Frecuencia Diaria — martes 13 de octubre de 2026
+# Frecuencia Diaria — miércoles 14 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo, Economía y Tecnología se actualizaron con noticias reales de esta semana. En Política la búsqueda no encontró cobertura nueva verificable (quinto día consecutivo), así que se mantiene el contenido de la última edición verificada (jueves 8 de octubre).*
+*Nota: Mundo y Economía se actualizaron con noticias reales de esta semana. En Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
-- **La poeta y ensayista canadiense Anne Carson gana el Premio Nobel de Literatura 2026.**
-  La Academia Sueca destacó su obra audaz, que dialoga de forma lúdica con la tradición clásica griega.
+- **Una trabajadora de un instituto antipeste en Irkutsk, Siberia, muere de una neumonía grave y genera una alerta sanitaria internacional.**
+  Estados Unidos y la Organización Mundial de la Salud pidieron transparencia a Rusia ante la sospecha de un posible caso de peste neumónica; Moscú niega que exista riesgo epidémico.
 
 - **La jurista sudafricana Navi Pillay gana el Premio Nobel de la Paz 2026.**
   El comité noruego reconoció su trabajo en derechos humanos y derecho internacional, incluido su paso por el tribunal penal para Ruanda.
@@ -18,10 +18,10 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 ## Economía
 
 - **Siguen en marcha en Bangkok las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
-  Según Reuters, el encuentro reúne a más de 15.000 participantes de 191 países y se extiende hasta el 18 de octubre.
+  El encuentro, bajo el lema "Thailand's New Horizons", reúne a más de 15.000 participantes de 191 países y se extiende hasta el 18 de octubre.
 
-- **Ayer fue feriado federal en Estados Unidos por el Columbus Day.**
-  Los bancos y las oficinas de gobierno estuvieron cerrados, aunque la bolsa de acciones operó con normalidad.
+- **El Banco de Tailandia presenta el "Bangkok Blueprint", un marco elaborado junto al FMI y el Banco Mundial sobre finanzas digitales.**
+  El documento se da a conocer como parte de las Reuniones Anuales y busca fortalecer la confianza en los sistemas financieros digitales.
 
 ## Política
 
@@ -53,11 +53,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [El Economista (mundo, Nobel Literatura)](https://eleconomista.com.ar/actualidad/anne-carson-gano-nobel-literatura-2026-su-historia-sus-libros-vinculo-inesperado-argentina-n98706/)
+- [Crónica (mundo, alerta sanitaria Irkutsk)](https://www.cronica.com.mx/mundo/2026/10/06/la-oms-y-eu-instan-a-rusia-a-que-informe-de-inmediato-sobre-posible-muerte-por-peste/)
 - [Artículo 14 (mundo, Nobel Paz)](https://www.articulo14.es/internacional/navanethem-navi-pillay-gana-el-premio-nobel-de-la-paz-2026-20261009.html)
 - [Vanguardia (mundo, Nobel Medicina)](https://www.vanguardia.com/mundo/2026/10/05/nobel-de-medicina-2026-deisseroth-hegemann-y-nagel-ganan-por-descubrimientos-en-optogenetica/)
-- [Internazionale/Reuters (economía, FMI-BM)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings)
-- [WBUR (economía, Columbus Day)](https://www.wbur.org/news/2026/10/06/indigenous-peoples-day-columbus-open-closed-2026-boston-mbta)
+- [Pattaya Mail (economía, FMI-BM)](https://www.pattayamail.com/thailandnews/bangkok-becomes-global-economic-hub-for-imf-world-bank-meetings-2026-557597)
+- [Thailand.go.th (economía, Bangkok Blueprint)](https://www.thailand.go.th/event-detail/thailands-new-horizons-bangkok-steps-onto-the-global-finance-stage-as-host-of-the-2026-imf-world-bank-meetings-)
 - [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
