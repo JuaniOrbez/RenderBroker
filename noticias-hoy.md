@@ -1,4 +1,4 @@
-# Frecuencia Diaria — miércoles 14 de octubre de 2026
+# Frecuencia Diaria — jueves 15 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
@@ -6,8 +6,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Mundo
 
-- **Una trabajadora de un instituto antipeste en Irkutsk, Siberia, muere de una neumonía grave y genera una alerta sanitaria internacional.**
-  Estados Unidos y la Organización Mundial de la Salud pidieron transparencia a Rusia ante la sospecha de un posible caso de peste neumónica; Moscú niega que exista riesgo epidémico.
+- **Rusia da por cerradas las medidas preventivas en Irkutsk tras el episodio de posible peste neumónica.**
+  Rospotrebnadzor reportó más de 5.500 pruebas sin enfermedades infecciosas identificadas y descartó un segundo caso, aunque la OMS sigue pidiendo más información para evaluar el riesgo.
 
 - **La jurista sudafricana Navi Pillay gana el Premio Nobel de la Paz 2026.**
   El comité noruego reconoció su trabajo en derechos humanos y derecho internacional, incluido su paso por el tribunal penal para Ruanda.
@@ -17,11 +17,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Economía
 
-- **Siguen en marcha en Bangkok las Reuniones Anuales del Fondo Monetario Internacional y el Banco Mundial.**
-  El encuentro, bajo el lema "Thailand's New Horizons", reúne a más de 15.000 participantes de 191 países y se extiende hasta el 18 de octubre.
+- **El FMI presenta su informe de Perspectivas de la Economía Mundial de octubre y prevé que el crecimiento global se desacelere este año antes de repuntar en 2027.**
+  Su economista jefa, Silvana Tenreyro, señaló dos fuerzas opuestas: el encarecimiento de la energía por la guerra en Oriente Medio y el impulso positivo del auge tecnológico ligado a la inteligencia artificial.
 
 - **El Banco de Tailandia presenta el "Bangkok Blueprint", un marco elaborado junto al FMI y el Banco Mundial sobre finanzas digitales.**
-  El documento se da a conocer como parte de las Reuniones Anuales y busca fortalecer la confianza en los sistemas financieros digitales.
+  El documento se da a conocer como parte de las Reuniones Anuales en Bangkok y busca fortalecer la confianza en los sistemas financieros digitales.
 
 ## Política
 
@@ -53,10 +53,10 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Crónica (mundo, alerta sanitaria Irkutsk)](https://www.cronica.com.mx/mundo/2026/10/06/la-oms-y-eu-instan-a-rusia-a-que-informe-de-inmediato-sobre-posible-muerte-por-peste/)
+- [Teleamazonas (mundo, cierre alerta Irkutsk)](https://www.teleamazonas.com/actualidad/noticias/internacional/rusia-descarta-segundo-caso-peste-neumonica-cierra-medidas-preventivas-siberia-130045/)
 - [Artículo 14 (mundo, Nobel Paz)](https://www.articulo14.es/internacional/navanethem-navi-pillay-gana-el-premio-nobel-de-la-paz-2026-20261009.html)
 - [Vanguardia (mundo, Nobel Medicina)](https://www.vanguardia.com/mundo/2026/10/05/nobel-de-medicina-2026-deisseroth-hegemann-y-nagel-ganan-por-descubrimientos-en-optogenetica/)
-- [Pattaya Mail (economía, FMI-BM)](https://www.pattayamail.com/thailandnews/bangkok-becomes-global-economic-hub-for-imf-world-bank-meetings-2026-557597)
+- [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
 - [Thailand.go.th (economía, Bangkok Blueprint)](https://www.thailand.go.th/event-detail/thailands-new-horizons-bangkok-steps-onto-the-global-finance-stage-as-host-of-the-2026-imf-world-bank-meetings-)
 - [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
