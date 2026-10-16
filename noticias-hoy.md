@@ -1,8 +1,8 @@
-# Frecuencia Diaria — jueves 15 de octubre de 2026
+# Frecuencia Diaria — viernes 16 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo y Economía se actualizaron con noticias reales de esta semana. En Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Economía se actualizó con una novedad real de hoy. En Mundo, Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -22,6 +22,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 - **El Banco de Tailandia presenta el "Bangkok Blueprint", un marco elaborado junto al FMI y el Banco Mundial sobre finanzas digitales.**
   El documento se da a conocer como parte de las Reuniones Anuales en Bangkok y busca fortalecer la confianza en los sistemas financieros digitales.
+
+- **Tailandia declara hoy feriado especial de gobierno y bancario por las Reuniones Anuales del FMI y el Banco Mundial.**
+  La medida busca facilitar la logística del encuentro en Bangkok, que entra en sus últimos días antes de cerrar el domingo 18 de octubre.
 
 ## Política
 
@@ -58,6 +61,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Vanguardia (mundo, Nobel Medicina)](https://www.vanguardia.com/mundo/2026/10/05/nobel-de-medicina-2026-deisseroth-hegemann-y-nagel-ganan-por-descubrimientos-en-optogenetica/)
 - [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
 - [Thailand.go.th (economía, Bangkok Blueprint)](https://www.thailand.go.th/event-detail/thailands-new-horizons-bangkok-steps-onto-the-global-finance-stage-as-host-of-the-2026-imf-world-bank-meetings-)
+- [Internazionale/Reuters (economía, feriado Tailandia)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings)
 - [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
