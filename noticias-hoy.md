@@ -1,13 +1,13 @@
-# Frecuencia Diaria — viernes 16 de octubre de 2026
+# Frecuencia Diaria — sábado 17 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía se actualizó con una novedad real de hoy. En Mundo, Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Mundo y Política se actualizaron con noticias reales de esta semana (Política por primera vez en varios días). En Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
-- **Rusia da por cerradas las medidas preventivas en Irkutsk tras el episodio de posible peste neumónica.**
-  Rospotrebnadzor reportó más de 5.500 pruebas sin enfermedades infecciosas identificadas y descartó un segundo caso, aunque la OMS sigue pidiendo más información para evaluar el riesgo.
+- **México reporta un repunte de casos humanos de gusano barrenador, con nuevos contagios confirmados en Guanajuato.**
+  Las autoridades sanitarias describen la situación en el estado como estable, aunque la planta de moscas estériles para controlar al parásito todavía no está terminada.
 
 - **La jurista sudafricana Navi Pillay gana el Premio Nobel de la Paz 2026.**
   El comité noruego reconoció su trabajo en derechos humanos y derecho internacional, incluido su paso por el tribunal penal para Ruanda.
@@ -28,17 +28,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Política
 
-- **El Eurogrupo se reúne en Luxemburgo para evaluar el impacto de la crisis energética.**
-  Los ministros de Economía de la eurozona analizan el alza de precios del gas y la electricidad derivada de las perturbaciones en Ormuz.
+- **Brasil se encamina a una segunda vuelta presidencial el 25 de octubre entre Flávio Bolsonaro y Lula da Silva.**
+  Con el escrutinio ya completo de la primera vuelta, Flávio obtuvo 47,03 por ciento de los votos válidos frente a 45,16 por ciento de Lula, un resultado más ajustado de lo que anticipaban las encuestas.
 
-- **La reforma electoral del Gobierno de Giorgia Meloni llega a su votación definitiva en Italia.**
-  La oposición anunció que votará en bloque en contra en la Cámara de Diputados.
-
-- **Vence el plazo que Israel dio al Reino Unido para cerrar su Consulado General en Jerusalén.**
-  La medida se enmarca en la disputa diplomática por la prohibición británica de importar productos de asentamientos israelíes.
-
-- **Trump elogia a María Corina Machado tras su anuncio de regresar a Venezuela.**
-  El presidente estadounidense respaldó públicamente la intención de la líder opositora.
+- **La Cámara de Diputados de México aprueba en lo general la reforma a la Ley del ISR 2027.**
+  El dictamen, que limita las deducciones autorizadas de las empresas, pasa ahora al Senado como cámara revisora.
 
 ## Tecnología
 
@@ -56,13 +50,14 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Teleamazonas (mundo, cierre alerta Irkutsk)](https://www.teleamazonas.com/actualidad/noticias/internacional/rusia-descarta-segundo-caso-peste-neumonica-cierra-medidas-preventivas-siberia-130045/)
+- [Líder Empresarial (mundo, gusano barrenador)](https://www.liderempresarial.com/gusano-barrenador-guanajuato-dos-nuevos-casos-humanos/)
 - [Artículo 14 (mundo, Nobel Paz)](https://www.articulo14.es/internacional/navanethem-navi-pillay-gana-el-premio-nobel-de-la-paz-2026-20261009.html)
 - [Vanguardia (mundo, Nobel Medicina)](https://www.vanguardia.com/mundo/2026/10/05/nobel-de-medicina-2026-deisseroth-hegemann-y-nagel-ganan-por-descubrimientos-en-optogenetica/)
 - [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
 - [Thailand.go.th (economía, Bangkok Blueprint)](https://www.thailand.go.th/event-detail/thailands-new-horizons-bangkok-steps-onto-the-global-finance-stage-as-host-of-the-2026-imf-world-bank-meetings-)
 - [Internazionale/Reuters (economía, feriado Tailandia)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings)
-- [Infobae (política)](https://www.infobae.com/america/agencias/2026/10/08/jueves-8-de-octubre-de-2026-0700-gmt/)
+- [Viva (política, segunda vuelta Brasil)](https://viva.com.br/politica/lula-pt-e-flavio-bolsonaro-pl-vao-para-o-segundo-turno-das-eleicoes.html)
+- [Bloomberg Línea (política, Ley ISR México)](https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-en-lo-general-reforma-a-ley-de-isr-2027-a-la-espera-de-discutir-reservas/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Decrypt (tecnología/cripto)](https://decrypt.co/es/349625/bitcoin-cae-a-81-868-y-desata-liquidaciones-por-1-000-millones-en-60-minutos)
