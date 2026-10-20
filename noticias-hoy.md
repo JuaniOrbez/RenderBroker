@@ -1,8 +1,8 @@
-# Frecuencia Diaria — lunes 19 de octubre de 2026
+# Frecuencia Diaria — martes 20 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía y Política se actualizaron con novedades reales de hoy. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: la búsqueda web no encontró cobertura nueva verificable en ninguna categoría hoy, así que esta edición mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -14,7 +14,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El FMI presenta su informe de Perspectivas de la Economía Mundial de octubre y prevé que el crecimiento global se desacelere este año antes de repuntar en 2027.**
   Su economista jefa, Silvana Tenreyro, señaló dos fuerzas opuestas: el encarecimiento de la energía por la guerra en Oriente Medio y el impulso positivo del auge tecnológico ligado a la inteligencia artificial.
 
-- **Las Reuniones Anuales del FMI y el Banco Mundial en Bangkok cerraron ayer tras una semana marcada también por protestas en las afueras de la sede.**
+- **Las Reuniones Anuales del FMI y el Banco Mundial en Bangkok cerraron tras una semana marcada también por protestas en las afueras de la sede.**
   El encuentro, que reunió a más de 15.000 participantes de 191 países, concluyó con el compromiso de retomarse en Washington el año próximo.
 
 - **La Reserva Federal de Estados Unidos se reúne el 27 y 28 de octubre en medio de presión por la inflación.**
