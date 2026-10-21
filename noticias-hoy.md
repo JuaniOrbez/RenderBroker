@@ -1,8 +1,8 @@
-# Frecuencia Diaria — martes 20 de octubre de 2026
+# Frecuencia Diaria — miércoles 21 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: la búsqueda web no encontró cobertura nueva verificable en ninguna categoría hoy, así que esta edición mantiene el contenido de la última edición verificada.*
+*Nota: la búsqueda web no encontró cobertura nueva verificable en ninguna categoría hoy (segundo día consecutivo), así que esta edición mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
