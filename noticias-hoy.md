@@ -1,8 +1,8 @@
-# Frecuencia Diaria — miércoles 21 de octubre de 2026
+# Frecuencia Diaria — jueves 22 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: la búsqueda web no encontró cobertura nueva verificable en ninguna categoría hoy (segundo día consecutivo), así que esta edición mantiene el contenido de la última edición verificada.*
+*Nota: Política se actualizó con una encuesta real de esta semana. En Mundo, Economía y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -22,8 +22,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Política
 
-- **Lula y Flávio Bolsonaro encaran la recta final hacia la segunda vuelta presidencial de Brasil, el 25 de octubre.**
-  Tras el debate de Band del domingo, ambos candidatos todavía deben confirmar su participación en el de TV Globo, previsto para el 23 de octubre, en una campaña marcada por la polarización.
+- **Una nueva encuesta muestra a Flávio Bolsonaro y Lula virtualmente empatados a seis días de la segunda vuelta en Brasil.**
+  El sondeo de BTG Pactual/Nexus da 50,3 por ciento a Flávio y 49,7 por ciento a Lula, dentro del margen de error, tras la ventaja más amplia que el senador tenía la semana anterior.
 
 - **La Cámara de Diputados de México aprueba en lo general la reforma a la Ley del ISR 2027.**
   El dictamen, que limita las deducciones autorizadas de las empresas, pasa ahora al Senado como cámara revisora.
@@ -48,7 +48,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
 - [Internazionale/Reuters (economía, Reuniones Bangkok)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings)
 - [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
-- [Revista Mercado (política, debates segunda vuelta Brasil)](https://revistamercado.do/money-invest/daily-news/cuando-es-el-debate-entre-lula-y-flavio-bolsonaro-las-fechas-de-record-band-y-globo-sin-confirmar-si-van/)
+- [Bloomberg Línea (política, encuesta Brasil)](https://www.bloomberglinea.com/latinoamerica/brasil/flavio-bolsonaro-y-lula-empatan-en-intencion-de-voto-a-pocos-dias-de-la-segunda-vuelta-segun-encuesta/)
 - [Bloomberg Línea (política, Ley ISR México)](https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-en-lo-general-reforma-a-ley-de-isr-2027-a-la-espera-de-discutir-reservas/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
