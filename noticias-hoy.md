@@ -1,8 +1,8 @@
-# Frecuencia Diaria — jueves 22 de octubre de 2026
+# Frecuencia Diaria — viernes 23 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política se actualizó con una encuesta real de esta semana. En Mundo, Economía y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Economía, Política y Tecnología se actualizaron con noticias reales de esta semana. En Mundo la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -14,16 +14,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El FMI presenta su informe de Perspectivas de la Economía Mundial de octubre y prevé que el crecimiento global se desacelere este año antes de repuntar en 2027.**
   Su economista jefa, Silvana Tenreyro, señaló dos fuerzas opuestas: el encarecimiento de la energía por la guerra en Oriente Medio y el impulso positivo del auge tecnológico ligado a la inteligencia artificial.
 
-- **Las Reuniones Anuales del FMI y el Banco Mundial en Bangkok cerraron tras una semana marcada también por protestas en las afueras de la sede.**
-  El encuentro, que reunió a más de 15.000 participantes de 191 países, concluyó con el compromiso de retomarse en Washington el año próximo.
+- **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
+  La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
 
 - **La Reserva Federal de Estados Unidos se reúne el 27 y 28 de octubre en medio de presión por la inflación.**
   Los precios al consumidor subieron 3,7 por ciento interanual en septiembre, por encima del 3,4 por ciento de agosto, lo que alimenta la posibilidad de una nueva suba de tasas antes de fin de año.
 
 ## Política
 
-- **Una nueva encuesta muestra a Flávio Bolsonaro y Lula virtualmente empatados a seis días de la segunda vuelta en Brasil.**
-  El sondeo de BTG Pactual/Nexus da 50,3 por ciento a Flávio y 49,7 por ciento a Lula, dentro del margen de error, tras la ventaja más amplia que el senador tenía la semana anterior.
+- **Lula y Flávio Bolsonaro se enfrentan esta noche en el último debate antes de la segunda vuelta presidencial de Brasil, el domingo.**
+  El encuentro se transmite por TV Globo desde Río de Janeiro, dos días después de un primer cara a cara por Band marcado por cruces tensos entre ambos candidatos.
 
 - **La Cámara de Diputados de México aprueba en lo general la reforma a la Ley del ISR 2027.**
   El dictamen, que limita las deducciones autorizadas de las empresas, pasa ahora al Senado como cámara revisora.
@@ -36,23 +36,20 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Amazon recorta puestos de trabajo mientras planea invertir $220.000 millones en inteligencia artificial.**
   La inversión se destinará a centros de datos, chips y otra infraestructura, en medio de una reorganización iniciada en octubre de 2025.
 
-- **Google expande el acceso a SynthID Detector.**
-  La herramienta permite comprobar si una imagen, un video o un audio fue generado con inteligencia artificial.
-
-- **Las liquidaciones en el mercado de futuros cripto superan los $977 millones tras una nueva caída de bitcoin por debajo de los $82.000.**
-  La suba de la inflación en Estados Unidos alimenta la cautela de cara a la próxima reunión de la Reserva Federal, a fin de mes.
+- **Netflix despide a unos 1.000 empleados, el 6 por ciento de su plantilla global, en su mayor recorte en cuatro años.**
+  Los codirectores ejecutivos atribuyeron la medida a la desaceleración del crecimiento y aseguraron que el negocio sigue firme y en línea con sus metas financieras de 2026.
 
 ## Fuentes
 
 - [CNN Chile (mundo, acuerdos Kast-Paz)](https://www.cnnchile.com/pais/presidentes-kast-y-paz-firman-acuerdos-para-reimpulsar-la-relacion-entre-chile-y-bolivia/)
 - [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
-- [Internazionale/Reuters (economía, Reuniones Bangkok)](https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/thailand-prepares-to-host-imf-world-bank-meetings)
+- [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
-- [Bloomberg Línea (política, encuesta Brasil)](https://www.bloomberglinea.com/latinoamerica/brasil/flavio-bolsonaro-y-lula-empatan-en-intencion-de-voto-a-pocos-dias-de-la-segunda-vuelta-segun-encuesta/)
+- [DGABC (política, debate TV Globo)](https://www.dgabc.com.br/Noticia/4353569/ultimo-debate-do-2-turno-reunira-lula-e-flavio-bolsonaro-na-tv-globo-veja-quando-sera)
 - [Bloomberg Línea (política, Ley ISR México)](https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-en-lo-general-reforma-a-ley-de-isr-2027-a-la-espera-de-discutir-reservas/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
-- [Infobae (tecnología)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
-- [Incrypted (tecnología/cripto)](https://incrypted.com/es/noticias-es/bitcoin/)
+- [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
+- [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
