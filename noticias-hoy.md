@@ -1,8 +1,8 @@
-# Frecuencia Diaria — viernes 23 de octubre de 2026
+# Frecuencia Diaria — sábado 24 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía, Política y Tecnología se actualizaron con noticias reales de esta semana. En Mundo la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Política y Tecnología se actualizaron con noticias reales de esta semana. En Mundo y Economía la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -22,8 +22,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Política
 
-- **Lula y Flávio Bolsonaro se enfrentan esta noche en el último debate antes de la segunda vuelta presidencial de Brasil, el domingo.**
-  El encuentro se transmite por TV Globo desde Río de Janeiro, dos días después de un primer cara a cara por Band marcado por cruces tensos entre ambos candidatos.
+- **Brasil vota mañana domingo la segunda vuelta presidencial entre Lula y Flávio Bolsonaro.**
+  La campaña cierra tras dos debates televisivos muy tensos, con encuestas que muestran una contienda sumamente pareja luego de que Flávio quedara adelante en la primera vuelta.
 
 - **La Cámara de Diputados de México aprueba en lo general la reforma a la Ley del ISR 2027.**
   El dictamen, que limita las deducciones autorizadas de las empresas, pasa ahora al Senado como cámara revisora.
@@ -39,17 +39,21 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Netflix despide a unos 1.000 empleados, el 6 por ciento de su plantilla global, en su mayor recorte en cuatro años.**
   Los codirectores ejecutivos atribuyeron la medida a la desaceleración del crecimiento y aseguraron que el negocio sigue firme y en línea con sus metas financieras de 2026.
 
+- **ASML logra su mejor trimestre histórico, con ventas de 11.700 millones de euros impulsadas por la demanda de chips para inteligencia artificial.**
+  La empresa neerlandesa, clave para fabricar semiconductores avanzados, advirtió que no podrá cubrir toda la demanda de sus clientes ni en 2027 ni en 2028.
+
 ## Fuentes
 
 - [CNN Chile (mundo, acuerdos Kast-Paz)](https://www.cnnchile.com/pais/presidentes-kast-y-paz-firman-acuerdos-para-reimpulsar-la-relacion-entre-chile-y-bolivia/)
 - [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
-- [DGABC (política, debate TV Globo)](https://www.dgabc.com.br/Noticia/4353569/ultimo-debate-do-2-turno-reunira-lula-e-flavio-bolsonaro-na-tv-globo-veja-quando-sera)
+- [Telemundo51 (política, cierre de campaña Brasil)](https://www.telemundo51.com/noticias/mundo/elecciones-brasil-lula-flavio-bolsonaro/)
 - [Bloomberg Línea (política, Ley ISR México)](https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-en-lo-general-reforma-a-ley-de-isr-2027-a-la-espera-de-discutir-reservas/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
+- [Ecosistema Startup (tecnología, resultados ASML)](https://ecosistemastartup.com/asml-logra-ventas-record-de-e11-700m-por-demanda-de-ia/)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
