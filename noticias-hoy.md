@@ -1,8 +1,8 @@
-# Frecuencia Diaria — sábado 24 de octubre de 2026
+# Frecuencia Diaria — domingo 25 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política y Tecnología se actualizaron con noticias reales de esta semana. En Mundo y Economía la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Economía y Política se actualizaron con noticias reales de hoy y de esta semana. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -11,8 +11,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Economía
 
-- **El FMI presenta su informe de Perspectivas de la Economía Mundial de octubre y prevé que el crecimiento global se desacelere este año antes de repuntar en 2027.**
-  Su economista jefa, Silvana Tenreyro, señaló dos fuerzas opuestas: el encarecimiento de la energía por la guerra en Oriente Medio y el impulso positivo del auge tecnológico ligado a la inteligencia artificial.
+- **El FMI advierte que una corrección en los precios de la inteligencia artificial es uno de los tres principales riesgos para la estabilidad financiera mundial.**
+  Su informe identificó catorce acuerdos circulares entre grandes tecnológicas y empresas de IA más frágiles, por unos 300.000 millones de dólares en acciones y 650.000 millones en deuda.
 
 - **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
   La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
@@ -22,8 +22,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Política
 
-- **Brasil vota mañana domingo la segunda vuelta presidencial entre Lula y Flávio Bolsonaro.**
-  La campaña cierra tras dos debates televisivos muy tensos, con encuestas que muestran una contienda sumamente pareja luego de que Flávio quedara adelante en la primera vuelta.
+- **Brasil vota hoy la segunda vuelta presidencial entre Lula y Flávio Bolsonaro.**
+  Las urnas están abiertas de 8 a 17 horas de Brasilia; el resultado definirá quién gobierna el país durante los próximos cuatro años, con la posesión prevista para el 5 de enero de 2027.
 
 - **La Cámara de Diputados de México aprueba en lo general la reforma a la Ley del ISR 2027.**
   El dictamen, que limita las deducciones autorizadas de las empresas, pasa ahora al Senado como cámara revisora.
@@ -45,10 +45,10 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 ## Fuentes
 
 - [CNN Chile (mundo, acuerdos Kast-Paz)](https://www.cnnchile.com/pais/presidentes-kast-y-paz-firman-acuerdos-para-reimpulsar-la-relacion-entre-chile-y-bolivia/)
-- [Primicias (economía, informe FMI)](https://www.primicias.ec/economia/fmi-proyecciones-crecimiento-ecuador-america-latina-2026-pib-134759/)
+- [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
-- [Telemundo51 (política, cierre de campaña Brasil)](https://www.telemundo51.com/noticias/mundo/elecciones-brasil-lula-flavio-bolsonaro/)
+- [Portafolio (política, segunda vuelta Brasil)](https://www.portafolio.co/internacional/elecciones-en-brasil-lula-y-flavio-bolsonaro-van-a-segunda-vuelta-el-25-de-octubre-503872)
 - [Bloomberg Línea (política, Ley ISR México)](https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-en-lo-general-reforma-a-ley-de-isr-2027-a-la-espera-de-discutir-reservas/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
