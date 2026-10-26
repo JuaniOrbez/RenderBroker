@@ -1,8 +1,8 @@
-# Frecuencia Diaria — domingo 25 de octubre de 2026
+# Frecuencia Diaria — lunes 26 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía y Política se actualizaron con noticias reales de hoy y de esta semana. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Política se actualizó con el seguimiento de la segunda vuelta en Brasil y la Ley de Ingresos en México. En Mundo, Economía y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre Brasil: al cierre de esta edición no encontramos una fuente que confirme el resultado final de la elección.*
 
 ## Mundo
 
@@ -22,11 +22,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Política
 
-- **Brasil vota hoy la segunda vuelta presidencial entre Lula y Flávio Bolsonaro.**
-  Las urnas están abiertas de 8 a 17 horas de Brasilia; el resultado definirá quién gobierna el país durante los próximos cuatro años, con la posesión prevista para el 5 de enero de 2027.
+- **Brasil celebró ayer la segunda vuelta presidencial entre Lula y Flávio Bolsonaro.**
+  Al cierre de esta edición el escrutinio seguía en marcha y no había una fuente que confirmara el resultado final ni la proclamación de un ganador por parte del Tribunal Superior Electoral.
 
-- **La Cámara de Diputados de México aprueba en lo general la reforma a la Ley del ISR 2027.**
-  El dictamen, que limita las deducciones autorizadas de las empresas, pasa ahora al Senado como cámara revisora.
+- **El Senado de México vota mañana la Ley de Ingresos 2027, luego de que Diputados la aprobara con 340 votos a favor.**
+  El paquete, que ahora define el pleno del Senado junto con la Miscelánea Fiscal, proyecta ingresos federales por 10,6 billones de pesos para el próximo año.
 
 ## Tecnología
 
@@ -48,8 +48,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
-- [Portafolio (política, segunda vuelta Brasil)](https://www.portafolio.co/internacional/elecciones-en-brasil-lula-y-flavio-bolsonaro-van-a-segunda-vuelta-el-25-de-octubre-503872)
-- [Bloomberg Línea (política, Ley ISR México)](https://www.bloomberglinea.com/latinoamerica/mexico/diputados-aprueban-en-lo-general-reforma-a-ley-de-isr-2027-a-la-espera-de-discutir-reservas/)
+- [Gazeta SP (política, conteo segunda vuelta Brasil)](https://www.gazetasp.com.br/politica/segundo-turno-tem-nova-atualizacao-na-disputa-pela-presidencia-com-bolsonaro-a-frente-de-lula-na-apuracao-dos-votos/)
+- [Por Esto (política, Ley de Ingresos 2027 México)](https://www.poresto.com/mexico/2026/10/20/senado-recibe-ley-ingresos-miscelanea-fiscal-preven-votacion-octubre.html)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
