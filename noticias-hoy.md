@@ -1,8 +1,8 @@
-# Frecuencia Diaria — lunes 26 de octubre de 2026
+# Frecuencia Diaria — martes 27 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política se actualizó con el seguimiento de la segunda vuelta en Brasil y la Ley de Ingresos en México. En Mundo, Economía y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre Brasil: al cierre de esta edición no encontramos una fuente que confirme el resultado final de la elección.*
+*Nota: Economía y Política se actualizaron con novedades reales de hoy. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre Brasil: pese a varias búsquedas en dos ediciones consecutivas, no encontramos una fuente que confirme el resultado final de la segunda vuelta; se recomienda verificarlo directamente.*
 
 ## Mundo
 
@@ -17,16 +17,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
   La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
 
-- **La Reserva Federal de Estados Unidos se reúne el 27 y 28 de octubre en medio de presión por la inflación.**
-  Los precios al consumidor subieron 3,7 por ciento interanual en septiembre, por encima del 3,4 por ciento de agosto, lo que alimenta la posibilidad de una nueva suba de tasas antes de fin de año.
+- **La Reserva Federal de Estados Unidos comienza hoy su reunión de política monetaria, con la decisión prevista para mañana.**
+  Los precios al consumidor subieron 3,7 por ciento interanual en septiembre, por encima del 3,4 por ciento de agosto, lo que mantiene abierta la posibilidad de una nueva suba de tasas antes de fin de año.
 
 ## Política
 
-- **Brasil celebró ayer la segunda vuelta presidencial entre Lula y Flávio Bolsonaro.**
-  Al cierre de esta edición el escrutinio seguía en marcha y no había una fuente que confirmara el resultado final ni la proclamación de un ganador por parte del Tribunal Superior Electoral.
+- **Brasil eligió presidente el domingo entre Lula y Flávio Bolsonaro, aunque esta edición no logró confirmar el resultado final con una fuente oficial.**
+  El Tribunal Superior Electoral llevaba adelante el escrutinio de la segunda vuelta; se recomienda verificar el resultado directamente en medios brasileños o en el sitio del TSE.
 
-- **El Senado de México vota mañana la Ley de Ingresos 2027, luego de que Diputados la aprobara con 340 votos a favor.**
-  El paquete, que ahora define el pleno del Senado junto con la Miscelánea Fiscal, proyecta ingresos federales por 10,6 billones de pesos para el próximo año.
+- **El pleno del Senado de México vota hoy la Ley de Ingresos 2027, tras el visto bueno de comisiones unidas por 10 votos a favor y 5 en contra.**
+  La oposición anunció reservas para modificarla, aunque la mayoría oficialista planea aprobarla sin cambios, después de que Diputados ya la respaldara con 340 votos a favor.
 
 ## Tecnología
 
@@ -49,7 +49,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
 - [Gazeta SP (política, conteo segunda vuelta Brasil)](https://www.gazetasp.com.br/politica/segundo-turno-tem-nova-atualizacao-na-disputa-pela-presidencia-com-bolsonaro-a-frente-de-lula-na-apuracao-dos-votos/)
-- [Por Esto (política, Ley de Ingresos 2027 México)](https://www.poresto.com/mexico/2026/10/20/senado-recibe-ley-ingresos-miscelanea-fiscal-preven-votacion-octubre.html)
+- [Excélsior (política, comisiones Senado México)](https://www.excelsior.com.mx/politica/sin-cambios-senado-deja-paquete-ingresos-2027-antesala-aprobacion)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
