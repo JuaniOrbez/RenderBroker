@@ -1,8 +1,8 @@
-# Frecuencia Diaria — martes 27 de octubre de 2026
+# Frecuencia Diaria — miércoles 28 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía y Política se actualizaron con novedades reales de hoy. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre Brasil: pese a varias búsquedas en dos ediciones consecutivas, no encontramos una fuente que confirme el resultado final de la segunda vuelta; se recomienda verificarlo directamente.*
+*Nota: Economía se actualizó con la agenda de hoy. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre Política: ni el resultado final de la segunda vuelta en Brasil ni el de la votación del Senado mexicano aparecieron confirmados en las búsquedas de esta y la edición anterior; se señalan como pendientes de confirmar en vez de inventarlos.*
 
 ## Mundo
 
@@ -17,16 +17,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
   La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
 
-- **La Reserva Federal de Estados Unidos comienza hoy su reunión de política monetaria, con la decisión prevista para mañana.**
-  Los precios al consumidor subieron 3,7 por ciento interanual en septiembre, por encima del 3,4 por ciento de agosto, lo que mantiene abierta la posibilidad de una nueva suba de tasas antes de fin de año.
+- **La Reserva Federal de Estados Unidos anuncia hoy por la tarde su decisión de tasas, al cierre de su reunión de dos días.**
+  Los precios al consumidor subieron 3,7 por ciento interanual en septiembre, por encima del 3,4 por ciento de agosto, lo que mantiene abierta la posibilidad de una nueva suba antes de fin de año.
 
 ## Política
 
 - **Brasil eligió presidente el domingo entre Lula y Flávio Bolsonaro, aunque esta edición no logró confirmar el resultado final con una fuente oficial.**
-  El Tribunal Superior Electoral llevaba adelante el escrutinio de la segunda vuelta; se recomienda verificar el resultado directamente en medios brasileños o en el sitio del TSE.
+  Pasados tres días de la votación, se recomienda verificar la proclamación del ganador directamente en el sitio del Tribunal Superior Electoral o en medios brasileños.
 
-- **El pleno del Senado de México vota hoy la Ley de Ingresos 2027, tras el visto bueno de comisiones unidas por 10 votos a favor y 5 en contra.**
-  La oposición anunció reservas para modificarla, aunque la mayoría oficialista planea aprobarla sin cambios, después de que Diputados ya la respaldara con 340 votos a favor.
+- **El Senado de México discutió ayer en el pleno la Ley de Ingresos 2027, aunque esta edición no logró confirmar el resultado final de la votación.**
+  El dictamen llegó al pleno con el aval de comisiones unidas por 10 votos a favor y 5 en contra, después de que Diputados lo respaldara con 340 votos a favor.
 
 ## Tecnología
 
