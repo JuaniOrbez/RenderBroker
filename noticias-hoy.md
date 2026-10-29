@@ -1,8 +1,8 @@
-# Frecuencia Diaria — miércoles 28 de octubre de 2026
+# Frecuencia Diaria — jueves 29 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía se actualizó con la agenda de hoy. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre Política: ni el resultado final de la segunda vuelta en Brasil ni el de la votación del Senado mexicano aparecieron confirmados en las búsquedas de esta y la edición anterior; se señalan como pendientes de confirmar en vez de inventarlos.*
+*Nota: Política se actualizó con el resultado confirmado de Brasil. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre la Fed y el Senado mexicano: no encontramos una fuente que confirme el desenlace final de ninguno de los dos, así que se los deja señalados como pendientes de confirmar en vez de inventarlos.*
 
 ## Mundo
 
@@ -17,16 +17,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
   La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
 
-- **La Reserva Federal de Estados Unidos anuncia hoy por la tarde su decisión de tasas, al cierre de su reunión de dos días.**
-  Los precios al consumidor subieron 3,7 por ciento interanual en septiembre, por encima del 3,4 por ciento de agosto, lo que mantiene abierta la posibilidad de una nueva suba antes de fin de año.
+- **La Reserva Federal anunció ayer su decisión de tasas, aunque esta edición no logró confirmar con una fuente posterior si las mantuvo o volvió a subirlas.**
+  Antes del anuncio, el mercado asignaba una probabilidad de alrededor del 90 por ciento a que la Fed mantuviera el rango de 3,75 a 4,00 por ciento; se recomienda verificar el comunicado oficial en federalreserve.gov.
 
 ## Política
 
-- **Brasil eligió presidente el domingo entre Lula y Flávio Bolsonaro, aunque esta edición no logró confirmar el resultado final con una fuente oficial.**
-  Pasados tres días de la votación, se recomienda verificar la proclamación del ganador directamente en el sitio del Tribunal Superior Electoral o en medios brasileños.
+- **El Tribunal Superior Electoral proclama a Lula presidente electo de Brasil, con 51,79 por ciento de los votos frente a 48,21 por ciento de Flávio Bolsonaro.**
+  Flávio no reconoce el resultado y pedirá su anulación por una decisión judicial que extendió dos horas el horario de votación, aunque partidos del centro e incluso su propio PL ya reconocieron la victoria de Lula.
 
-- **El Senado de México discutió ayer en el pleno la Ley de Ingresos 2027, aunque esta edición no logró confirmar el resultado final de la votación.**
-  El dictamen llegó al pleno con el aval de comisiones unidas por 10 votos a favor y 5 en contra, después de que Diputados lo respaldara con 340 votos a favor.
+- **El Senado de México avanza la Ley de Ingresos 2027 tras su primera lectura en el pleno, aunque esta edición no logró confirmar si ya hubo votación final.**
+  El dictamen llegó sin cambios respecto de lo aprobado por Diputados, con el respaldo de comisiones unidas por 10 votos a favor y 5 en contra.
 
 ## Tecnología
 
@@ -47,9 +47,10 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [CNN Chile (mundo, acuerdos Kast-Paz)](https://www.cnnchile.com/pais/presidentes-kast-y-paz-firman-acuerdos-para-reimpulsar-la-relacion-entre-chile-y-bolivia/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
-- [Raisin (economía, próxima reunión de la Fed)](https://www.raisin.com/es-es/ahorro/proxima-reunion-fed/)
-- [Gazeta SP (política, conteo segunda vuelta Brasil)](https://www.gazetasp.com.br/politica/segundo-turno-tem-nova-atualizacao-na-disputa-pela-presidencia-com-bolsonaro-a-frente-de-lula-na-apuracao-dos-votos/)
-- [Excélsior (política, comisiones Senado México)](https://www.excelsior.com.mx/politica/sin-cambios-senado-deja-paquete-ingresos-2027-antesala-aprobacion)
+- [Admiral Markets (economía, previa decisión de la Fed)](https://admiralmarkets.com/es/analytics/traders-blog/decision-de-la-fed-octubre-2026)
+- [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
+- [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
+- [Excélsior (política, Senado México)](https://www.excelsior.com.mx/politica/sin-cambios-senado-deja-paquete-ingresos-2027-antesala-aprobacion)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
