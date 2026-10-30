@@ -1,8 +1,8 @@
-# Frecuencia Diaria — jueves 29 de octubre de 2026
+# Frecuencia Diaria — viernes 30 de octubre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política se actualizó con el resultado confirmado de Brasil. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada. Sobre la Fed y el Senado mexicano: no encontramos una fuente que confirme el desenlace final de ninguno de los dos, así que se los deja señalados como pendientes de confirmar en vez de inventarlos.*
+*Nota: Economía y Política se actualizaron con los resultados confirmados que faltaban: la decisión de la Fed y la votación del Senado mexicano. En Mundo y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -17,16 +17,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
   La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
 
-- **La Reserva Federal anunció ayer su decisión de tasas, aunque esta edición no logró confirmar con una fuente posterior si las mantuvo o volvió a subirlas.**
-  Antes del anuncio, el mercado asignaba una probabilidad de alrededor del 90 por ciento a que la Fed mantuviera el rango de 3,75 a 4,00 por ciento; se recomienda verificar el comunicado oficial en federalreserve.gov.
+- **La Reserva Federal mantuvo sin cambios su tasa de referencia el miércoles, en una votación dividida de 10 a 2.**
+  El rango se mantiene entre 3,75 y 4,00 por ciento, y los mercados ya proyectan la posibilidad de una nueva suba en la reunión de diciembre.
 
 ## Política
 
 - **El Tribunal Superior Electoral proclama a Lula presidente electo de Brasil, con 51,79 por ciento de los votos frente a 48,21 por ciento de Flávio Bolsonaro.**
   Flávio no reconoce el resultado y pedirá su anulación por una decisión judicial que extendió dos horas el horario de votación, aunque partidos del centro e incluso su propio PL ya reconocieron la victoria de Lula.
 
-- **El Senado de México avanza la Ley de Ingresos 2027 tras su primera lectura en el pleno, aunque esta edición no logró confirmar si ya hubo votación final.**
-  El dictamen llegó sin cambios respecto de lo aprobado por Diputados, con el respaldo de comisiones unidas por 10 votos a favor y 5 en contra.
+- **El Senado de México aprueba en lo general y en lo particular la Ley de Ingresos 2027, con 79 votos a favor y 34 en contra.**
+  La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
 
 ## Tecnología
 
@@ -47,10 +47,10 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [CNN Chile (mundo, acuerdos Kast-Paz)](https://www.cnnchile.com/pais/presidentes-kast-y-paz-firman-acuerdos-para-reimpulsar-la-relacion-entre-chile-y-bolivia/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
-- [Admiral Markets (economía, previa decisión de la Fed)](https://admiralmarkets.com/es/analytics/traders-blog/decision-de-la-fed-octubre-2026)
+- [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
-- [Excélsior (política, Senado México)](https://www.excelsior.com.mx/politica/sin-cambios-senado-deja-paquete-ingresos-2027-antesala-aprobacion)
+- [Excélsior (política, Senado aprueba Ley de Ingresos)](https://www.excelsior.com.mx/nacional/senado-aprueba-ley-ingresos-2027-preve-captar-mas-10-billones-pesos)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
