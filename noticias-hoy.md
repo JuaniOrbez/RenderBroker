@@ -1,13 +1,13 @@
-# Frecuencia Diaria — sábado 31 de octubre de 2026
+# Frecuencia Diaria — domingo 1 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualizó con una noticia real de esta semana. En Economía, Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Mundo se actualizó con la respuesta oficial al choque de trenes en España. En Economía, Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
-- **Un choque entre dos trenes de alta velocidad en la línea Madrid-Sevilla deja al menos 64 muertos y más de 179 heridos en España.**
-  El accidente, ocurrido entre Los Yébenes y Urda, en Toledo, es el tercer siniestro ferroviario mortal del país en 2026; el Gobierno investiga un posible error humano y suspendió el servicio entre Madrid y Andalucía.
+- **España decreta tres días de luto nacional tras el choque de trenes de Toledo, que deja al menos 64 muertos.**
+  Pedro Sánchez prometió esclarecer las causas del accidente, el tercer siniestro ferroviario mortal del país en 2026, mientras el rey Felipe VI y el secretario general de la ONU, António Guterres, expresaron sus condolencias.
 
 ## Economía
 
@@ -44,7 +44,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [CRHoy (mundo, choque de trenes en España)](https://crhoy.com/mundo/cifra-de-muertos-por-choque-de-trenes-en-espana-ya-llega-a-64/)
+- [La Voz de Ibiza (mundo, luto nacional en España)](https://lavozdeibiza.com/actualidad/pedro-sanchez-decreta-tres-dias-de-duelo-nacional-y-promete-verdad-y-transparencia-tras-el-accidente-de-tren/)
+- [Infobae (mundo, condolencias de Guterres)](https://www.infobae.com/america/agencias/2026/10/28/guterres-consternado-por-el-choque-de-toledo-extiende-sus-condolencias-a-espana-y-a-las-familias/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
