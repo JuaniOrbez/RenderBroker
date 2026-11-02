@@ -1,13 +1,13 @@
-# Frecuencia Diaria — domingo 1 de noviembre de 2026
+# Frecuencia Diaria — lunes 2 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualizó con la respuesta oficial al choque de trenes en España. En Economía, Política y Tecnología la búsqueda no encontró cobertura nueva verificable, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Mundo se actualizó con el nuevo balance de víctimas del choque de trenes en Urda (Toledo) y la comparecencia anunciada del ministro Óscar Puente. En Economía, Política y Tecnología la búsqueda no encontró cobertura nueva verificable con fecha de hoy, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
-- **España decreta tres días de luto nacional tras el choque de trenes de Toledo, que deja al menos 64 muertos.**
-  Pedro Sánchez prometió esclarecer las causas del accidente, el tercer siniestro ferroviario mortal del país en 2026, mientras el rey Felipe VI y el secretario general de la ONU, António Guterres, expresaron sus condolencias.
+- **El choque de trenes de Urda, en Toledo, ya deja 69 muertos, y el ministro Óscar Puente comparecerá el martes ante el Congreso.**
+  Puente atribuyó el accidente a una decisión errónea del centro de control de Adif, que autorizó al AVE a reanudar la marcha e impactar contra un tren Iryo detenido. La oposición pide su dimisión y Vox presentó una querella ante el Supremo por homicidio y lesiones.
 
 ## Economía
 
@@ -44,8 +44,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [La Voz de Ibiza (mundo, luto nacional en España)](https://lavozdeibiza.com/actualidad/pedro-sanchez-decreta-tres-dias-de-duelo-nacional-y-promete-verdad-y-transparencia-tras-el-accidente-de-tren/)
-- [Infobae (mundo, condolencias de Guterres)](https://www.infobae.com/america/agencias/2026/10/28/guterres-consternado-por-el-choque-de-toledo-extiende-sus-condolencias-a-espana-y-a-las-familias/)
+- [Vozpópuli (mundo, balance de víctimas en Urda)](https://www.vozpopuli.com/espana/caos-en-transportes-primero-asegura-que-hay-74-muertos-y-minutos-despues-lo-rebaja-a-69.html)
+- [Artículo14 (mundo, 69 cadáveres y autopsias)](https://www.articulo14.es/sociedad/el-instituto-de-medicina-legalha-recibido-ya-los-69-cadaveres-y-realizado-48-autopsias-en-directo-20261030.html)
+- [El Salto Diario (mundo, comparecencia de Puente en el Congreso)](https://www.elsaltodiario.com/politica/frente-amplio-pide-comparecencia-puente-accidente-toledo-adelante-andalucia-dimision)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
