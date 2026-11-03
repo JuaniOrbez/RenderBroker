@@ -1,13 +1,13 @@
-# Frecuencia Diaria — lunes 2 de noviembre de 2026
+# Frecuencia Diaria — martes 3 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualizó con el nuevo balance de víctimas del choque de trenes en Urda (Toledo) y la comparecencia anunciada del ministro Óscar Puente. En Economía, Política y Tecnología la búsqueda no encontró cobertura nueva verificable con fecha de hoy, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Mundo se actualizó con la comparecencia de hoy de Óscar Puente ante el Congreso español. Política se amplió con las elecciones de mitad de mandato que se celebran hoy en Estados Unidos (sin resultados todavía). Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
-- **El choque de trenes de Urda, en Toledo, ya deja 69 muertos, y el ministro Óscar Puente comparecerá el martes ante el Congreso.**
-  Puente atribuyó el accidente a una decisión errónea del centro de control de Adif, que autorizó al AVE a reanudar la marcha e impactar contra un tren Iryo detenido. La oposición pide su dimisión y Vox presentó una querella ante el Supremo por homicidio y lesiones.
+- **Óscar Puente comparece hoy a las cinco de la tarde ante el Congreso español por el choque de trenes de Urda, que ya suma 69 muertos.**
+  El ministro de Transportes volverá a atribuir el accidente a una decisión errónea del centro de control de Adif, mientras crece la presión política para que dimita y su propio entorno no descarta que deje el Gobierno antes de las elecciones del 29 de noviembre.
 
 ## Economía
 
@@ -28,6 +28,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Senado de México aprueba en lo general y en lo particular la Ley de Ingresos 2027, con 79 votos a favor y 34 en contra.**
   La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
 
+- **Estados Unidos celebra hoy sus elecciones de mitad de mandato, con los 435 escaños de la Cámara de Representantes y un tercio del Senado en juego.**
+  También se eligen 39 gobernaciones y legislaturas estatales en 46 estados, en una votación que puede condicionar el resto de la presidencia de Donald Trump. Los resultados todavía no están disponibles al momento de esta edición.
+
 ## Tecnología
 
 - **Una jueza federal de California despeja el camino para que Paramount compre Warner Bros. Discovery.**
@@ -44,15 +47,16 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Vozpópuli (mundo, balance de víctimas en Urda)](https://www.vozpopuli.com/espana/caos-en-transportes-primero-asegura-que-hay-74-muertos-y-minutos-despues-lo-rebaja-a-69.html)
-- [Artículo14 (mundo, 69 cadáveres y autopsias)](https://www.articulo14.es/sociedad/el-instituto-de-medicina-legalha-recibido-ya-los-69-cadaveres-y-realizado-48-autopsias-en-directo-20261030.html)
-- [El Salto Diario (mundo, comparecencia de Puente en el Congreso)](https://www.elsaltodiario.com/politica/frente-amplio-pide-comparecencia-puente-accidente-toledo-adelante-andalucia-dimision)
+- [Bolsamanía (mundo, Puente acude hoy al Congreso)](https://www.bolsamania.com/noticias/empresas/economia--oscar-puente-acude-manana-al-congreso-para-dar-cuenta-por-los-accidentes-en-los-trenes--21593289.html)
+- [Vozpópuli (mundo, entorno de Puente no descarta su dimisión)](https://www.vozpopuli.com/espana/politica/el-entorno-de-oscar-puente-no-descarta-que-dimita-antes-de-las-elecciones.html)
+- [Artículo14 (mundo, Puente comparece en la Diputación Permanente)](https://www.articulo14.es/politica/puente-martes-diputacion-permanente-congreso-20261029.html)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
 - [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
 - [Excélsior (política, Senado aprueba Ley de Ingresos)](https://www.excelsior.com.mx/nacional/senado-aprueba-ley-ingresos-2027-preve-captar-mas-10-billones-pesos)
+- [UnoTV (política, elecciones de medio mandato en EE. UU.)](https://www.unotv.com/internacional/elecciones-de-medio-mandato-en-ee-uu-que-esta-en-juego-el-proximo-3-de-noviembre/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
