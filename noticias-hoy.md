@@ -1,13 +1,13 @@
-# Frecuencia Diaria — miércoles 4 de noviembre de 2026
+# Frecuencia Diaria — jueves 5 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: hoy no se encontró cobertura nueva verificable con fecha confirmada en ninguna de las cuatro categorías. Mundo y Política mantienen las dos historias en desarrollo de ayer (comparecencia de Puente y elecciones de mitad de mandato en EE. UU.), ajustadas de tiempo verbal porque esta edición no logró confirmar sus resultados finales. Economía y Tecnología se mantienen sin cambios respecto de la última edición verificada.*
+*Nota: Mundo se actualizó con la negativa de Óscar Puente a dimitir tras el choque de trenes de Urda. Política mantiene la historia en desarrollo de las elecciones de mitad de mandato en EE. UU., todavía sin resultados confirmados. Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
-- **Óscar Puente tenía previsto comparecer ayer ante el Congreso español por el choque de trenes de Urda, que ya suma 69 muertos.**
-  El ministro de Transportes iba a volver a atribuir el accidente a una decisión errónea del centro de control de Adif. Esta edición no logró confirmar cómo se desarrolló la comparecencia ni si hubo novedades sobre su continuidad en el cargo.
+- **Óscar Puente asegura que no piensa dimitir tras el choque de trenes de Urda, que ya suma 69 muertos, aunque socios de Gobierno, oposición y sindicatos insisten en pedir su salida.**
+  El ministro de Transportes dijo estar centrado en esclarecer lo ocurrido y no en su futuro político. Esta edición no logró confirmar cómo se desarrolló su comparecencia del martes ante la Diputación Permanente del Congreso.
 
 ## Economía
 
@@ -28,8 +28,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Senado de México aprueba en lo general y en lo particular la Ley de Ingresos 2027, con 79 votos a favor y 34 en contra.**
   La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
 
-- **Estados Unidos celebró ayer sus elecciones de mitad de mandato, con los 435 escaños de la Cámara de Representantes y un tercio del Senado en juego.**
-  También se elegían 39 gobernaciones y legislaturas estatales en 46 estados, en una votación que puede condicionar el resto de la presidencia de Donald Trump. Esta edición no logró confirmar los resultados finales del escrutinio.
+- **Estados Unidos celebró el martes sus elecciones de mitad de mandato, con los 435 escaños de la Cámara de Representantes y un tercio del Senado en juego.**
+  También se elegían gobernaciones y legislaturas estatales en 46 estados, en una votación que puede condicionar el resto de la presidencia de Donald Trump. Esta edición todavía no logró confirmar los resultados finales del escrutinio.
 
 ## Tecnología
 
@@ -47,8 +47,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Bolsamanía (mundo, Puente acude al Congreso)](https://www.bolsamania.com/noticias/empresas/economia--oscar-puente-acude-manana-al-congreso-para-dar-cuenta-por-los-accidentes-en-los-trenes--21593289.html)
-- [Vozpópuli (mundo, entorno de Puente no descarta su dimisión)](https://www.vozpopuli.com/espana/politica/el-entorno-de-oscar-puente-no-descarta-que-dimita-antes-de-las-elecciones.html)
+- [Artículo14 (mundo, Puente esgrime el aval de Sánchez para seguir)](https://www.articulo14.es/politica/puente-esgrime-el-aval-del-sanchez-para-seguir-pese-a-los-recelos-del-psoe-veremos-el-martes-20261031.html)
+- [Democrata.es (mundo, dilema de Sánchez con Puente)](https://www.democrata.es/politica/oscar-puente-cese-comparecencia-diputacion-permanente-urda/)
 - [Artículo14 (mundo, Puente comparece en la Diputación Permanente)](https://www.articulo14.es/politica/puente-martes-diputacion-permanente-congreso-20261029.html)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
