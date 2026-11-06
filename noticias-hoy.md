@@ -1,8 +1,8 @@
-# Frecuencia Diaria — jueves 5 de noviembre de 2026
+# Frecuencia Diaria — viernes 6 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualizó con la negativa de Óscar Puente a dimitir tras el choque de trenes de Urda. Política mantiene la historia en desarrollo de las elecciones de mitad de mandato en EE. UU., todavía sin resultados confirmados. Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Política se actualizó con el resultado de las elecciones de mitad de mandato en Estados Unidos (demócratas recuperan la Cámara, republicanos retienen el Senado). Tecnología se actualizó con el histórico hackeo a Binance. Mundo y Economía no tuvieron cobertura nueva verificable hoy, así que se mantiene el contenido de la última edición verificada.*
 
 ## Mundo
 
@@ -28,8 +28,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Senado de México aprueba en lo general y en lo particular la Ley de Ingresos 2027, con 79 votos a favor y 34 en contra.**
   La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
 
-- **Estados Unidos celebró el martes sus elecciones de mitad de mandato, con los 435 escaños de la Cámara de Representantes y un tercio del Senado en juego.**
-  También se elegían gobernaciones y legislaturas estatales en 46 estados, en una votación que puede condicionar el resto de la presidencia de Donald Trump. Esta edición todavía no logró confirmar los resultados finales del escrutinio.
+- **Los demócratas recuperan el control de la Cámara de Representantes en las elecciones de mitad de mandato de Estados Unidos, mientras los republicanos retienen el Senado.**
+  El resultado representa un freno al segundo mandato de Donald Trump a mitad de camino hacia las presidenciales de 2028, aunque algunas carreras clave en el Senado seguían sin definirse al cierre de esta edición.
 
 ## Tecnología
 
@@ -39,8 +39,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Amazon recorta puestos de trabajo mientras planea invertir $220.000 millones en inteligencia artificial.**
   La inversión se destinará a centros de datos, chips y otra infraestructura, en medio de una reorganización iniciada en octubre de 2025.
 
-- **Netflix despide a unos 1.000 empleados, el 6 por ciento de su plantilla global, en su mayor recorte en cuatro años.**
-  Los codirectores ejecutivos atribuyeron la medida a la desaceleración del crecimiento y aseguraron que el negocio sigue firme y en línea con sus metas financieras de 2026.
+- **Hackers roban 6.300 millones de dólares a Binance en el mayor robo de criptomonedas de la historia.**
+  El ataque, ejecutado en apenas veinte minutos y atribuido por firmas de análisis a piratas informáticos vinculados a Corea del Norte, llevó al mayor exchange cripto del mundo a congelar unos 3.000 millones de dólares junto a otras plataformas, suspender depósitos y retiros, y comprometerse a cubrir las pérdidas con su fondo de emergencia.
 
 - **ASML logra su mejor trimestre histórico, con ventas de 11.700 millones de euros impulsadas por la demanda de chips para inteligencia artificial.**
   La empresa neerlandesa, clave para fabricar semiconductores avanzados, advirtió que no podrá cubrir toda la demanda de sus clientes ni en 2027 ni en 2028.
@@ -56,10 +56,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
 - [Excélsior (política, Senado aprueba Ley de Ingresos)](https://www.excelsior.com.mx/nacional/senado-aprueba-ley-ingresos-2027-preve-captar-mas-10-billones-pesos)
-- [UnoTV (política, elecciones de medio mandato en EE. UU.)](https://www.unotv.com/internacional/elecciones-de-medio-mandato-en-ee-uu-que-esta-en-juego-el-proximo-3-de-noviembre/)
+- [Blu Radio (política, demócratas recuperan la Cámara baja)](https://www.bluradio.com/mundo/democratas-recuperan-camara-baja-en-ee-uu-y-republicanos-mantienen-el-senado)
+- [Tiempo Argentino (política, republicanos retienen el Senado)](https://www.tiempoar.com.ar/ta_article/con-trump-en-el-centro-de-la-escena-los-democratas-recuperan-la-camara-baja-y-los-republicanos-retienen-el-senado/amp/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
-- [Crónica (tecnología, despidos Netflix)](https://www.cronica.com.mx/mundo/2026/10/14/netflix-hace-el-recorte-de-personal-mas-grande-de-su-historia-por-que-despidieron-al-6-de-sus-trabajadores/)
+- [Blu Radio (tecnología, hackeo histórico a Binance)](https://www.bluradio.com/tecnologia/binance-sufre-historico-ciberataque-con-perdidas-superiores-a-los-6-300-millones-de-dolares-so35)
 - [Ecosistema Startup (tecnología, resultados ASML)](https://ecosistemastartup.com/asml-logra-ventas-record-de-e11-700m-por-demanda-de-ia/)
 
 ---
