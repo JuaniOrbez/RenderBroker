@@ -1,8 +1,8 @@
-# Frecuencia Diaria — viernes 6 de noviembre de 2026
+# Frecuencia Diaria — sábado 7 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política se actualizó con el resultado de las elecciones de mitad de mandato en Estados Unidos (demócratas recuperan la Cámara, republicanos retienen el Senado). Tecnología se actualizó con el histórico hackeo a Binance. Mundo y Economía no tuvieron cobertura nueva verificable hoy, así que se mantiene el contenido de la última edición verificada.*
+*Nota: Política incluye una corrección: la edición de ayer informó que los republicanos retenían el Senado en las elecciones de mitad de mandato de EE. UU., pero fuentes más sólidas (AP, Al Jazeera) confirman hoy que los demócratas también se quedaron con el Senado, además de la Cámara de Representantes. Mundo, Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
@@ -28,8 +28,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Senado de México aprueba en lo general y en lo particular la Ley de Ingresos 2027, con 79 votos a favor y 34 en contra.**
   La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
 
-- **Los demócratas recuperan el control de la Cámara de Representantes en las elecciones de mitad de mandato de Estados Unidos, mientras los republicanos retienen el Senado.**
-  El resultado representa un freno al segundo mandato de Donald Trump a mitad de camino hacia las presidenciales de 2028, aunque algunas carreras clave en el Senado seguían sin definirse al cierre de esta edición.
+- **Corrección: los demócratas se quedan con el control total del Congreso de Estados Unidos, al ganar tanto la Cámara de Representantes como el Senado.**
+  Agencias como la AP y Al Jazeera confirman que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja, revirtiendo lo que esta edición había informado el día anterior sobre el resultado en el Senado.
 
 ## Tecnología
 
@@ -56,8 +56,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
 - [Excélsior (política, Senado aprueba Ley de Ingresos)](https://www.excelsior.com.mx/nacional/senado-aprueba-ley-ingresos-2027-preve-captar-mas-10-billones-pesos)
-- [Blu Radio (política, demócratas recuperan la Cámara baja)](https://www.bluradio.com/mundo/democratas-recuperan-camara-baja-en-ee-uu-y-republicanos-mantienen-el-senado)
-- [Tiempo Argentino (política, republicanos retienen el Senado)](https://www.tiempoar.com.ar/ta_article/con-trump-en-el-centro-de-la-escena-los-democratas-recuperan-la-camara-baja-y-los-republicanos-retienen-el-senado/amp/)
+- [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
+- [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
+- [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Blu Radio (tecnología, hackeo histórico a Binance)](https://www.bluradio.com/tecnologia/binance-sufre-historico-ciberataque-con-perdidas-superiores-a-los-6-300-millones-de-dolares-so35)
