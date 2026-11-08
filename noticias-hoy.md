@@ -1,8 +1,8 @@
-# Frecuencia Diaria — sábado 7 de noviembre de 2026
+# Frecuencia Diaria — domingo 8 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política incluye una corrección: la edición de ayer informó que los republicanos retenían el Senado en las elecciones de mitad de mandato de EE. UU., pero fuentes más sólidas (AP, Al Jazeera) confirman hoy que los demócratas también se quedaron con el Senado, además de la Cámara de Representantes. Mundo, Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Economía se actualizó con la ola de ventas en Wall Street por dudas sobre la inteligencia artificial. Política se amplió con la conmutación de las condenas a muerte en California. Mundo y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
@@ -14,8 +14,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El FMI advierte que una corrección en los precios de la inteligencia artificial es uno de los tres principales riesgos para la estabilidad financiera mundial.**
   Su informe identificó catorce acuerdos circulares entre grandes tecnológicas y empresas de IA más frágiles, por unos 300.000 millones de dólares en acciones y 650.000 millones en deuda.
 
-- **El Departamento del Tesoro de Estados Unidos multa a Bank of America con unos 1.200 millones de dólares por fallas contra el lavado de dinero.**
-  La sanción, una de las más altas en la historia del Tesoro, señala que el banco no reportó a tiempo redes de lavado vinculadas a China y a la frontera sur de Estados Unidos.
+- **Una ola de ventas en Wall Street borra unos 3 billones de dólares en una sola sesión por dudas sobre la rentabilidad de las inversiones en inteligencia artificial.**
+  Las fabricantes de chips lideraron las pérdidas ante el temor de que la nueva mayoría demócrata en el Congreso frene los proyectos de centros de datos en Estados Unidos, en una corrección que también golpeó a las bolsas de Europa y Asia.
 
 - **La Reserva Federal mantuvo sin cambios su tasa de referencia el miércoles, en una votación dividida de 10 a 2.**
   El rango se mantiene entre 3,75 y 4,00 por ciento, y los mercados ya proyectan la posibilidad de una nueva suba en la reunión de diciembre.
@@ -30,6 +30,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 - **Corrección: los demócratas se quedan con el control total del Congreso de Estados Unidos, al ganar tanto la Cámara de Representantes como el Senado.**
   Agencias como la AP y Al Jazeera confirman que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja, revirtiendo lo que esta edición había informado el día anterior sobre el resultado en el Senado.
+
+- **El gobernador de California, Gavin Newsom, anuncia la conmutación de las 548 condenas a muerte del estado a cadena perpetua sin libertad condicional.**
+  Newsom esperó a después de las elecciones de mitad de mandato para anunciar la medida, que calificó de incompatible con los valores de California, aunque cerca del 60 por ciento de los casos todavía requerirá la aprobación de la Corte Suprema estatal antes de que termine su mandato en enero.
 
 ## Tecnología
 
@@ -51,7 +54,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Democrata.es (mundo, dilema de Sánchez con Puente)](https://www.democrata.es/politica/oscar-puente-cese-comparecencia-diputacion-permanente-urda/)
 - [Artículo14 (mundo, Puente comparece en la Diputación Permanente)](https://www.articulo14.es/politica/puente-martes-diputacion-permanente-congreso-20261029.html)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
-- [El Nuevo Día (economía, multa Bank of America)](https://www.elnuevodia.com/negocios/banca-finanzas/notas/multa-de-1200-millones-a-bank-of-america-por-supuestas-violaciones-a-las-leyes-contra-el-lavado-de-dinero/)
+- [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
+- [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
 - [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
@@ -59,6 +63,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
 - [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
 - [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
+- [CalMatters (política, Newsom conmuta las condenas a muerte)](https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/)
 - [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
 - [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Blu Radio (tecnología, hackeo histórico a Binance)](https://www.bluradio.com/tecnologia/binance-sufre-historico-ciberataque-con-perdidas-superiores-a-los-6-300-millones-de-dolares-so35)
