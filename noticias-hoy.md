@@ -1,13 +1,13 @@
-# Frecuencia Diaria — domingo 8 de noviembre de 2026
+# Frecuencia Diaria — lunes 9 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Economía se actualizó con la ola de ventas en Wall Street por dudas sobre la inteligencia artificial. Política se amplió con la conmutación de las condenas a muerte en California. Mundo y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo incluye una corrección importante: Óscar Puente sí dimitió como ministro de Transportes, el mismo martes 3 de noviembre en que compareció ante el Congreso, algo que esta edición no había podido confirmar hasta hoy. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **Óscar Puente asegura que no piensa dimitir tras el choque de trenes de Urda, que ya suma 69 muertos, aunque socios de Gobierno, oposición y sindicatos insisten en pedir su salida.**
-  El ministro de Transportes dijo estar centrado en esclarecer lo ocurrido y no en su futuro político. Esta edición no logró confirmar cómo se desarrolló su comparecencia del martes ante la Diputación Permanente del Congreso.
+- **Corrección: Óscar Puente dimitió como ministro de Transportes el martes 3 de noviembre, al final de su comparecencia de más de cuatro horas en el Congreso por el accidente de Urda.**
+  El anuncio sorprendió porque horas antes el PSOE todavía defendía su continuidad. Puente también renunció a ir en las listas del partido para las elecciones generales del 29 de noviembre, tras duras críticas del PP y Vox por el siniestro, que ya suma 69 muertos.
 
 ## Economía
 
@@ -29,7 +29,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
   La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
 
 - **Corrección: los demócratas se quedan con el control total del Congreso de Estados Unidos, al ganar tanto la Cámara de Representantes como el Senado.**
-  Agencias como la AP y Al Jazeera confirman que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja, revirtiendo lo que esta edición había informado el día anterior sobre el resultado en el Senado.
+  Agencias como la AP y Al Jazeera confirman que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja.
 
 - **El gobernador de California, Gavin Newsom, anuncia la conmutación de las 548 condenas a muerte del estado a cadena perpetua sin libertad condicional.**
   Newsom esperó a después de las elecciones de mitad de mandato para anunciar la medida, que calificó de incompatible con los valores de California, aunque cerca del 60 por ciento de los casos todavía requerirá la aprobación de la Corte Suprema estatal antes de que termine su mandato en enero.
@@ -50,9 +50,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Artículo14 (mundo, Puente esgrime el aval de Sánchez para seguir)](https://www.articulo14.es/politica/puente-esgrime-el-aval-del-sanchez-para-seguir-pese-a-los-recelos-del-psoe-veremos-el-martes-20261031.html)
-- [Democrata.es (mundo, dilema de Sánchez con Puente)](https://www.democrata.es/politica/oscar-puente-cese-comparecencia-diputacion-permanente-urda/)
-- [Artículo14 (mundo, Puente comparece en la Diputación Permanente)](https://www.articulo14.es/politica/puente-martes-diputacion-permanente-congreso-20261029.html)
+- [Artículo14 (mundo, Puente dimite de sucesor de Sánchez a dimitir a las puertas de las Generales)](https://www.articulo14.es/politica/oscar-puente-dimite-de-sucesor-de-sanchez-a-dimitir-a-las-puertas-de-las-generales-20261104.html)
+- [Diari de Tarragona (mundo, Puente dimite sorpresa 6 días después de Urda)](https://www.diaridetarragona.com/espana/274817/puente-dimite-sorpresa-6-dias-despues-urda-dura-comparecencia-congreso.html)
+- [Esdiario (mundo, Puente sucumbe tras Adamuz y Urda)](https://www.esdiario.com/nacional/261103/202030/oscar-puente-dimite-adamuz-urda-sanchez-renuncia-elecciones-29n.html)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
