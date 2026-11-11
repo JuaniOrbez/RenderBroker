@@ -1,13 +1,13 @@
-# Frecuencia Diaria — martes 10 de noviembre de 2026
+# Frecuencia Diaria — miércoles 11 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualizó con la huelga general convocada en España para el 11 de noviembre, ya que la historia de Óscar Puente quedó resuelta con su dimisión confirmada ayer. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza porque la huelga general en España es hoy (todavía sin cifras de seguimiento). Política se amplió con el cambio de jefe de gabinete en la Casa Blanca. Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **España se prepara para su primera huelga general estatal desde 2012, convocada por CCOO y UGT para este miércoles 11 de noviembre por la crisis de la vivienda.**
-  El paro de 24 horas, impulsado también por el Sindicato de Inquilinas junto con CGT y CNT, combina reclamos de vivienda y salarios y coincide con la campaña de las elecciones generales del 29 de noviembre, aunque no cuenta con el respaldo de todas las organizaciones sindicales.
+- **España vive hoy su primera huelga general estatal desde 2012, convocada por CCOO y UGT por la crisis de la vivienda.**
+  El paro de 24 horas, impulsado también por el Sindicato de Inquilinas junto con CGT y CNT, combina reclamos de vivienda y salarios y coincide con la campaña de las elecciones generales del 29 de noviembre. Esta edición no logró confirmar aún el seguimiento ni las cifras de participación.
 
 ## Economía
 
@@ -25,8 +25,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **El Tribunal Superior Electoral proclama a Lula presidente electo de Brasil, con 51,79 por ciento de los votos frente a 48,21 por ciento de Flávio Bolsonaro.**
   Flávio no reconoce el resultado y pedirá su anulación por una decisión judicial que extendió dos horas el horario de votación, aunque partidos del centro e incluso su propio PL ya reconocieron la victoria de Lula.
 
-- **El Senado de México aprueba en lo general y en lo particular la Ley de Ingresos 2027, con 79 votos a favor y 34 en contra.**
-  La ley, aprobada sin cambios respecto de lo que envió la Cámara de Diputados, prevé recursos por 10,6 billones de pesos y un endeudamiento neto interno de hasta 1,7 billones.
+- **Donald Trump reemplaza a Susie Wiles con Stephen Miller como jefe de gabinete de la Casa Blanca tras la derrota republicana en las elecciones de mitad de mandato.**
+  Wiles presentó su renuncia y pasará a la estructura política de Trump, mientras Miller, hasta ahora subjefe de gabinete y uno de los impulsores de la política migratoria y de la guerra contra Irán, ganará más influencia sobre qué decisiones llegan al presidente.
 
 - **Los demócratas se quedan con el control total del Congreso de Estados Unidos, al ganar tanto la Cámara de Representantes como el Senado en las elecciones de mitad de mandato.**
   Agencias como la AP y Al Jazeera confirmaron que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja.
@@ -59,7 +59,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
-- [Excélsior (política, Senado aprueba Ley de Ingresos)](https://www.excelsior.com.mx/nacional/senado-aprueba-ley-ingresos-2027-preve-captar-mas-10-billones-pesos)
+- [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
+- [Emol (política, Trump tiene nuevo jefe de gabinete)](https://www.emol.com/noticias/Internacional/2026/11/06/1216380/trump-nuevo-jefe-gabinete-miller.html)
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
 - [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
 - [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
