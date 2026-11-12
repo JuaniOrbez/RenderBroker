@@ -1,13 +1,16 @@
-# Frecuencia Diaria — miércoles 11 de noviembre de 2026
+# Frecuencia Diaria — jueves 12 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualiza porque la huelga general en España es hoy (todavía sin cifras de seguimiento). Política se amplió con el cambio de jefe de gabinete en la Casa Blanca. Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo incorpora el encargo a Gadi Eisenkot para formar gobierno en Israel y actualiza la huelga general española, ya celebrada ayer (sin cifras finales de seguimiento). Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **España vive hoy su primera huelga general estatal desde 2012, convocada por CCOO y UGT por la crisis de la vivienda.**
-  El paro de 24 horas, impulsado también por el Sindicato de Inquilinas junto con CGT y CNT, combina reclamos de vivienda y salarios y coincide con la campaña de las elecciones generales del 29 de noviembre. Esta edición no logró confirmar aún el seguimiento ni las cifras de participación.
+- **El presidente de Israel, Isaac Herzog, encarga a Gadi Eisenkot, rival de Netanyahu, formar el próximo Gobierno.**
+  La coalición de Netanyahu perdió la mayoría parlamentaria en las elecciones del 27 de octubre, y Eisenkot, exjefe del Estado Mayor, tiene 28 días —ampliables a 14 más— para armar una coalición. Propuso un «gobierno de emergencia nacional» y se mostró abierto a que el partido de Netanyahu participe si respeta sus condiciones.
+
+- **España vivió ayer su primera huelga general estatal desde 2012, convocada por CCOO y UGT por la crisis de la vivienda.**
+  El paro de 24 horas, impulsado también por el Sindicato de Inquilinas junto con CGT y CNT, combinó reclamos de vivienda y salarios en plena campaña de las elecciones generales del 29 de noviembre. Esta edición no logró confirmar las cifras finales de seguimiento ni de manifestantes.
 
 ## Economía
 
@@ -50,8 +53,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Público (mundo, la huelga general por la vivienda será el 11 de noviembre)](https://www.publico.es/politica/huelga-general-vivienda-sera-11-noviembre.html)
-- [Artículo14 (mundo, quién convoca la huelga general y por qué)](https://www.articulo14.es/politica/huelga-general-del-11-de-noviembre-quien-la-convoca-cuanto-dura-y-cuales-son-los-motivos-20261106.html)
+- [Emol (mundo, Herzog encarga a Eisenkot formar gobierno en Israel)](https://www.emol.com/noticias/Internacional/2026/11/08/1216468/eisenkot-gobierno-netanyahu-israel.html)
+- [Al Jazeera (mundo, Eisenkot abierto a que Netanyahu se sume al gobierno)](https://aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government)
+- [Artículo14 (mundo, quién convoca la huelga general en España y por qué)](https://www.articulo14.es/politica/huelga-general-del-11-de-noviembre-quien-la-convoca-cuanto-dura-y-cuales-son-los-motivos-20261106.html)
 - [Moncloa.com (mundo, primera huelga general en 14 años en plena campaña electoral)](https://www.moncloa.com/2026/10/07/huelga-general-espana-crisis-vivienda-3444118/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
