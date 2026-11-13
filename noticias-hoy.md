@@ -1,16 +1,13 @@
-# Frecuencia Diaria — jueves 12 de noviembre de 2026
+# Frecuencia Diaria — viernes 13 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo incorpora el encargo a Gadi Eisenkot para formar gobierno en Israel y actualiza la huelga general española, ya celebrada ayer (sin cifras finales de seguimiento). Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza con el avance de las negociaciones de Eisenkot para formar gobierno en Israel; la huelga general española sale de esta edición porque no se encontró un balance final de seguimiento. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **El presidente de Israel, Isaac Herzog, encarga a Gadi Eisenkot, rival de Netanyahu, formar el próximo Gobierno.**
-  La coalición de Netanyahu perdió la mayoría parlamentaria en las elecciones del 27 de octubre, y Eisenkot, exjefe del Estado Mayor, tiene 28 días —ampliables a 14 más— para armar una coalición. Propuso un «gobierno de emergencia nacional» y se mostró abierto a que el partido de Netanyahu participe si respeta sus condiciones.
-
-- **España vivió ayer su primera huelga general estatal desde 2012, convocada por CCOO y UGT por la crisis de la vivienda.**
-  El paro de 24 horas, impulsado también por el Sindicato de Inquilinas junto con CGT y CNT, combinó reclamos de vivienda y salarios en plena campaña de las elecciones generales del 29 de noviembre. Esta edición no logró confirmar las cifras finales de seguimiento ni de manifestantes.
+- **Gadi Eisenkot avanza en las negociaciones para formar gobierno en Israel, aunque todavía no logra reunir una mayoría en la Knéset.**
+  Ni Eisenkot ni Netanyahu alcanzan por sí solos los 61 escaños necesarios. Entre las opciones que explora Eisenkot figuran un gobierno de unidad con el Likud de Netanyahu o uno en minoría con apoyo externo del partido árabe Ra'am, a cuyos líderes habría prometido una futura incorporación.
 
 ## Economía
 
@@ -53,10 +50,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Emol (mundo, Herzog encarga a Eisenkot formar gobierno en Israel)](https://www.emol.com/noticias/Internacional/2026/11/08/1216468/eisenkot-gobierno-netanyahu-israel.html)
-- [Al Jazeera (mundo, Eisenkot abierto a que Netanyahu se sume al gobierno)](https://aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government)
-- [Artículo14 (mundo, quién convoca la huelga general en España y por qué)](https://www.articulo14.es/politica/huelga-general-del-11-de-noviembre-quien-la-convoca-cuanto-dura-y-cuales-son-los-motivos-20261106.html)
-- [Moncloa.com (mundo, primera huelga general en 14 años en plena campaña electoral)](https://www.moncloa.com/2026/10/07/huelga-general-espana-crisis-vivienda-3444118/)
+- [Al Jazeera (mundo, ¿podrá Eisenkot formar gobierno con la oposición dividida?)](https://aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition)
+- [JNS (mundo, análisis sobre si Eisenkot podrá formar coalición)](https://www.jns.org/es/analysis/podra-gadi-eisenkot-formar-la-proxima-coalicion-de-gobierno-de-israel)
+- [JNS (mundo, Eisenkot promete incorporar a Ra'am al gobierno)](https://www.jns.org/es/noticias/noticias-de-israel/eisenkot-prometio-a-los-jefes-del-consejo-beduino-que-incorporaria-a-raam-al-gobierno)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
