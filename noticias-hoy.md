@@ -1,13 +1,13 @@
-# Frecuencia Diaria — viernes 13 de noviembre de 2026
+# Frecuencia Diaria — sábado 14 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualiza con el avance de las negociaciones de Eisenkot para formar gobierno en Israel; la huelga general española sale de esta edición porque no se encontró un balance final de seguimiento. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualizó con la gira del papa León XIV por Sudamérica, y Economía con el dato de inflación de octubre en Estados Unidos. Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **Gadi Eisenkot avanza en las negociaciones para formar gobierno en Israel, aunque todavía no logra reunir una mayoría en la Knéset.**
-  Ni Eisenkot ni Netanyahu alcanzan por sí solos los 61 escaños necesarios. Entre las opciones que explora Eisenkot figuran un gobierno de unidad con el Likud de Netanyahu o uno en minoría con apoyo externo del partido árabe Ra'am, a cuyos líderes habría prometido una futura incorporación.
+- **El papa León XIV continúa su histórica primera gira por Sudamérica, con Uruguay, Argentina y Perú en el itinerario.**
+  Es el primer viaje del pontífice tras someterse a una cirugía por un cáncer de pulmón y la primera visita de un papa a la región desde la de Francisco a Chile y Perú en 2018, con etapas en los santuarios marianos de Florida (Uruguay) y Luján (Argentina) antes de concluir en Lima.
 
 ## Economía
 
@@ -17,8 +17,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Una ola de ventas en Wall Street borra unos 3 billones de dólares en una sola sesión por dudas sobre la rentabilidad de las inversiones en inteligencia artificial.**
   Las fabricantes de chips lideraron las pérdidas ante el temor de que la nueva mayoría demócrata en el Congreso frene los proyectos de centros de datos en Estados Unidos, en una corrección que también golpeó a las bolsas de Europa y Asia.
 
-- **La Reserva Federal mantuvo sin cambios su tasa de referencia el miércoles, en una votación dividida de 10 a 2.**
-  El rango se mantiene entre 3,75 y 4,00 por ciento, y los mercados ya proyectan la posibilidad de una nueva suba en la reunión de diciembre.
+- **La inflación de Estados Unidos subió 0,4 por ciento en octubre, por encima del 0,3 por ciento que esperaba el mercado.**
+  La oficina de estadísticas laborales atribuyó la suba sobre todo a los precios de la energía y los alimentos, y no pudo calcular la variación interanual porque el cierre de gobierno de 43 días en 2025 impidió recoger los precios de octubre de ese año.
 
 ## Política
 
@@ -28,8 +28,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Donald Trump reemplaza a Susie Wiles con Stephen Miller como jefe de gabinete de la Casa Blanca tras la derrota republicana en las elecciones de mitad de mandato.**
   Wiles presentó su renuncia y pasará a la estructura política de Trump, mientras Miller, hasta ahora subjefe de gabinete y uno de los impulsores de la política migratoria y de la guerra contra Irán, ganará más influencia sobre qué decisiones llegan al presidente.
 
-- **Los demócratas se quedan con el control total del Congreso de Estados Unidos, al ganar tanto la Cámara de Representantes como el Senado en las elecciones de mitad de mandato.**
-  Agencias como la AP y Al Jazeera confirmaron que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja.
+- **Los demócratas se quedan con el control total del Congreso de Estados Unidos, al ganar tanto la Cámara de Representantes como el Senado.**
+  Agencias como la AP y Al Jazeera confirmaron que el Partido Demócrata arrebató el Senado a los republicanos además de retener la Cámara baja en las elecciones de mitad de mandato.
 
 - **El gobernador de California, Gavin Newsom, anuncia la conmutación de las 548 condenas a muerte del estado a cadena perpetua sin libertad condicional.**
   Newsom esperó a después de las elecciones de mitad de mandato para anunciar la medida, que calificó de incompatible con los valores de California, aunque cerca del 60 por ciento de los casos todavía requerirá la aprobación de la Corte Suprema estatal antes de que termine su mandato en enero.
@@ -50,13 +50,12 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Al Jazeera (mundo, ¿podrá Eisenkot formar gobierno con la oposición dividida?)](https://aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition)
-- [JNS (mundo, análisis sobre si Eisenkot podrá formar coalición)](https://www.jns.org/es/analysis/podra-gadi-eisenkot-formar-la-proxima-coalicion-de-gobierno-de-israel)
-- [JNS (mundo, Eisenkot promete incorporar a Ra'am al gobierno)](https://www.jns.org/es/noticias/noticias-de-israel/eisenkot-prometio-a-los-jefes-del-consejo-beduino-que-incorporaria-a-raam-al-gobierno)
+- [Emol (mundo, el papa León XIV inicia su gira por Uruguay)](https://www.emol.com/noticias/Internacional/2026/11/06/1216377/papa-leon-xiv-uruguay-gira.html)
+- [El Espectador (mundo, itinerario por Perú, Argentina y Uruguay)](https://www.elespectador.com/mundo/america/papa-leon-xiv-visitara-peru-argentina-y-uruguay-en-su-primera-gira-por-sudamerica/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
-- [Admiral Markets (economía, decisión de la Fed)](https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates)
+- [Emol (economía, IPC de octubre en Estados Unidos)](https://www.emol.com/noticias/Economia/2026/11/10/1216665/eeuu-ipc-inflacion-tasas-fed.html)
 - [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
 - [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
 - [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
