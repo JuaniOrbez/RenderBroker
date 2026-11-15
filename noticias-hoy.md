@@ -1,8 +1,8 @@
-# Frecuencia Diaria — sábado 14 de noviembre de 2026
+# Frecuencia Diaria — domingo 15 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualizó con la gira del papa León XIV por Sudamérica, y Economía con el dato de inflación de octubre en Estados Unidos. Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Política se actualizó con el rechazo en la Cámara de Representantes al intento de destituir al secretario de Guerra, Pete Hegseth, en sustitución del ya resuelto resultado electoral brasileño. Mundo, Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
@@ -22,8 +22,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Política
 
-- **El Tribunal Superior Electoral proclama a Lula presidente electo de Brasil, con 51,79 por ciento de los votos frente a 48,21 por ciento de Flávio Bolsonaro.**
-  Flávio no reconoce el resultado y pedirá su anulación por una decisión judicial que extendió dos horas el horario de votación, aunque partidos del centro e incluso su propio PL ya reconocieron la victoria de Lula.
+- **La Cámara de Representantes de Estados Unidos frena el intento de destituir al secretario de Guerra, Pete Hegseth, por la guerra contra Irán.**
+  La votación, de 211 a 204, envió a comité la resolución del republicano Thomas Massie, lo que en la práctica terminó con la iniciativa. Massie fue el único republicano que apoyó avanzar hacia el juicio político, pese a que el líder demócrata Hakeem Jeffries había respaldado el esfuerzo.
 
 - **Donald Trump reemplaza a Susie Wiles con Stephen Miller como jefe de gabinete de la Casa Blanca tras la derrota republicana en las elecciones de mitad de mandato.**
   Wiles presentó su renuncia y pasará a la estructura política de Trump, mientras Miller, hasta ahora subjefe de gabinete y uno de los impulsores de la política migratoria y de la guerra contra Irán, ganará más influencia sobre qué decisiones llegan al presidente.
@@ -56,8 +56,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
 - [Emol (economía, IPC de octubre en Estados Unidos)](https://www.emol.com/noticias/Economia/2026/11/10/1216665/eeuu-ipc-inflacion-tasas-fed.html)
-- [The PinkNews (política, resultado segunda vuelta Brasil)](https://www.thepinknews.com/2026/10/26/brazil-election-result-2026/)
-- [O Liberal (política, reconocimiento de la victoria de Lula)](https://www.oliberal.com/politica/centr-o-reconhece-vitoria-de-lula-e-isola-flavio-bolsonaro-na-contestac-o-das-eleic-es-1.1187286)
+- [Telemundo51 (política, la Cámara rechaza el juicio político a Hegseth)](https://www.telemundo51.com/noticias/eeuu/camara-representantes-rechaza-juicio-politico-pete-hegseth/2847094/)
+- [Voz.us (política, la Cámara frena el intento de Massie)](https://voz.us/es/politica/261111/1000479/la-camara-frena-el-intento-de-thomas-massie-de-destituir-a-hegseth-por-la-guerra-de-iran-y.html)
 - [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
 - [Emol (política, Trump tiene nuevo jefe de gabinete)](https://www.emol.com/noticias/Internacional/2026/11/06/1216380/trump-nuevo-jefe-gabinete-miller.html)
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
