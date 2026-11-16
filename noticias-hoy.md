@@ -1,13 +1,13 @@
-# Frecuencia Diaria — domingo 15 de noviembre de 2026
+# Frecuencia Diaria — lunes 16 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Política se actualizó con el rechazo en la Cámara de Representantes al intento de destituir al secretario de Guerra, Pete Hegseth, en sustitución del ya resuelto resultado electoral brasileño. Mundo, Economía y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza porque la gira del papa León XIV por Sudamérica concluye hoy en Lima. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **El papa León XIV continúa su histórica primera gira por Sudamérica, con Uruguay, Argentina y Perú en el itinerario.**
-  Es el primer viaje del pontífice tras someterse a una cirugía por un cáncer de pulmón y la primera visita de un papa a la región desde la de Francisco a Chile y Perú en 2018, con etapas en los santuarios marianos de Florida (Uruguay) y Luján (Argentina) antes de concluir en Lima.
+- **El papa León XIV concluye hoy en Lima su histórica primera gira por Sudamérica, que lo llevó por Uruguay, Argentina y Perú.**
+  Fue el primer viaje del pontífice tras someterse a una cirugía por un cáncer de pulmón y la primera visita de un papa a la región desde la de Francisco a Chile y Perú en 2018. En Perú, donde vivió más de dos décadas como misionero y obispo de Chiclayo, cerró su itinerario antes de regresar a Roma.
 
 ## Economía
 
@@ -50,8 +50,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Emol (mundo, el papa León XIV inicia su gira por Uruguay)](https://www.emol.com/noticias/Internacional/2026/11/06/1216377/papa-leon-xiv-uruguay-gira.html)
-- [El Espectador (mundo, itinerario por Perú, Argentina y Uruguay)](https://www.elespectador.com/mundo/america/papa-leon-xiv-visitara-peru-argentina-y-uruguay-en-su-primera-gira-por-sudamerica/)
+- [Primicias (mundo, agenda del papa León XIV en Perú del 11 al 16 de noviembre)](https://www.primicias.ec/internacional/agenda-papa-leon-xiv-visita-peru-lima-noviembre2026-135917/)
+- [El Búho (mundo, el papa vuelve a su «segunda patria»)](https://elbuho.pe/2026/11/vuelve-a-su-segunda-patria-el-papa-leon-xiv-confirma-el-inicio-de-su-historica-gira-pastoral-por-el-peru-video/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
