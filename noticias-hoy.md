@@ -1,12 +1,12 @@
-# Frecuencia Diaria — lunes 16 de noviembre de 2026
+# Frecuencia Diaria — martes 17 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualiza porque la gira del papa León XIV por Sudamérica concluye hoy en Lima. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Tecnología se renueva con dos novedades grandes: la renuncia de Jensen Huang como consejero delegado de Nvidia y la multa de Italia a Meta. Mundo mantiene el cierre de la gira papal, ya ocurrido ayer. Economía y Política no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **El papa León XIV concluye hoy en Lima su histórica primera gira por Sudamérica, que lo llevó por Uruguay, Argentina y Perú.**
+- **El papa León XIV concluyó ayer en Lima su histórica primera gira por Sudamérica, que lo llevó por Uruguay, Argentina y Perú.**
   Fue el primer viaje del pontífice tras someterse a una cirugía por un cáncer de pulmón y la primera visita de un papa a la región desde la de Francisco a Chile y Perú en 2018. En Perú, donde vivió más de dos décadas como misionero y obispo de Chiclayo, cerró su itinerario antes de regresar a Roma.
 
 ## Economía
@@ -36,11 +36,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Tecnología
 
-- **Una jueza federal de California despeja el camino para que Paramount compre Warner Bros. Discovery.**
-  La magistrada Araceli Martínez-Olguín aprobó el acuerdo que resuelve la demanda antimonopolio presentada por una docena de fiscales generales estatales.
+- **Jensen Huang renuncia con efecto inmediato como consejero delegado de Nvidia en medio de un escándalo de infidelidades y escrutinio federal.**
+  La directora financiera, Colette Kress, asume como consejera delegada interina mientras el consejo busca un sucesor permanente, tras 33 años de Huang al frente de la compañía. Las acciones de Nvidia cayeron más de un 10 por ciento en las operaciones previas a la apertura del mercado.
 
-- **Amazon recorta puestos de trabajo mientras planea invertir $220.000 millones en inteligencia artificial.**
-  La inversión se destinará a centros de datos, chips y otra infraestructura, en medio de una reorganización iniciada en octubre de 2025.
+- **Italia multa a Meta con unos 887 millones de dólares por acceder sin consentimiento específico a fotos y videos de usuarios de Android.**
+  La autoridad de protección de datos italiana le dio a la empresa 60 días para desactivar la función y pedir una autorización separada. Meta, con unos 20 millones de usuarios de Android afectados en Italia, dijo que recurrirá la sanción.
 
 - **Hackers roban 6.300 millones de dólares a Binance en el mayor robo de criptomonedas de la historia.**
   El ataque, ejecutado en apenas veinte minutos y atribuido por firmas de análisis a piratas informáticos vinculados a Corea del Norte, llevó al mayor exchange cripto del mundo a congelar unos 3.000 millones de dólares junto a otras plataformas, suspender depósitos y retiros, y comprometerse a cubrir las pérdidas con su fondo de emergencia.
@@ -61,11 +61,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
 - [Emol (política, Trump tiene nuevo jefe de gabinete)](https://www.emol.com/noticias/Internacional/2026/11/06/1216380/trump-nuevo-jefe-gabinete-miller.html)
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
+- [VKTR (tecnología, Jensen Huang renuncia como consejero delegado de Nvidia)](https://www.vktr.com/ai-news/jensen-huang-resigns-as-nvidia-ceo-amid-fbi-scrutiny-and-affair-fallout/)
+- [El Nuevo Día / AP (tecnología, Italia multa a Meta por el acceso a fotos de Android)](https://www.elnuevodia.com/noticias/mundo/notas/italia-impone-multa-de-887-millones-a-meta-por-usar-fotos-y-videos-de-android-en-facebook/)
 - [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
 - [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
 - [CalMatters (política, Newsom conmuta las condenas a muerte)](https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/)
-- [Bloomberg Línea (tecnología, Paramount-WBD)](https://www.bloomberglinea.com/negocios/juez-de-california-despeja-el-camino-para-que-paramount-compre-warner-bros-discovery/)
-- [Infobae (tecnología, Amazon)](https://www.infobae.com/tecno/2026/10/08/amazon-recorta-puestos-de-trabajo-mientras-planea-invertir-220000-millones-de-dolares-en-ia/)
 - [Blu Radio (tecnología, hackeo histórico a Binance)](https://www.bluradio.com/tecnologia/binance-sufre-historico-ciberataque-con-perdidas-superiores-a-los-6-300-millones-de-dolares-so35)
 - [Ecosistema Startup (tecnología, resultados ASML)](https://ecosistemastartup.com/asml-logra-ventas-record-de-e11-700m-por-demanda-de-ia/)
 
