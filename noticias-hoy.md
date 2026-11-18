@@ -1,13 +1,13 @@
-# Frecuencia Diaria — martes 17 de noviembre de 2026
+# Frecuencia Diaria — miércoles 18 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Tecnología se renueva con dos novedades grandes: la renuncia de Jensen Huang como consejero delegado de Nvidia y la multa de Italia a Meta. Mundo mantiene el cierre de la gira papal, ya ocurrido ayer. Economía y Política no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza con el arranque de la campaña electoral española, ya que la gira papal concluyó. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **El papa León XIV concluyó ayer en Lima su histórica primera gira por Sudamérica, que lo llevó por Uruguay, Argentina y Perú.**
-  Fue el primer viaje del pontífice tras someterse a una cirugía por un cáncer de pulmón y la primera visita de un papa a la región desde la de Francisco a Chile y Perú en 2018. En Perú, donde vivió más de dos décadas como misionero y obispo de Chiclayo, cerró su itinerario antes de regresar a Roma.
+- **Arranca en España la campaña de las elecciones generales del 29 de noviembre, con el PP de Feijóo al frente de la mayoría de encuestas.**
+  Sánchez abrió su campaña en Sevilla advirtiendo contra la ultraderecha, mientras Feijóo pidió el cambio con el lema «Lo haremos». Los sondeos privados dan ventaja al PP, cercano junto a Vox a la mayoría absoluta, aunque el CIS oficial sitúa en cabeza al PSOE.
 
 ## Economía
 
@@ -50,8 +50,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Primicias (mundo, agenda del papa León XIV en Perú del 11 al 16 de noviembre)](https://www.primicias.ec/internacional/agenda-papa-leon-xiv-visita-peru-lima-noviembre2026-135917/)
-- [El Búho (mundo, el papa vuelve a su «segunda patria»)](https://elbuho.pe/2026/11/vuelve-a-su-segunda-patria-el-papa-leon-xiv-confirma-el-inicio-de-su-historica-gira-pastoral-por-el-peru-video/)
+- [Euronews (mundo, arranca la campaña de las generales del 29N en España)](https://es.euronews.com/2026/11/12/arranca-campana-elecciones-generales-29n-espana)
+- [Democrata.es (mundo, promedio de encuestas para las elecciones generales)](https://www.democrata.es/encuestas/elecciones-generales/promedio-encuestas-elecciones-generales-adelanto-electoral-2026/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Emol (economía, temor a freno demócrata en centros de datos)](https://www.emol.com/noticias/Economia/2026/11/05/1216224/acciones-tecnologicas-wall-street.html)
@@ -61,11 +61,11 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
 - [Emol (política, Trump tiene nuevo jefe de gabinete)](https://www.emol.com/noticias/Internacional/2026/11/06/1216380/trump-nuevo-jefe-gabinete-miller.html)
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
-- [VKTR (tecnología, Jensen Huang renuncia como consejero delegado de Nvidia)](https://www.vktr.com/ai-news/jensen-huang-resigns-as-nvidia-ceo-amid-fbi-scrutiny-and-affair-fallout/)
-- [El Nuevo Día / AP (tecnología, Italia multa a Meta por el acceso a fotos de Android)](https://www.elnuevodia.com/noticias/mundo/notas/italia-impone-multa-de-887-millones-a-meta-por-usar-fotos-y-videos-de-android-en-facebook/)
 - [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
 - [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
 - [CalMatters (política, Newsom conmuta las condenas a muerte)](https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/)
+- [VKTR (tecnología, Jensen Huang renuncia como consejero delegado de Nvidia)](https://www.vktr.com/ai-news/jensen-huang-resigns-as-nvidia-ceo-amid-fbi-scrutiny-and-affair-fallout/)
+- [El Nuevo Día / AP (tecnología, Italia multa a Meta por el acceso a fotos de Android)](https://www.elnuevodia.com/noticias/mundo/notas/italia-impone-multa-de-887-millones-a-meta-por-usar-fotos-y-videos-de-android-en-facebook/)
 - [Blu Radio (tecnología, hackeo histórico a Binance)](https://www.bluradio.com/tecnologia/binance-sufre-historico-ciberataque-con-perdidas-superiores-a-los-6-300-millones-de-dolares-so35)
 - [Ecosistema Startup (tecnología, resultados ASML)](https://ecosistemastartup.com/asml-logra-ventas-record-de-e11-700m-por-demanda-de-ia/)
 
