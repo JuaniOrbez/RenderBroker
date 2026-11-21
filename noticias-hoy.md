@@ -1,13 +1,13 @@
-# Frecuencia Diaria — viernes 20 de noviembre de 2026
+# Frecuencia Diaria — sábado 21 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se amplía con la histórica cumbre trilateral entre Trump, Xi y Putin en Shenzhen. Tecnología se actualiza con los resultados récord de Nvidia, su primer balance sin Jensen Huang. Economía y Política no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza con el cierre de la cumbre trilateral Trump-Xi-Putin y su "declaración de paz". Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **Trump, Xi Jinping y Putin celebran en Shenzhen la primera cumbre trilateral entre los tres líderes, en medio de la cumbre del APEC.**
-  Fue el primer encuentro entre Trump y Putin desde la cumbre de Alaska de 2025. Según funcionarios estadounidenses, hablaron sobre la guerra en Irán y el desarme nuclear, dejando fuera la guerra en Ucrania, sin que se esperara ni se anunciara un acuerdo inmediato.
+- **Trump, Xi Jinping y Putin cierran en Shenzhen su histórica cumbre trilateral con una «declaración de paz» de cuatro puntos, sin mencionar las guerras de Ucrania e Irán.**
+  Los tres líderes se comprometieron a preservar la estabilidad estratégica mundial, dialogar sobre la reducción de riesgos nucleares, reformar la ONU y garantizar el suministro de petróleo, pero sin medidas vinculantes inmediatas y sin que Estados Unidos publicara aún el documento.
 
 - **Arranca en España la campaña de las elecciones generales del 29 de noviembre, con el PP de Feijóo al frente de la mayoría de encuestas.**
   Sánchez abrió su campaña en Sevilla advirtiendo contra la ultraderecha, mientras Feijóo pidió el cambio con el lema «Lo haremos». Los sondeos privados dan ventaja al PP, cercano junto a Vox a la mayoría absoluta, aunque el CIS oficial sitúa en cabeza al PSOE.
@@ -53,8 +53,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [Univision (mundo, Trump es recibido en Shenzhen por Xi Jinping)](https://www.univision.com/noticias/mundo/el-presidente-donald-trump-es-recibido-en-shenzen-por-su-homologo-chino-xi-jinping)
-- [Articulo14 (mundo, Trump, Xi y Putin escenifican una nueva Yalta en Shenzhen)](https://www.articulo14.es/internacional/trump-xi-y-putin-escenifican-en-shenzen-una-nueva-yalta-que-amenaza-con-cambiar-el-orden-mundial-20261118.html)
+- [La Nación (mundo, claves de la cumbre histórica entre Trump, Xi y Putin)](https://www.lanacion.com.ar/usa/takeaways-from-the-historic-summit-between-trump-xi-and-putin-nid19112026/)
+- [Observador.cr (mundo, China, EE.UU. y Rusia adoptan una declaración de paz)](https://observador.cr/china-ee-uu-y-rusia-adoptan-una-declaracion-de-paz-en-su-primera-cumbre/)
 - [Euronews (mundo, arranca la campaña de las generales del 29N en España)](https://es.euronews.com/2026/11/12/arranca-campana-elecciones-generales-29n-espana)
 - [Democrata.es (mundo, promedio de encuestas para las elecciones generales)](https://www.democrata.es/encuestas/elecciones-generales/promedio-encuestas-elecciones-generales-adelanto-electoral-2026/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
