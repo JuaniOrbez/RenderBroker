@@ -1,13 +1,13 @@
-# Frecuencia Diaria — sábado 21 de noviembre de 2026
+# Frecuencia Diaria — domingo 22 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualiza con el cierre de la cumbre trilateral Trump-Xi-Putin y su "declaración de paz". Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se amplía con la reacción de Zelenski a la cumbre de Shenzhen y las conversaciones en Berlín. Tecnología incorpora el debut en bolsa de Anthropic. Economía y Política no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **Trump, Xi Jinping y Putin cierran en Shenzhen su histórica cumbre trilateral con una «declaración de paz» de cuatro puntos, sin mencionar las guerras de Ucrania e Irán.**
-  Los tres líderes se comprometieron a preservar la estabilidad estratégica mundial, dialogar sobre la reducción de riesgos nucleares, reformar la ONU y garantizar el suministro de petróleo, pero sin medidas vinculantes inmediatas y sin que Estados Unidos publicara aún el documento.
+- **Trump, Xi Jinping y Putin cierran en Shenzhen su histórica cumbre trilateral con una «declaración de paz» de cuatro puntos, sin referencias específicas a la guerra entre Rusia y Ucrania.**
+  Zelenski advirtió que «no se puede decidir sobre Ucrania sin Ucrania», mientras los enviados estadounidenses Jared Kushner y Steve Witkoff lo informaban a él y a sus aliados europeos. Horas después de la cumbre, Alemania, Francia y Reino Unido copresidieron nuevas conversaciones en Berlín sobre el conflicto.
 
 - **Arranca en España la campaña de las elecciones generales del 29 de noviembre, con el PP de Feijóo al frente de la mayoría de encuestas.**
   Sánchez abrió su campaña en Sevilla advirtiendo contra la ultraderecha, mientras Feijóo pidió el cambio con el lema «Lo haremos». Los sondeos privados dan ventaja al PP, cercano junto a Vox a la mayoría absoluta, aunque el CIS oficial sitúa en cabeza al PSOE.
@@ -48,13 +48,13 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - **Coinbase obtiene la aprobación final de un regulador bancario de Estados Unidos para operar como banco fiduciario nacional.**
   La licencia de la Oficina del Contralor de la Moneda no le permite captar depósitos minoristas, prestar ni emitir monedas estables. Circle y Ripple ya habían logrado aprobaciones similares este año, en medio de una demanda de banqueros comunitarios contra el regulador por estas licencias.
 
-- **ASML logra su mejor trimestre histórico, con ventas de 11.700 millones de euros impulsadas por la demanda de chips para inteligencia artificial.**
-  La empresa neerlandesa, clave para fabricar semiconductores avanzados, advirtió que no podrá cubrir toda la demanda de sus clientes ni en 2027 ni en 2028.
+- **Anthropic debuta en el Nasdaq con una de las mayores salidas a bolsa de la historia, valorada en alrededor de un billón de dólares.**
+  La empresa de inteligencia artificial, creadora de Claude, fijó el precio de su oferta pública inicial en 83 dólares por acción, para unos 980 millones de acciones. La cifra quedó muy por debajo de los 2 billones de dólares de valoración que se habían especulado meses atrás.
 
 ## Fuentes
 
 - [La Nación (mundo, claves de la cumbre histórica entre Trump, Xi y Putin)](https://www.lanacion.com.ar/usa/takeaways-from-the-historic-summit-between-trump-xi-and-putin-nid19112026/)
-- [Observador.cr (mundo, China, EE.UU. y Rusia adoptan una declaración de paz)](https://observador.cr/china-ee-uu-y-rusia-adoptan-una-declaracion-de-paz-en-su-primera-cumbre/)
+- [Vozpópuli (mundo, Zelenski carga contra la cumbre por excluir a Ucrania)](https://www.vozpopuli.com/internacional/zelenski-carga-contra-la-cumbre-trump-putin-por-excluir-a-ucrania-en-las-negociaciones-de-paz-no-lograran-nada.html)
 - [Euronews (mundo, arranca la campaña de las generales del 29N en España)](https://es.euronews.com/2026/11/12/arranca-campana-elecciones-generales-29n-espana)
 - [Democrata.es (mundo, promedio de encuestas para las elecciones generales)](https://www.democrata.es/encuestas/elecciones-generales/promedio-encuestas-elecciones-generales-adelanto-electoral-2026/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
@@ -65,16 +65,14 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Voz.us (política, la Cámara frena el intento de Massie)](https://voz.us/es/politica/261111/1000479/la-camara-frena-el-intento-de-thomas-massie-de-destituir-a-hegseth-por-la-guerra-de-iran-y.html)
 - [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
 - [Emol (política, Trump tiene nuevo jefe de gabinete)](https://www.emol.com/noticias/Internacional/2026/11/06/1216380/trump-nuevo-jefe-gabinete-miller.html)
+- [Forbes Argentina (tecnología, Anthropic debuta en el Nasdaq)](https://www.forbesargentina.com/money/anthropic-debuta-nasdaq-us-81340-millones-crecimiento-costos-control-examen-n102906)
+- [InvestingLive (tecnología, precio de la OPI de Anthropic en 83 dólares)](https://investinglive.com/es/acciones/anthropic-confirma-un-precio-de-opi-de-83-para-980-millones-de-acciones-en-una-operacion-de-81-mil-millones/)
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
-- [Forbes Argentina (tecnología, Nvidia duplica ingresos y descarta el regreso de Huang)](https://www.forbesargentina.com/money/nvidia-duplico-sus-ingresos-alcanzo-record-descarto-regreso-jensen-huang-como-ceo-n102768/amp)
-- [DolarHoy (tecnología, Nvidia registra ingresos por USD 115.800 millones)](https://dolarhoy.com/empresas/nvidia-registro-ingresos-por-usd-115-800-millones-y-una-ganancia-neta-record-2026111813190)
-- [American Banker (tecnología, Coinbase obtiene la aprobación final de la OCC)](https://www.americanbanker.com/news/coinbase-gets-final-occ-charter-approval)
-- [iProUP (tecnología, Coinbase National Trust Company)](https://www.iproup.com/economia-digital/73008-coinbase-banco-fiduciario-aprobacion-final-occ-estados-unidos-noviembre-2026)
 - [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
 - [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
 - [CalMatters (política, Newsom conmuta las condenas a muerte)](https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/)
 - [El Nuevo Día / AP (tecnología, Italia multa a Meta por el acceso a fotos de Android)](https://www.elnuevodia.com/noticias/mundo/notas/italia-impone-multa-de-887-millones-a-meta-por-usar-fotos-y-videos-de-android-en-facebook/)
-- [Ecosistema Startup (tecnología, resultados ASML)](https://ecosistemastartup.com/asml-logra-ventas-record-de-e11-700m-por-demanda-de-ia/)
+- [American Banker (tecnología, Coinbase obtiene la aprobación final de la OCC)](https://www.americanbanker.com/news/coinbase-gets-final-occ-charter-approval)
 
 ---
 *Generado automáticamente. Este archivo se sobrescribe cada día con las noticias nuevas — siempre contiene la edición más reciente.*
