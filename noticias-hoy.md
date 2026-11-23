@@ -1,16 +1,16 @@
-# Frecuencia Diaria — domingo 22 de noviembre de 2026
+# Frecuencia Diaria — lunes 23 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se amplía con la reacción de Zelenski a la cumbre de Shenzhen y las conversaciones en Berlín. Tecnología incorpora el debut en bolsa de Anthropic. Economía y Política no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza con la aprobación en España de medidas de vivienda tras la huelga general. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
 - **Trump, Xi Jinping y Putin cierran en Shenzhen su histórica cumbre trilateral con una «declaración de paz» de cuatro puntos, sin referencias específicas a la guerra entre Rusia y Ucrania.**
   Zelenski advirtió que «no se puede decidir sobre Ucrania sin Ucrania», mientras los enviados estadounidenses Jared Kushner y Steve Witkoff lo informaban a él y a sus aliados europeos. Horas después de la cumbre, Alemania, Francia y Reino Unido copresidieron nuevas conversaciones en Berlín sobre el conflicto.
 
-- **Arranca en España la campaña de las elecciones generales del 29 de noviembre, con el PP de Feijóo al frente de la mayoría de encuestas.**
-  Sánchez abrió su campaña en Sevilla advirtiendo contra la ultraderecha, mientras Feijóo pidió el cambio con el lema «Lo haremos». Los sondeos privados dan ventaja al PP, cercano junto a Vox a la mayoría absoluta, aunque el CIS oficial sitúa en cabeza al PSOE.
+- **España aprueba, un día después de la huelga general, medidas que suspenden hasta 2030 los desalojos de personas vulnerables y limitan a los fondos «buitre».**
+  La Diputación Permanente del Congreso convalidó los decretos tras el rechazo previo del Parlamento. El PP, favorito en las encuestas para las elecciones generales del 29 de noviembre, se comprometió a derogarlos si gana, por lo que su vigencia podría depender del resultado electoral.
 
 ## Economía
 
@@ -55,7 +55,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 - [La Nación (mundo, claves de la cumbre histórica entre Trump, Xi y Putin)](https://www.lanacion.com.ar/usa/takeaways-from-the-historic-summit-between-trump-xi-and-putin-nid19112026/)
 - [Vozpópuli (mundo, Zelenski carga contra la cumbre por excluir a Ucrania)](https://www.vozpopuli.com/internacional/zelenski-carga-contra-la-cumbre-trump-putin-por-excluir-a-ucrania-en-las-negociaciones-de-paz-no-lograran-nada.html)
-- [Euronews (mundo, arranca la campaña de las generales del 29N en España)](https://es.euronews.com/2026/11/12/arranca-campana-elecciones-generales-29n-espana)
+- [Al Jazeera (mundo, España aprueba reformas de vivienda tras la huelga general)](https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs)
+- [Bolsamanía (mundo, el Congreso aprueba el decreto de medidas de vivienda)](https://www.bolsamania.com/noticias/economia/congreso-aprueba-decreto-medidas-vivienda-deja-caer-alquiler-indefinido--24146538.html)
 - [Democrata.es (mundo, promedio de encuestas para las elecciones generales)](https://www.democrata.es/encuestas/elecciones-generales/promedio-encuestas-elecciones-generales-adelanto-electoral-2026/)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
@@ -65,12 +66,12 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Voz.us (política, la Cámara frena el intento de Massie)](https://voz.us/es/politica/261111/1000479/la-camara-frena-el-intento-de-thomas-massie-de-destituir-a-hegseth-por-la-guerra-de-iran-y.html)
 - [Univision / AP (política, Trump reemplaza a Wiles con Miller)](https://www.univision.com/noticias/politica/donald-trump-reemplaza-a-susie-wiles-con-stephen-miller-como-jefe-de-gabinete-de-la-casa-blanca-tras-la-derrota-del-partido-republicano)
 - [Emol (política, Trump tiene nuevo jefe de gabinete)](https://www.emol.com/noticias/Internacional/2026/11/06/1216380/trump-nuevo-jefe-gabinete-miller.html)
-- [Forbes Argentina (tecnología, Anthropic debuta en el Nasdaq)](https://www.forbesargentina.com/money/anthropic-debuta-nasdaq-us-81340-millones-crecimiento-costos-control-examen-n102906)
-- [InvestingLive (tecnología, precio de la OPI de Anthropic en 83 dólares)](https://investinglive.com/es/acciones/anthropic-confirma-un-precio-de-opi-de-83-para-980-millones-de-acciones-en-una-operacion-de-81-mil-millones/)
 - [Telemundo / AP (política, demócratas arrebatan el Senado a los republicanos)](https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/los-democratas-arrebatan-el-senado-a-los-republicanos-y-sacuden-el-pod-rcna607372)
 - [Al Jazeera (política, demócratas ganan el Senado)](https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections)
 - [Observador.cr (política, demócratas toman el control total del Congreso)](https://observador.cr/los-democratas-toman-el-control-total-del-congreso-de-ee-uu-muchos-republicanos-culpan-a-trump-por-la-derrota/)
 - [CalMatters (política, Newsom conmuta las condenas a muerte)](https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/)
+- [Forbes Argentina (tecnología, Anthropic debuta en el Nasdaq)](https://www.forbesargentina.com/money/anthropic-debuta-nasdaq-us-81340-millones-crecimiento-costos-control-examen-n102906)
+- [InvestingLive (tecnología, precio de la OPI de Anthropic en 83 dólares)](https://investinglive.com/es/acciones/anthropic-confirma-un-precio-de-opi-de-83-para-980-millones-de-acciones-en-una-operacion-de-81-mil-millones/)
 - [El Nuevo Día / AP (tecnología, Italia multa a Meta por el acceso a fotos de Android)](https://www.elnuevodia.com/noticias/mundo/notas/italia-impone-multa-de-887-millones-a-meta-por-usar-fotos-y-videos-de-android-en-facebook/)
 - [American Banker (tecnología, Coinbase obtiene la aprobación final de la OCC)](https://www.americanbanker.com/news/coinbase-gets-final-occ-charter-approval)
 
