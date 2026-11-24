@@ -1,8 +1,8 @@
-# Frecuencia Diaria — lunes 23 de noviembre de 2026
+# Frecuencia Diaria — martes 24 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualiza con la aprobación en España de medidas de vivienda tras la huelga general. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se amplía con el rechazo de Pedro Sánchez al plan europeo de deportación de migrantes a Ruanda. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
@@ -11,6 +11,9 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 - **España aprueba, un día después de la huelga general, medidas que suspenden hasta 2030 los desalojos de personas vulnerables y limitan a los fondos «buitre».**
   La Diputación Permanente del Congreso convalidó los decretos tras el rechazo previo del Parlamento. El PP, favorito en las encuestas para las elecciones generales del 29 de noviembre, se comprometió a derogarlos si gana, por lo que su vigencia podría depender del resultado electoral.
+
+- **Pedro Sánchez rechaza, en plena campaña electoral, el plan de cinco países europeos para abrir un centro de expulsión de migrantes en Ruanda.**
+  «A eso ya no le veo ni futuro ni humanidad, no es la solución», dijo el presidente del Gobierno en funciones sobre la propuesta de Alemania, Dinamarca, Grecia, Austria y los Países Bajos, que lo deja cada vez más aislado dentro de la Unión Europea en el debate migratorio.
 
 ## Economía
 
@@ -58,6 +61,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 - [Al Jazeera (mundo, España aprueba reformas de vivienda tras la huelga general)](https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs)
 - [Bolsamanía (mundo, el Congreso aprueba el decreto de medidas de vivienda)](https://www.bolsamania.com/noticias/economia/congreso-aprueba-decreto-medidas-vivienda-deja-caer-alquiler-indefinido--24146538.html)
 - [Democrata.es (mundo, promedio de encuestas para las elecciones generales)](https://www.democrata.es/encuestas/elecciones-generales/promedio-encuestas-elecciones-generales-adelanto-electoral-2026/)
+- [Euronews (mundo, Sánchez rechaza el plan de deportación de migrantes a Ruanda)](https://es.euronews.com/2026/11/17/pedro-sanchez-rechaza-plan-deportacion-inmigrantes-ruanda)
+- [RTP (mundo, Sánchez critica el plan europeo de deportar migrantes a Ruanda)](https://www.rtp.pt/noticias/mundo/nao-e-a-solucao-sanchez-critica-plano-europeu-de-deportar-migrantes-para-o-ruanda_n1779632)
 - [Pasquale Pillitteri (economía, FMI y riesgo de burbuja de IA)](https://pasqualepillitteri.it/es/news/24794/burbuja-ia-fmi-avisa-650000-millones-deuda-nasdaq-cae)
 - [Le Grand Continent (economía, venta masiva en Wall Street)](https://legrandcontinent.eu/es/?p=117674)
 - [Articulo14 (economía, agencias de rating alertan del riesgo de bloqueo político)](https://www.articulo14.es/economia/las-agencias-de-rating-alertan-del-riesgo-de-bloqueo-politico-y-freno-a-la-inmigracion-tras-las-elecciones-20261115.html)
