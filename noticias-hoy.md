@@ -1,13 +1,13 @@
-# Frecuencia Diaria — martes 24 de noviembre de 2026
+# Frecuencia Diaria — miércoles 25 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se amplía con el rechazo de Pedro Sánchez al plan europeo de deportación de migrantes a Ruanda. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo se actualiza con las últimas encuestas de las elecciones generales españolas, a cuatro días de la votación, en sustitución de la cumbre de Shenzhen, sin novedades desde hace varios días. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **Trump, Xi Jinping y Putin cierran en Shenzhen su histórica cumbre trilateral con una «declaración de paz» de cuatro puntos, sin referencias específicas a la guerra entre Rusia y Ucrania.**
-  Zelenski advirtió que «no se puede decidir sobre Ucrania sin Ucrania», mientras los enviados estadounidenses Jared Kushner y Steve Witkoff lo informaban a él y a sus aliados europeos. Horas después de la cumbre, Alemania, Francia y Reino Unido copresidieron nuevas conversaciones en Berlín sobre el conflicto.
+- **La ventaja del PP sobre el PSOE se reduce a cuatro días de las elecciones generales del 29 de noviembre en España, aunque el bloque de derechas con Vox mantendría la mayoría absoluta.**
+  El promedio de encuestas sitúa al PP en torno al 31 por ciento y al PSOE cerca del 28 por ciento, con la encuesta de 40dB —la más favorable al PSOE— marcando una diferencia de apenas dos puntos. PP y Vox sumarían unos 192 escaños, por encima de los 176 necesarios para la mayoría absoluta.
 
 - **España aprueba, un día después de la huelga general, medidas que suspenden hasta 2030 los desalojos de personas vulnerables y limitan a los fondos «buitre».**
   La Diputación Permanente del Congreso convalidó los decretos tras el rechazo previo del Parlamento. El PP, favorito en las encuestas para las elecciones generales del 29 de noviembre, se comprometió a derogarlos si gana, por lo que su vigencia podría depender del resultado electoral.
@@ -56,8 +56,8 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
-- [La Nación (mundo, claves de la cumbre histórica entre Trump, Xi y Putin)](https://www.lanacion.com.ar/usa/takeaways-from-the-historic-summit-between-trump-xi-and-putin-nid19112026/)
-- [Vozpópuli (mundo, Zelenski carga contra la cumbre por excluir a Ucrania)](https://www.vozpopuli.com/internacional/zelenski-carga-contra-la-cumbre-trump-putin-por-excluir-a-ucrania-en-las-negociaciones-de-paz-no-lograran-nada.html)
+- [Democrata.es (mundo, encuesta 40dB acorta distancia entre PP y PSOE)](https://www.democrata.es/encuestas/elecciones-generales/encuesta-elecciones-generales-pp-pierde-seis-escanos-psoe-recorta-distancias/)
+- [Democrata.es (mundo, tracking diario Sigma Dos para las elecciones del 29N)](https://www.democrata.es/demodata/tracking-diario-sigma-dos-elecciones-29n/)
 - [Al Jazeera (mundo, España aprueba reformas de vivienda tras la huelga general)](https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs)
 - [Bolsamanía (mundo, el Congreso aprueba el decreto de medidas de vivienda)](https://www.bolsamania.com/noticias/economia/congreso-aprueba-decreto-medidas-vivienda-deja-caer-alquiler-indefinido--24146538.html)
 - [Democrata.es (mundo, promedio de encuestas para las elecciones generales)](https://www.democrata.es/encuestas/elecciones-generales/promedio-encuestas-elecciones-generales-adelanto-electoral-2026/)
