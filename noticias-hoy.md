@@ -1,12 +1,12 @@
-# Frecuencia Diaria — miércoles 25 de noviembre de 2026
+# Frecuencia Diaria — viernes 27 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo se actualiza con las últimas encuestas de las elecciones generales españolas, a cuatro días de la votación, en sustitución de la cumbre de Shenzhen, sin novedades desde hace varios días. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Mundo ajusta la cuenta regresiva de las elecciones españolas, ahora a dos días de la votación. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **La ventaja del PP sobre el PSOE se reduce a cuatro días de las elecciones generales del 29 de noviembre en España, aunque el bloque de derechas con Vox mantendría la mayoría absoluta.**
+- **A dos días de las elecciones generales del 29 de noviembre en España, el PP mantiene la ventaja sobre el PSOE, aunque la distancia se achicó en las últimas semanas.**
   El promedio de encuestas sitúa al PP en torno al 31 por ciento y al PSOE cerca del 28 por ciento, con la encuesta de 40dB —la más favorable al PSOE— marcando una diferencia de apenas dos puntos. PP y Vox sumarían unos 192 escaños, por encima de los 176 necesarios para la mayoría absoluta.
 
 - **España aprueba, un día después de la huelga general, medidas que suspenden hasta 2030 los desalojos de personas vulnerables y limitan a los fondos «buitre».**
