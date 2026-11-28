@@ -1,13 +1,13 @@
-# Frecuencia Diaria — viernes 27 de noviembre de 2026
+# Frecuencia Diaria — sábado 28 de noviembre de 2026
 
 Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
-*Nota: Mundo ajusta la cuenta regresiva de las elecciones españolas, ahora a dos días de la votación. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
+*Nota: Hoy es la jornada de reflexión en España, el día de calma antes de las elecciones generales del domingo 29 de noviembre, así que la nota de Mundo sobre el proceso electoral se actualizó para reflejarlo. Economía, Política y Tecnología no tuvieron cobertura nueva verificable hoy, así que mantienen el contenido de la última edición confirmada.*
 
 ## Mundo
 
-- **A dos días de las elecciones generales del 29 de noviembre en España, el PP mantiene la ventaja sobre el PSOE, aunque la distancia se achicó en las últimas semanas.**
-  El promedio de encuestas sitúa al PP en torno al 31 por ciento y al PSOE cerca del 28 por ciento, con la encuesta de 40dB —la más favorable al PSOE— marcando una diferencia de apenas dos puntos. PP y Vox sumarían unos 192 escaños, por encima de los 176 necesarios para la mayoría absoluta.
+- **España vive la jornada de reflexión, el último día de calma antes de las elecciones generales del domingo 29 de noviembre.**
+  La campaña terminó a la medianoche del viernes y los partidos ya no pueden pedir el voto ni hacer actos públicos hasta que se abran los colegios electorales. El último promedio de encuestas permitido por ley, publicado antes del cierre el 23 de noviembre, daba al PP un 31 por ciento frente al 27,7 por ciento del PSOE, una diferencia dentro del margen de error, con Vox en torno al 19 por ciento.
 
 - **España aprueba, un día después de la huelga general, medidas que suspenden hasta 2030 los desalojos de personas vulnerables y limitan a los fondos «buitre».**
   La Diputación Permanente del Congreso convalidó los decretos tras el rechazo previo del Parlamento. El PP, favorito en las encuestas para las elecciones generales del 29 de noviembre, se comprometió a derogarlos si gana, por lo que su vigencia podría depender del resultado electoral.
@@ -56,6 +56,7 @@ Resumen diario de noticias: Mundo, Economía, Política y Tecnología.
 
 ## Fuentes
 
+- [Articulo14 (mundo, calendario electoral del 29N: jornada de reflexión y votación)](https://www.articulo14.es/politica/calendario-electoral-del-29n-fechas-clave-de-la-campana-jornada-de-reflexion-y-votacion-20261117.html)
 - [Democrata.es (mundo, encuesta 40dB acorta distancia entre PP y PSOE)](https://www.democrata.es/encuestas/elecciones-generales/encuesta-elecciones-generales-pp-pierde-seis-escanos-psoe-recorta-distancias/)
 - [Democrata.es (mundo, tracking diario Sigma Dos para las elecciones del 29N)](https://www.democrata.es/demodata/tracking-diario-sigma-dos-elecciones-29n/)
 - [Al Jazeera (mundo, España aprueba reformas de vivienda tras la huelga general)](https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs)
